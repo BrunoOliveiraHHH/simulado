@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que todas as palavras estão grafadas corretamente.",
+    "options": [
+      "excessão, previlégio, beneficente",
+      "exceção, previlégio, beneficiente",
+      "exceção, privilégio, beneficente",
+      "excessão, privilégio, beneficiente"
+    ]
+  },
+  {
+    "id": 2,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que o uso do sinal indicativo de crase está correto.",
+    "options": [
+      "Compareceu à reunião da equipe de enfermagem.",
+      "Refiro-me à Vossa Senhoria.",
+      "Cheguei à pé ao hospital.",
+      "Entreguei o prontuário à ele."
+    ]
+  },
+  {
+    "id": 3,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que a concordância verbal está correta.",
+    "options": [
+      "Existe muitos pacientes na fila.",
+      "Houveram falhas no registro.",
+      "Fazem dois anos da capacitação.",
+      "Devem existir protocolos claros na unidade."
+    ]
+  },
+  {
+    "id": 4,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que a regência está conforme a norma-padrão.",
+    "options": [
+      "O paciente que me refiro recebeu alta.",
+      "O paciente a que me refiro recebeu alta.",
+      "Prefiro atender do que registrar.",
+      "Cheguei na enfermaria cedo."
+    ]
+  },
+  {
+    "id": 5,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Na frase 'o cuidado foi prestado rapidamente', a palavra 'rapidamente' classifica-se como:",
+    "options": [
+      "adjetivo",
+      "advérbio",
+      "substantivo",
+      "verbo"
+    ]
+  },
+  {
+    "id": 6,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa que completa corretamente: 'O paciente passou ___ a noite.'",
+    "options": [
+      "mau",
+      "mais",
+      "más",
+      "mal"
+    ]
+  },
+  {
+    "id": 7,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "No contexto 'doença infectocontagiosa', o termo indica algo que:",
+    "options": [
+      "pode ser transmitido de um indivíduo a outro",
+      "não se transmite",
+      "já está curado",
+      "confere imunidade permanente"
+    ]
+  },
+  {
+    "id": 8,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale o conectivo que estabelece relação de conclusão: 'A ferida estava limpa; ___, foi feito o curativo.'",
+    "options": [
+      "embora",
+      "porque",
+      "portanto",
+      "caso"
+    ]
+  },
+  {
+    "id": 9,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa correta quanto à concordância nominal.",
+    "options": [
+      "É necessária muita atenção na administração de medicamentos.",
+      "Seguem anexo as prescrições.",
+      "Ela ficou meia cansada no plantão.",
+      "Há bastante risco; são pouco controlado."
+    ]
+  },
+  {
+    "id": 10,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a oração na voz passiva.",
+    "options": [
+      "A enfermeira administrou o medicamento.",
+      "Administrou-se o medicamento.",
+      "O medicamento foi administrado pela enfermeira.",
+      "A enfermeira se administrou."
+    ]
+  },
+  {
+    "id": 11,
+    "area": "Noções de Informática",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O Windows é um exemplo de:",
+    "options": [
+      "editor de texto",
+      "sistema operacional",
+      "navegador de internet",
+      "programa antivírus"
+    ]
+  },
+  {
+    "id": 12,
+    "area": "Noções de Informática",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "No Microsoft Excel, o sinal de igual (=) no início de uma célula indica:",
+    "options": [
+      "um texto fixo",
+      "uma data",
+      "um comentário",
+      "o início de uma fórmula"
+    ]
+  },
+  {
+    "id": 13,
+    "area": "Noções de Informática",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A cópia de segurança dos dados é denominada:",
+    "options": [
+      "spam",
+      "cookie",
+      "phishing",
+      "backup"
+    ]
+  },
+  {
+    "id": 14,
+    "area": "Noções de Informática",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O atalho Ctrl+C, na maioria dos programas, serve para:",
+    "options": [
+      "colar",
+      "copiar",
+      "recortar",
+      "salvar"
+    ]
+  },
+  {
+    "id": 15,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Campina Grande fica no estado da:",
+    "options": [
+      "Pernambuco",
+      "Ceará",
+      "Paraíba",
+      "Bahia"
+    ]
+  },
+  {
+    "id": 16,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Campina Grande é apelidada de:",
+    "options": [
+      "Rainha da Borborema",
+      "Cidade Maravilhosa",
+      "Princesa do Sul",
+      "Cidade Luz"
+    ]
+  },
+  {
+    "id": 17,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O 'Maior São João do Mundo' ocorre, em Campina Grande, no mês de:",
+    "options": [
+      "dezembro",
+      "junho",
+      "março",
+      "setembro"
+    ]
+  },
+  {
+    "id": 18,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Os princípios expressos da Administração Pública (art. 37 da CF) são:",
+    "options": [
+      "legalidade, impessoalidade, moralidade, publicidade e eficiência",
+      "legalidade, oralidade, economicidade, publicidade e celeridade",
+      "moralidade, anterioridade, isonomia, eficiência e legalidade",
+      "impessoalidade, presunção, publicidade, eficiência e oralidade"
+    ]
+  },
+  {
+    "id": 19,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Conforme a LAI (Lei nº 12.527/2011), o acesso à informação pública é:",
+    "options": [
+      "sigiloso, sendo a publicidade a exceção",
+      "restrito a servidores",
+      "a regra, e o sigilo, a exceção",
+      "permitido apenas mediante pagamento"
+    ]
+  },
+  {
+    "id": 20,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Segundo a LGPD, 'dado pessoal' é:",
+    "options": [
+      "apenas dados bancários",
+      "informação de pessoas jurídicas",
+      "dados já tornados públicos",
+      "qualquer informação relacionada a pessoa natural identificada ou identificável"
+    ]
+  },
+  {
+    "id": 21,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O exercício profissional da enfermagem é regulamentado pela:",
+    "options": [
+      "Lei nº 8.080/1990",
+      "Lei nº 8.142/1990",
+      "Lei nº 7.498/1986",
+      "Lei nº 6.830/1980"
+    ]
+  },
+  {
+    "id": 22,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "O conselho de âmbito federal que normatiza o exercício da enfermagem é o:",
+    "options": [
+      "COREN",
+      "CRM",
+      "CRESS",
+      "COFEN"
+    ]
+  },
+  {
+    "id": 23,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A consulta de enfermagem é atividade:",
+    "options": [
+      "do técnico de enfermagem",
+      "privativa do enfermeiro",
+      "do auxiliar de enfermagem",
+      "de qualquer profissional de saúde"
+    ]
+  },
+  {
+    "id": 24,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O Processo de Enfermagem (SAE) é composto por quantas etapas?",
+    "options": [
+      "cinco",
+      "três",
+      "sete",
+      "duas"
+    ]
+  },
+  {
+    "id": 25,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A etapa do Processo de Enfermagem que se segue à coleta de dados é o(a):",
+    "options": [
+      "diagnóstico de enfermagem",
+      "alta hospitalar",
+      "prescrição médica",
+      "triagem administrativa"
+    ]
+  },
+  {
+    "id": 26,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "São princípios doutrinários do SUS:",
+    "options": [
+      "hierarquização, lucro e seletividade",
+      "universalidade, integralidade e equidade",
+      "centralização e exclusividade",
+      "privatização e terceirização"
+    ]
+  },
+  {
+    "id": 27,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A lei orgânica que dispõe sobre a organização e o funcionamento do SUS é a:",
+    "options": [
+      "Lei nº 8.142/1990",
+      "Lei nº 7.498/1986",
+      "Lei nº 6.437/1977",
+      "Lei nº 8.080/1990"
+    ]
+  },
+  {
+    "id": 28,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A participação da comunidade no SUS (conselhos e conferências) é disciplinada pela:",
+    "options": [
+      "Lei nº 8.080/1990",
+      "Lei nº 7.498/1986",
+      "Lei nº 8.142/1990",
+      "Decreto nº 7.508/2011"
+    ]
+  },
+  {
+    "id": 29,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O Conselho de Saúde tem caráter:",
+    "options": [
+      "apenas consultivo",
+      "exclusivamente técnico",
+      "temporário",
+      "deliberativo e de composição paritária"
+    ]
+  },
+  {
+    "id": 30,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A medida isolada mais eficaz para prevenir infecções relacionadas à assistência à saúde é a:",
+    "options": [
+      "antibioticoterapia profilática",
+      "restrição de visitas",
+      "higienização das mãos",
+      "uso permanente de máscara N95"
+    ]
+  },
+  {
+    "id": 31,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A frequência cardíaca normal de um adulto em repouso é de:",
+    "options": [
+      "60 a 100 batimentos por minuto",
+      "100 a 140 bpm",
+      "20 a 40 bpm",
+      "40 a 55 bpm"
+    ]
+  },
+  {
+    "id": 32,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A frequência respiratória normal de um adulto é de:",
+    "options": [
+      "30 a 40 irpm",
+      "12 a 20 incursões por minuto",
+      "4 a 8 irpm",
+      "25 a 35 irpm"
+    ]
+  },
+  {
+    "id": 33,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Na RCP do adulto realizada por um socorrista, a relação compressão-ventilação é de:",
+    "options": [
+      "15 para 2",
+      "30 compressões para 2 ventilações",
+      "5 para 1",
+      "10 para 2"
+    ]
+  },
+  {
+    "id": 34,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A sigla DEA, usada na parada cardiorrespiratória, refere-se ao:",
+    "options": [
+      "desfibrilador externo automático",
+      "dispositivo de eletrocardiograma ambulatorial",
+      "detector de equilíbrio arterial",
+      "dreno de aspiração esofágica"
+    ]
+  },
+  {
+    "id": 35,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O método de esterilização mais utilizado para materiais termorresistentes em serviços de saúde é a:",
+    "options": [
+      "fervura simples",
+      "exposição ao sol",
+      "desinfecção com álcool a 70%",
+      "autoclave (vapor saturado sob pressão)"
+    ]
+  },
+  {
+    "id": 36,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Conforme a RDC ANVISA nº 222/2018, agulhas e lâminas devem ser descartadas em recipiente do:",
+    "options": [
+      "grupo D (resíduo comum)",
+      "grupo A (biológico)",
+      "grupo E (perfurocortantes)",
+      "grupo C (radioativo)"
+    ]
+  },
+  {
+    "id": 37,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A norma regulamentadora que trata da segurança e saúde no trabalho em serviços de saúde é a:",
+    "options": [
+      "NR-15",
+      "NR-6",
+      "NR-32",
+      "NR-35"
+    ]
+  },
+  {
+    "id": 38,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Recomenda-se o aleitamento materno exclusivo:",
+    "options": [
+      "até os 2 meses",
+      "até os 6 meses de idade",
+      "até os 12 meses",
+      "até os 24 meses"
+    ]
+  },
+  {
+    "id": 39,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A vacina BCG é administrada, em regra, por via:",
+    "options": [
+      "intradérmica",
+      "intramuscular",
+      "endovenosa",
+      "subcutânea profunda"
+    ]
+  },
+  {
+    "id": 40,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "O músculo vasto lateral da coxa e o deltoide são locais utilizados para administração por via:",
+    "options": [
+      "endovenosa",
+      "intradérmica",
+      "oral",
+      "intramuscular"
+    ]
+  }
+]

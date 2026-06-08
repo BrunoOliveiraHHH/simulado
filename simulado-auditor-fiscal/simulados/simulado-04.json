@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que todas as palavras estão grafadas corretamente.",
+    "options": [
+      "análise, paralisar, pesquisar",
+      "análize, paralizar, pesquizar",
+      "análise, paraliszar, pesquisar",
+      "análize, paralisar, pesquizar"
+    ]
+  },
+  {
+    "id": 2,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que o uso (ou a ausência) do sinal indicativo de crase está correto.",
+    "options": [
+      "Dirijo-me à Vossa Excelência neste ato.",
+      "Fiz alusão à norma tributária vigente.",
+      "Estou à procurar uma solução para o caso.",
+      "O fiscal chegou à cavalo à propriedade rural."
+    ]
+  },
+  {
+    "id": 3,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que a concordância verbal está de acordo com a norma-padrão.",
+    "options": [
+      "Houve muitos recursos contra o lançamento.",
+      "Houveram muitos recursos contra o lançamento.",
+      "Existe normas claras sobre a fiscalização.",
+      "Fazem três anos da última fiscalização."
+    ]
+  },
+  {
+    "id": 4,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que a regência verbal está conforme a norma-padrão.",
+    "options": [
+      "Prefiro mais estudar a trabalhar.",
+      "Assisti ao julgamento do recurso administrativo.",
+      "Viso o cargo de Auditor Fiscal.",
+      "Lembro de você sempre que leio o edital."
+    ]
+  },
+  {
+    "id": 5,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Na frase \"Ele agiu rapidamente\", a palavra \"rapidamente\" classifica-se como:",
+    "options": [
+      "adjetivo",
+      "advérbio",
+      "substantivo",
+      "numeral"
+    ]
+  },
+  {
+    "id": 6,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa que apresenta corretamente o plural de \"cidadão\".",
+    "options": [
+      "cidadões",
+      "cidadães",
+      "cidadãos",
+      "cidadans"
+    ]
+  },
+  {
+    "id": 7,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "No contexto \"o auditor foi imparcial no julgamento\", a palavra \"imparcial\" significa aquele que:",
+    "options": [
+      "toma partido de uma das partes",
+      "julga sem favorecer ninguém",
+      "age de forma injusta",
+      "decide por interesse próprio"
+    ]
+  },
+  {
+    "id": 8,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale o conectivo que, ao preencher a lacuna, estabelece relação de concessão: \"O contribuinte pagou o tributo, ___ discordasse da cobrança.\"",
+    "options": [
+      "porque",
+      "embora",
+      "portanto",
+      "assim que"
+    ]
+  },
+  {
+    "id": 9,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa corretamente pontuada.",
+    "options": [
+      "Estudei muito; logo, fui aprovado no concurso.",
+      "Estudei muito logo fui aprovado no concurso.",
+      "Estudei, muito logo fui aprovado no concurso.",
+      "Estudei muito; logo fui, aprovado no concurso."
+    ]
+  },
+  {
+    "id": 10,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A oração \"Aprovou-se a lei tributária\" está na voz:",
+    "options": [
+      "ativa",
+      "passiva sintética (pronominal)",
+      "reflexiva",
+      "ativa de ação contínua"
+    ]
+  },
+  {
+    "id": 11,
+    "area": "Noções de Informática",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "No Microsoft Excel, qual função calcula a média aritmética de um intervalo de células?",
+    "options": [
+      "=SOMA",
+      "=MÉDIA",
+      "=MÁXIMO",
+      "=CONT.NÚM"
+    ]
+  },
+  {
+    "id": 12,
+    "area": "Noções de Informática",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "No Windows, qual é o atalho de teclado utilizado para colar um conteúdo da área de transferência?",
+    "options": [
+      "Ctrl + V",
+      "Ctrl + X",
+      "Ctrl + C",
+      "Ctrl + B"
+    ]
+  },
+  {
+    "id": 13,
+    "area": "Noções de Informática",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O tipo de praga digital que se replica e se propaga automaticamente por redes, sem necessidade de hospedeiro, é o:",
+    "options": [
+      "worm (verme)",
+      "cookie",
+      "driver",
+      "plugin"
+    ]
+  },
+  {
+    "id": 14,
+    "area": "Noções de Informática",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A computação em nuvem (cloud computing) caracteriza-se por:",
+    "options": [
+      "armazenar dados apenas no disco rígido local",
+      "disponibilizar recursos e armazenamento por meio da internet",
+      "dispensar qualquer conexão de rede",
+      "ser exclusiva de servidores físicos do próprio usuário"
+    ]
+  },
+  {
+    "id": 15,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Campina Grande é popularmente apelidada de:",
+    "options": [
+      "Rainha da Borborema",
+      "Cidade Sorriso",
+      "Capital do Sol",
+      "Cidade Luz"
+    ]
+  },
+  {
+    "id": 16,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Importante cartão-postal e reservatório de água situado na área central de Campina Grande é o:",
+    "options": [
+      "Açude Velho",
+      "Lago Paranoá",
+      "Represa de Furnas",
+      "Açude do Cedro"
+    ]
+  },
+  {
+    "id": 17,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Além da UFCG, outra universidade pública com forte atuação em Campina Grande é a:",
+    "options": [
+      "Universidade Estadual da Paraíba (UEPB)",
+      "Universidade de São Paulo (USP)",
+      "Universidade Federal de Minas Gerais (UFMG)",
+      "Pontifícia Universidade Católica do Rio (PUC-Rio)"
+    ]
+  },
+  {
+    "id": 18,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Tratar todos os administrados sem discriminação e sem favorecimentos pessoais é exigência do princípio da:",
+    "options": [
+      "impessoalidade",
+      "publicidade",
+      "eficiência",
+      "legalidade"
+    ]
+  },
+  {
+    "id": 19,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A conduta do servidor pautada pela honestidade, boa-fé e probidade relaciona-se diretamente ao princípio da:",
+    "options": [
+      "moralidade",
+      "anterioridade",
+      "celeridade",
+      "onerosidade"
+    ]
+  },
+  {
+    "id": 20,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Segundo a LGPD, uma das hipóteses que autorizam o tratamento de dados pessoais é:",
+    "options": [
+      "o consentimento fornecido pelo titular dos dados",
+      "a ordem meramente verbal do gestor",
+      "o interesse comercial irrestrito da empresa",
+      "a garantia de anonimato obrigatório do controlador"
+    ]
+  },
+  {
+    "id": 21,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "No Direito Tributário, o sujeito ativo da obrigação tributária é:",
+    "options": [
+      "o contribuinte que pratica o fato gerador",
+      "a pessoa jurídica de direito público titular da competência para exigir o cumprimento da obrigação",
+      "o responsável tributário indicado em lei",
+      "o consumidor final do serviço"
+    ]
+  },
+  {
+    "id": 22,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O sujeito passivo da obrigação principal que tem relação pessoal e direta com a situação que constitui o fato gerador é o:",
+    "options": [
+      "responsável",
+      "contribuinte",
+      "substituto legal",
+      "agente fiscal"
+    ]
+  },
+  {
+    "id": 23,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A obrigação tributária acessória tem por objeto:",
+    "options": [
+      "o pagamento do tributo devido",
+      "prestações, positivas ou negativas, no interesse da arrecadação ou da fiscalização (deveres instrumentais)",
+      "a aplicação de multa isolada",
+      "a restituição de tributo pago indevidamente"
+    ]
+  },
+  {
+    "id": 24,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O descumprimento de obrigação tributária acessória converte-se em obrigação principal relativamente à:",
+    "options": [
+      "atualização monetária do tributo",
+      "penalidade pecuniária",
+      "isenção concedida",
+      "imunidade reconhecida"
+    ]
+  },
+  {
+    "id": 25,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O documento que atesta a inexistência de débitos tributários do contribuinte é a certidão:",
+    "options": [
+      "negativa de débitos",
+      "de dívida ativa",
+      "de protesto de títulos",
+      "de inteiro teor"
+    ]
+  },
+  {
+    "id": 26,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A certidão expedida quando há crédito não vencido, em curso de cobrança executiva com penhora efetivada ou com exigibilidade suspensa, é a certidão:",
+    "options": [
+      "negativa de débitos",
+      "positiva com efeitos de negativa",
+      "de protesto",
+      "de regularidade cadastral"
+    ]
+  },
+  {
+    "id": 27,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A equação fundamental do patrimônio, na Contabilidade, é: Ativo = Passivo +",
+    "options": [
+      "Receita",
+      "Patrimônio Líquido",
+      "Despesa",
+      "Custo"
+    ]
+  },
+  {
+    "id": 28,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Os bens e direitos de uma entidade são representados, no Balanço Patrimonial, pelas contas do:",
+    "options": [
+      "passivo",
+      "ativo",
+      "patrimônio líquido negativo",
+      "resultado do exercício"
+    ]
+  },
+  {
+    "id": 29,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A demonstração contábil que apura o resultado (lucro ou prejuízo) do período é a:",
+    "options": [
+      "Balanço Patrimonial",
+      "Demonstração do Resultado do Exercício (DRE)",
+      "Demonstração dos Fluxos de Caixa (DFC)",
+      "Demonstração das Mutações do Patrimônio Líquido"
+    ]
+  },
+  {
+    "id": 30,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O regime contábil em que as receitas e despesas são reconhecidas no período a que competem, independentemente do recebimento ou pagamento, é o regime de:",
+    "options": [
+      "caixa",
+      "competência",
+      "misto",
+      "provisão"
+    ]
+  },
+  {
+    "id": 31,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Os custos que não variam com o volume de produção, dentro de determinada faixa de atividade, são denominados custos:",
+    "options": [
+      "variáveis",
+      "fixos",
+      "diretos por natureza",
+      "marginais"
+    ]
+  },
+  {
+    "id": 32,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A margem de contribuição é obtida pela diferença entre:",
+    "options": [
+      "a receita e o custo fixo total",
+      "o preço de venda e os custos e despesas variáveis",
+      "o lucro e o prejuízo do período",
+      "o ativo e o passivo da entidade"
+    ]
+  },
+  {
+    "id": 33,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O conjunto de elementos que permite ao auditor fundamentar sua opinião constitui as:",
+    "options": [
+      "evidências de auditoria",
+      "demonstrações financeiras",
+      "notas explicativas",
+      "provisões contábeis"
+    ]
+  },
+  {
+    "id": 34,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O exame por amostragem em auditoria é utilizado quando:",
+    "options": [
+      "é inviável examinar a totalidade das transações",
+      "há fraude já comprovada",
+      "o cliente exige expressamente",
+      "inexistem controles internos no órgão"
+    ]
+  },
+  {
+    "id": 35,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A separação entre o patrimônio dos sócios e o da sociedade pode ser afastada, em casos de abuso, pela:",
+    "options": [
+      "desconsideração da personalidade jurídica",
+      "recuperação judicial da empresa",
+      "decretação automática de falência",
+      "dissolução parcial da sociedade"
+    ]
+  },
+  {
+    "id": 36,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "As microempresas e empresas de pequeno porte podem optar por regime tributário unificado e simplificado denominado:",
+    "options": [
+      "Lucro Real",
+      "Simples Nacional",
+      "Lucro Presumido",
+      "Lucro Arbitrado"
+    ]
+  },
+  {
+    "id": 37,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A análise SWOT avalia forças, fraquezas, oportunidades e:",
+    "options": [
+      "ameaças",
+      "custos",
+      "receitas",
+      "prazos"
+    ]
+  },
+  {
+    "id": 38,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A ferramenta de gestão 5W2H é utilizada principalmente para:",
+    "options": [
+      "calcular a carga tributária de uma empresa",
+      "elaborar e estruturar planos de ação",
+      "auditar demonstrações contábeis",
+      "efetuar o lançamento de tributos"
+    ]
+  },
+  {
+    "id": 39,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Em estatística, a medida de tendência central que corresponde ao valor mais frequente de um conjunto de dados é a:",
+    "options": [
+      "média",
+      "mediana",
+      "moda",
+      "variância"
+    ]
+  },
+  {
+    "id": 40,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A medida estatística que indica o grau de dispersão dos dados em torno da média é o(a):",
+    "options": [
+      "moda",
+      "desvio-padrão",
+      "mediana",
+      "valor mínimo"
+    ]
+  }
+]

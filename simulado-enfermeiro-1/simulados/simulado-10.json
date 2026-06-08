@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que todas as palavras estão grafadas corretamente.",
+    "options": [
+      "exceção, privilégio, beneficente",
+      "excessão, privilégio, beneficente",
+      "exceção, previlégio, beneficente",
+      "excessão, previlégio, beneficiente"
+    ]
+  },
+  {
+    "id": 2,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que o uso do sinal indicativo de crase está correto.",
+    "options": [
+      "Refiro-me à Vossa Senhoria.",
+      "A equipe atende à população do bairro.",
+      "Fui à pé ao posto.",
+      "Entreguei a ficha à ele."
+    ]
+  },
+  {
+    "id": 3,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que a concordância verbal está correta.",
+    "options": [
+      "Existe leitos suficientes.",
+      "Houveram problemas no sistema.",
+      "Devem existir leitos suficientes.",
+      "Fazem meses que aguardo."
+    ]
+  },
+  {
+    "id": 4,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que a regência está conforme a norma-padrão.",
+    "options": [
+      "A paciente que me refiro teve alta.",
+      "Cheguei na ala cedo.",
+      "Prefiro cuidar do que registrar.",
+      "A paciente a que me refiro teve alta."
+    ]
+  },
+  {
+    "id": 5,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Na expressão 'o cuidado integral', a palavra 'integral' classifica-se como:",
+    "options": [
+      "advérbio",
+      "substantivo",
+      "verbo",
+      "adjetivo"
+    ]
+  },
+  {
+    "id": 6,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale o uso correto de 'a/há'.",
+    "options": [
+      "Há uma semana o paciente faz fisioterapia.",
+      "A uma semana o paciente faz fisioterapia.",
+      "Daqui há um mês haverá campanha.",
+      "Cheguei a pouco tempo ao plantão."
+    ]
+  },
+  {
+    "id": 7,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "No contexto 'parada iminente', a palavra 'iminente' significa:",
+    "options": [
+      "que já ocorreu",
+      "que está prestes a ocorrer",
+      "improvável",
+      "permanente"
+    ]
+  },
+  {
+    "id": 8,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale o conectivo de conclusão: 'O quadro estabilizou; ___, recebeu alta.'",
+    "options": [
+      "embora",
+      "porque",
+      "portanto",
+      "caso"
+    ]
+  },
+  {
+    "id": 9,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa correta quanto à concordância nominal.",
+    "options": [
+      "Os anexo do prontuário foram conferidos.",
+      "Segue anexo as evoluções.",
+      "Os anexos do prontuário foram conferidos.",
+      "Ela está meio nervosa e eles meios cansados."
+    ]
+  },
+  {
+    "id": 10,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a oração na voz passiva.",
+    "options": [
+      "A enfermeira limpou a ferida.",
+      "A ferida foi limpa pela enfermeira.",
+      "Limpou-se a ferida.",
+      "A enfermeira se limpou."
+    ]
+  },
+  {
+    "id": 11,
+    "area": "Noções de Informática",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Windows e Linux são exemplos de:",
+    "options": [
+      "editores de texto",
+      "navegadores de internet",
+      "programas antivírus",
+      "sistemas operacionais"
+    ]
+  },
+  {
+    "id": 12,
+    "area": "Noções de Informática",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O atalho Ctrl+C, na maioria dos programas, serve para:",
+    "options": [
+      "copiar",
+      "colar",
+      "recortar",
+      "salvar"
+    ]
+  },
+  {
+    "id": 13,
+    "area": "Noções de Informática",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Constitui boa prática de segurança da informação:",
+    "options": [
+      "usar a mesma senha em tudo",
+      "criar senha com o próprio nome",
+      "compartilhar a senha com colegas",
+      "usar senhas fortes e distintas para cada serviço"
+    ]
+  },
+  {
+    "id": 14,
+    "area": "Noções de Informática",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Transferir um arquivo da internet para o computador é fazer:",
+    "options": [
+      "download",
+      "upload",
+      "backup",
+      "upgrade"
+    ]
+  },
+  {
+    "id": 15,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Campina Grande pertence ao estado da:",
+    "options": [
+      "Bahia",
+      "Ceará",
+      "Paraíba",
+      "Pernambuco"
+    ]
+  },
+  {
+    "id": 16,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Campina Grande é apelidada de:",
+    "options": [
+      "Cidade Maravilhosa",
+      "Rainha da Borborema",
+      "Princesa do Mar",
+      "Capital Federal"
+    ]
+  },
+  {
+    "id": 17,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O 'Maior São João do Mundo' ocorre, em Campina Grande, no mês de:",
+    "options": [
+      "janeiro",
+      "junho",
+      "julho",
+      "setembro"
+    ]
+  },
+  {
+    "id": 18,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Atender sem discriminação nem favorecimentos pessoais é exigência do princípio da:",
+    "options": [
+      "autonomia",
+      "conveniência",
+      "impessoalidade",
+      "oportunidade"
+    ]
+  },
+  {
+    "id": 19,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Divulgar informações de interesse coletivo independentemente de pedido caracteriza a:",
+    "options": [
+      "transparência ativa",
+      "transparência passiva",
+      "classificação de sigilo",
+      "censura prévia"
+    ]
+  },
+  {
+    "id": 20,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O órgão de fiscalização da LGPD é a:",
+    "options": [
+      "Receita Federal",
+      "TCU",
+      "CGU",
+      "ANPD"
+    ]
+  },
+  {
+    "id": 21,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O profissional de nível médio que atua sob supervisão do enfermeiro em atividades de maior complexidade é o:",
+    "options": [
+      "técnico de enfermagem",
+      "agente comunitário de saúde",
+      "auxiliar administrativo",
+      "cuidador leigo"
+    ]
+  },
+  {
+    "id": 22,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Após a coleta de dados, seguem-se as etapas do Processo de Enfermagem:",
+    "options": [
+      "alta, cobrança e arquivo",
+      "cirurgia e recuperação",
+      "exame, laudo e prescrição médica",
+      "diagnóstico, planejamento, implementação e avaliação"
+    ]
+  },
+  {
+    "id": 23,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "São princípios doutrinários do SUS:",
+    "options": [
+      "lucro, seletividade e exclusividade",
+      "universalidade, integralidade e equidade",
+      "centralização e privatização",
+      "hierarquização e terceirização"
+    ]
+  },
+  {
+    "id": 24,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A lei orgânica que organiza o funcionamento do SUS é a:",
+    "options": [
+      "Lei nº 8.142/1990",
+      "Lei nº 7.498/1986",
+      "Lei nº 8.080/1990",
+      "Lei nº 6.437/1977"
+    ]
+  },
+  {
+    "id": 25,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A lei que trata da participação da comunidade e das transferências de recursos no SUS é a:",
+    "options": [
+      "Lei nº 8.080/1990",
+      "Lei nº 8.142/1990",
+      "Decreto nº 7.508/2011",
+      "Lei nº 7.498/1986"
+    ]
+  },
+  {
+    "id": 26,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O nível de atenção que coordena o cuidado e é porta de entrada preferencial no SUS é a:",
+    "options": [
+      "alta complexidade",
+      "urgência terciária",
+      "auditoria",
+      "atenção primária (ESF)"
+    ]
+  },
+  {
+    "id": 27,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A medida mais simples e eficaz contra as infecções relacionadas à assistência à saúde é a:",
+    "options": [
+      "antibioticoterapia",
+      "restrição de visitas",
+      "higienização das mãos",
+      "jejum"
+    ]
+  },
+  {
+    "id": 28,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "As medidas aplicáveis a TODOS os pacientes, independentemente do diagnóstico, são as:",
+    "options": [
+      "precauções padrão",
+      "precaução por contato apenas",
+      "precaução por aerossóis apenas",
+      "isolamento reverso sempre"
+    ]
+  },
+  {
+    "id": 29,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A vacina BCG é aplicada por via:",
+    "options": [
+      "intradérmica",
+      "intramuscular",
+      "subcutânea",
+      "endovenosa"
+    ]
+  },
+  {
+    "id": 30,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A heparina e a insulina são aplicadas, em regra, por via:",
+    "options": [
+      "intramuscular profunda",
+      "endovenosa",
+      "subcutânea",
+      "intradérmica"
+    ]
+  },
+  {
+    "id": 31,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A via de efeito mais imediato, por levar o fármaco diretamente à circulação, é a:",
+    "options": [
+      "oral",
+      "subcutânea",
+      "intradérmica",
+      "endovenosa"
+    ]
+  },
+  {
+    "id": 32,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A frequência cardíaca normal de um adulto em repouso é de:",
+    "options": [
+      "100 a 140 bpm",
+      "60 a 100 bpm",
+      "20 a 40 bpm",
+      "40 a 55 bpm"
+    ]
+  },
+  {
+    "id": 33,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A temperatura axilar considerada normal no adulto é de cerca de:",
+    "options": [
+      "33 a 34°C",
+      "38 a 39°C",
+      "40 a 41°C",
+      "36 a 37,5°C"
+    ]
+  },
+  {
+    "id": 34,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A esterilização por vapor saturado sob pressão é realizada na:",
+    "options": [
+      "estufa caseira",
+      "autoclave",
+      "geladeira",
+      "capela química"
+    ]
+  },
+  {
+    "id": 35,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O gerenciamento dos resíduos de serviços de saúde é regido pela:",
+    "options": [
+      "RDC ANVISA nº 222/2018",
+      "NR-6",
+      "Lei nº 8.142/1990",
+      "Portaria nº 2.436/2017"
+    ]
+  },
+  {
+    "id": 36,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Os resíduos perfurocortantes pertencem ao:",
+    "options": [
+      "grupo A",
+      "grupo B",
+      "grupo E",
+      "grupo D"
+    ]
+  },
+  {
+    "id": 37,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A avaliação da vitalidade do recém-nascido ao nascer é feita pelo índice de:",
+    "options": [
+      "Glasgow",
+      "Braden",
+      "Apgar",
+      "Snellen"
+    ]
+  },
+  {
+    "id": 38,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Recomenda-se o aleitamento materno exclusivo:",
+    "options": [
+      "até os 6 meses",
+      "até os 2 meses",
+      "até os 12 meses",
+      "até os 24 meses"
+    ]
+  },
+  {
+    "id": 39,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O acompanhamento da gestante durante a gravidez, com consultas e exames, é o:",
+    "options": [
+      "puerpério",
+      "pré-natal",
+      "climatério",
+      "planejamento familiar"
+    ]
+  },
+  {
+    "id": 40,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "É atribuição gerencial privativa do enfermeiro a:",
+    "options": [
+      "realização de cirurgias",
+      "prescrição médica de antibióticos",
+      "dispensação na farmácia",
+      "supervisão e coordenação da equipe de enfermagem"
+    ]
+  }
+]

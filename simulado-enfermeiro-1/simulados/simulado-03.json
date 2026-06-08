@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que todas as palavras estão grafadas corretamente.",
+    "options": [
+      "concessão, ascensão, obsessão",
+      "consessão, ascenção, obssessão",
+      "concessão, ascenção, obcessão",
+      "consessão, ascensão, obssessão"
+    ]
+  },
+  {
+    "id": 2,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que o uso do sinal indicativo de crase está correto.",
+    "options": [
+      "Refiro-me à mim mesmo.",
+      "Cheguei à cavalo ao posto.",
+      "Permaneceu atento à evolução do quadro.",
+      "Entreguei a medicação à você."
+    ]
+  },
+  {
+    "id": 3,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que a concordância verbal está correta.",
+    "options": [
+      "Fazem cinco anos que atuo na unidade.",
+      "Faz cinco anos que atuo na unidade.",
+      "Existe muitos casos pendentes.",
+      "Houveram registros incompletos."
+    ]
+  },
+  {
+    "id": 4,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que a regência está conforme a norma-padrão.",
+    "options": [
+      "O assunto que me refiro é sigiloso.",
+      "Prefiro sair do que ficar.",
+      "Cheguei no setor atrasado.",
+      "O assunto a que me refiro é sigiloso."
+    ]
+  },
+  {
+    "id": 5,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Na expressão 'a segurança do paciente', a palavra 'segurança' classifica-se como:",
+    "options": [
+      "adjetivo",
+      "advérbio",
+      "verbo",
+      "substantivo"
+    ]
+  },
+  {
+    "id": 6,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale o uso correto de 'a/há'.",
+    "options": [
+      "A anos não há surto na unidade.",
+      "Há anos não há surto na unidade.",
+      "Daqui há um mês haverá campanha.",
+      "Cheguei a muito tempo."
+    ]
+  },
+  {
+    "id": 7,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "No contexto 'o chefe anuiu ao pedido', a forma verbal 'anuiu' significa:",
+    "options": [
+      "recusou",
+      "anulou",
+      "consentiu, concordou",
+      "adiou"
+    ]
+  },
+  {
+    "id": 8,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale o conectivo que estabelece relação de condição: '___ haja piora, comunique o médico.'",
+    "options": [
+      "Caso",
+      "Porque",
+      "Portanto",
+      "Embora"
+    ]
+  },
+  {
+    "id": 9,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa correta quanto à concordância nominal.",
+    "options": [
+      "Os candidatos ficaram alertas durante a prova.",
+      "Segue anexo as provas corrigidas.",
+      "Os candidatos ficaram alerta durante a prova.",
+      "Ela está meia cansada hoje."
+    ]
+  },
+  {
+    "id": 10,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a oração na voz passiva.",
+    "options": [
+      "Os curativos serão realizados pela técnica.",
+      "A técnica realizará os curativos.",
+      "Realizaram-se os curativos.",
+      "A técnica foi realizada."
+    ]
+  },
+  {
+    "id": 11,
+    "area": "Noções de Informática",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A extensão típica de um arquivo de imagem é:",
+    "options": [
+      ".exe",
+      ".mp3",
+      ".docx",
+      ".jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "area": "Noções de Informática",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O atalho Ctrl+P, na maioria dos programas, serve para:",
+    "options": [
+      "colar",
+      "imprimir",
+      "salvar",
+      "recortar"
+    ]
+  },
+  {
+    "id": 13,
+    "area": "Noções de Informática",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Constitui boa prática de segurança da informação:",
+    "options": [
+      "usar a mesma senha em tudo",
+      "usar senhas fortes e distintas para cada serviço",
+      "criar senha com o próprio nome",
+      "compartilhar a senha com colegas"
+    ]
+  },
+  {
+    "id": 14,
+    "area": "Noções de Informática",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A computação em nuvem permite acessar arquivos:",
+    "options": [
+      "apenas no computador local",
+      "somente off-line",
+      "apenas a partir de um CD",
+      "de qualquer lugar com acesso à internet"
+    ]
+  },
+  {
+    "id": 15,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O São João de Campina Grande ocorre no mês de:",
+    "options": [
+      "junho",
+      "janeiro",
+      "julho",
+      "outubro"
+    ]
+  },
+  {
+    "id": 16,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "O palco principal do São João de Campina Grande é o:",
+    "options": [
+      "Maracanã",
+      "Pelourinho",
+      "Parque do Povo",
+      "Ibirapuera"
+    ]
+  },
+  {
+    "id": 17,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Campina Grande localiza-se na mesorregião do(a):",
+    "options": [
+      "Sertão paraibano",
+      "Litoral paraibano",
+      "Zona da Mata paraibana",
+      "Agreste paraibano"
+    ]
+  },
+  {
+    "id": 18,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A conduta do servidor pautada por honestidade e probidade relaciona-se ao princípio da:",
+    "options": [
+      "anterioridade",
+      "celeridade",
+      "moralidade",
+      "onerosidade"
+    ]
+  },
+  {
+    "id": 19,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Divulgar informações de interesse coletivo independentemente de pedido caracteriza a:",
+    "options": [
+      "transparência ativa",
+      "transparência passiva",
+      "classificação de sigilo",
+      "censura prévia"
+    ]
+  },
+  {
+    "id": 20,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Na LGPD, a pessoa natural a quem se referem os dados pessoais é o:",
+    "options": [
+      "controlador",
+      "titular",
+      "operador",
+      "encarregado"
+    ]
+  },
+  {
+    "id": 21,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "As etapas do Processo de Enfermagem, na ordem, são:",
+    "options": [
+      "histórico, diagnóstico, planejamento, implementação e avaliação",
+      "triagem, internação, alta, cobrança e arquivo",
+      "anamnese, cirurgia, recuperação e alta",
+      "admissão, exame, laudo e prescrição médica"
+    ]
+  },
+  {
+    "id": 22,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A prescrição de cuidados de enfermagem é atribuição privativa:",
+    "options": [
+      "do médico",
+      "do enfermeiro",
+      "do técnico de enfermagem",
+      "do auxiliar de enfermagem"
+    ]
+  },
+  {
+    "id": 23,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O SUS organiza ações e serviços voltados à:",
+    "options": [
+      "apenas ao tratamento de doenças graves",
+      "exclusivamente à pesquisa",
+      "somente à assistência hospitalar",
+      "promoção, proteção e recuperação da saúde"
+    ]
+  },
+  {
+    "id": 24,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Pelo princípio da universalidade, o SUS atende:",
+    "options": [
+      "apenas trabalhadores formais",
+      "somente quem paga",
+      "todos os cidadãos, independentemente de contribuição",
+      "apenas idosos"
+    ]
+  },
+  {
+    "id": 25,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A organização dos serviços por níveis de complexidade e por território expressa as diretrizes de:",
+    "options": [
+      "privatização e seletividade",
+      "centralização e exclusividade",
+      "regionalização e hierarquização",
+      "unicidade e subsidiariedade"
+    ]
+  },
+  {
+    "id": 26,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A porta de entrada preferencial do usuário no SUS é a:",
+    "options": [
+      "alta complexidade hospitalar",
+      "auditoria médica",
+      "central de transplantes",
+      "atenção primária à saúde"
+    ]
+  },
+  {
+    "id": 27,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Integram a equipe da Estratégia Saúde da Família, além de médico, enfermeiro e técnico, os:",
+    "options": [
+      "auditores fiscais",
+      "agentes comunitários de saúde",
+      "procuradores",
+      "fiscais sanitários"
+    ]
+  },
+  {
+    "id": 28,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A via de administração de medicamentos mais comum, econômica e não invasiva é a:",
+    "options": [
+      "oral",
+      "endovenosa",
+      "intramuscular",
+      "intradérmica"
+    ]
+  },
+  {
+    "id": 29,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O teste tuberculínico (PPD) é aplicado por via:",
+    "options": [
+      "intramuscular",
+      "intradérmica",
+      "endovenosa",
+      "subcutânea"
+    ]
+  },
+  {
+    "id": 30,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A insulina e a heparina são, em geral, administradas por via:",
+    "options": [
+      "subcutânea",
+      "intramuscular profunda",
+      "endovenosa em bolus",
+      "intradérmica"
+    ]
+  },
+  {
+    "id": 31,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Para a administração segura de medicamentos, a equipe de enfermagem deve:",
+    "options": [
+      "administrar sem conferir a prescrição",
+      "duplicar a dose em caso de dúvida",
+      "conferir os 'certos' (paciente, medicamento, dose, via e hora certos)",
+      "delegar a conferência ao paciente"
+    ]
+  },
+  {
+    "id": 32,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A realização de curativos em feridas exige:",
+    "options": [
+      "reutilização do material",
+      "ausência de luvas",
+      "contato direto sem barreira",
+      "técnica asséptica"
+    ]
+  },
+  {
+    "id": 33,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Entre as precauções padrão, destaca-se a:",
+    "options": [
+      "dispensa de EPI",
+      "reuso de agulhas",
+      "descarte de perfurocortante no lixo comum",
+      "higienização das mãos antes e após o contato com o paciente"
+    ]
+  },
+  {
+    "id": 34,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Materiais perfurocortantes devem ser descartados em:",
+    "options": [
+      "saco plástico comum",
+      "pia do expurgo",
+      "caixa rígida específica (coletor de perfurocortantes)",
+      "recipiente de papelão simples"
+    ]
+  },
+  {
+    "id": 35,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O conjunto inicial de medidas para atender uma parada cardiorrespiratória, com compressões torácicas, é o:",
+    "options": [
+      "suporte nutricional",
+      "suporte básico de vida (SBV)",
+      "plano de alta",
+      "cuidado paliativo exclusivo"
+    ]
+  },
+  {
+    "id": 36,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O acolhimento que prioriza o atendimento conforme a gravidade clínica, e não a ordem de chegada, baseia-se na:",
+    "options": [
+      "classificação de risco",
+      "ordem alfabética",
+      "ordem de inscrição",
+      "idade do paciente apenas"
+    ]
+  },
+  {
+    "id": 37,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A administração de vacinas para prevenir doenças imunopreveníveis é uma ação de:",
+    "options": [
+      "imunização",
+      "reabilitação",
+      "auditoria",
+      "internação"
+    ]
+  },
+  {
+    "id": 38,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O conjunto de ações que conhece, detecta e previne mudanças nos fatores determinantes de doenças é a:",
+    "options": [
+      "vigilância patrimonial",
+      "auditoria contábil",
+      "ouvidoria",
+      "vigilância epidemiológica"
+    ]
+  },
+  {
+    "id": 39,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O acompanhamento da gestante ao longo da gravidez, com consultas e exames, é o:",
+    "options": [
+      "puerpério tardio",
+      "planejamento familiar masculino",
+      "pré-natal",
+      "climatério"
+    ]
+  },
+  {
+    "id": 40,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "O período pós-parto, de recuperação do organismo materno, é denominado:",
+    "options": [
+      "menarca",
+      "puerpério",
+      "climatério",
+      "gestação ectópica"
+    ]
+  }
+]

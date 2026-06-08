@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que todas as palavras estão grafadas corretamente.",
+    "options": [
+      "análise, paralisar, pesquisar",
+      "análize, paralizar, pesquizar",
+      "análise, paraliszar, pesquisar",
+      "análize, paralisar, pesquizar"
+    ]
+  },
+  {
+    "id": 2,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que o uso do sinal indicativo de crase está correto.",
+    "options": [
+      "Refiro-me à mim mesma.",
+      "Cheguei à pé ao posto.",
+      "Compareceu à consulta de pré-natal.",
+      "Falei à você sobre o exame."
+    ]
+  },
+  {
+    "id": 3,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que a concordância verbal está correta.",
+    "options": [
+      "Fazem dez anos que trabalho no SUS.",
+      "Faz dez anos que trabalho no SUS.",
+      "Existe muitos casos.",
+      "Houveram decisões favoráveis."
+    ]
+  },
+  {
+    "id": 4,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que a regência está conforme a norma-padrão.",
+    "options": [
+      "O cargo que aspiro exige preparo.",
+      "Cheguei no hospital cedo.",
+      "Prefiro ler do que escrever.",
+      "O cargo a que aspiro exige preparo."
+    ]
+  },
+  {
+    "id": 5,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Na expressão 'decisão justa', a palavra 'justa' classifica-se como:",
+    "options": [
+      "advérbio",
+      "verbo",
+      "substantivo",
+      "adjetivo"
+    ]
+  },
+  {
+    "id": 6,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa que completa corretamente: 'Estudou, ___ não passou; quer estudar ___.'",
+    "options": [
+      "mais / mas",
+      "mas / mais",
+      "mas / mas",
+      "mais / mais"
+    ]
+  },
+  {
+    "id": 7,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "No contexto 'o chefe anuiu ao pedido', a forma verbal 'anuiu' significa:",
+    "options": [
+      "recusou",
+      "anulou",
+      "consentiu, concordou",
+      "adiou"
+    ]
+  },
+  {
+    "id": 8,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale o conectivo de condição: '___ haja sangramento, comprima o local.'",
+    "options": [
+      "Caso",
+      "Porque",
+      "Portanto",
+      "Embora"
+    ]
+  },
+  {
+    "id": 9,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa correta quanto à concordância nominal.",
+    "options": [
+      "Os profissionais ficaram alertas.",
+      "Segue anexo os exames.",
+      "Os profissionais ficaram alerta.",
+      "Ela está meia cansada."
+    ]
+  },
+  {
+    "id": 10,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a oração na voz passiva.",
+    "options": [
+      "Os exames serão coletados pela equipe.",
+      "A equipe coletará os exames.",
+      "Coletaram-se os exames.",
+      "A equipe foi coletada."
+    ]
+  },
+  {
+    "id": 11,
+    "area": "Noções de Informática",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A extensão típica de um arquivo de imagem é:",
+    "options": [
+      ".exe",
+      ".mp3",
+      ".docx",
+      ".jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "area": "Noções de Informática",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O atalho Ctrl+P, na maioria dos programas, serve para:",
+    "options": [
+      "colar",
+      "imprimir",
+      "salvar",
+      "recortar"
+    ]
+  },
+  {
+    "id": 13,
+    "area": "Noções de Informática",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Manter os sistemas atualizados corrige, sobretudo:",
+    "options": [
+      "defeitos do monitor",
+      "falhas de segurança (vulnerabilidades)",
+      "problemas do teclado",
+      "a fonte de alimentação"
+    ]
+  },
+  {
+    "id": 14,
+    "area": "Noções de Informática",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A intranet é uma rede:",
+    "options": [
+      "pública e mundial",
+      "de telefonia fixa",
+      "de transmissão de TV",
+      "privada/corporativa baseada em tecnologias da internet"
+    ]
+  },
+  {
+    "id": 15,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O São João de Campina Grande ocorre no mês de:",
+    "options": [
+      "junho",
+      "janeiro",
+      "julho",
+      "setembro"
+    ]
+  },
+  {
+    "id": 16,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "O palco principal do São João de Campina Grande é o:",
+    "options": [
+      "Maracanã",
+      "Pelourinho",
+      "Parque do Povo",
+      "Ibirapuera"
+    ]
+  },
+  {
+    "id": 17,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Campina Grande localiza-se na mesorregião do(a):",
+    "options": [
+      "Sertão paraibano",
+      "Litoral paraibano",
+      "Zona da Mata paraibana",
+      "Agreste paraibano"
+    ]
+  },
+  {
+    "id": 18,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Atuar com presteza, rendimento e qualidade no serviço público reflete o princípio da:",
+    "options": [
+      "legalidade",
+      "publicidade",
+      "eficiência",
+      "anterioridade"
+    ]
+  },
+  {
+    "id": 19,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Conforme a LAI, o prazo máximo de classificação de uma informação como ultrassecreta é de até:",
+    "options": [
+      "25 anos",
+      "5 anos",
+      "100 anos",
+      "tempo ilimitado"
+    ]
+  },
+  {
+    "id": 20,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O consentimento do titular, na LGPD, deve ser:",
+    "options": [
+      "tácito em qualquer caso",
+      "livre, informado e inequívoco",
+      "verbal e genérico",
+      "dispensável sempre"
+    ]
+  },
+  {
+    "id": 21,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "As etapas do Processo de Enfermagem, na ordem, são:",
+    "options": [
+      "histórico, diagnóstico, planejamento, implementação e avaliação",
+      "triagem, internação e alta",
+      "anamnese, cirurgia e alta",
+      "admissão, exame e laudo"
+    ]
+  },
+  {
+    "id": 22,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "O julgamento clínico das respostas do indivíduo a problemas de saúde, na SAE, é o:",
+    "options": [
+      "laudo médico",
+      "diagnóstico de enfermagem",
+      "prontuário",
+      "balanço hídrico"
+    ]
+  },
+  {
+    "id": 23,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A articulação de ações de promoção, prevenção, cura e reabilitação expressa o princípio da:",
+    "options": [
+      "seletividade",
+      "subsidiariedade",
+      "centralização",
+      "integralidade"
+    ]
+  },
+  {
+    "id": 24,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Dispõe sobre as condições para a promoção, proteção e recuperação da saúde e a organização do SUS a:",
+    "options": [
+      "Lei nº 8.142/1990",
+      "Lei nº 7.498/1986",
+      "Lei nº 8.080/1990",
+      "Decreto nº 94.406/1987"
+    ]
+  },
+  {
+    "id": 25,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Regulamenta a Lei nº 8.080, tratando das regiões de saúde e do planejamento, o:",
+    "options": [
+      "Lei nº 8.142/1990",
+      "Portaria nº 2.436/2017",
+      "Decreto nº 7.508/2011",
+      "RDC nº 222/2018"
+    ]
+  },
+  {
+    "id": 26,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A política que organiza a atenção básica no SUS é a:",
+    "options": [
+      "LOAS",
+      "RENAME",
+      "PNRS",
+      "PNAB (Política Nacional de Atenção Básica)"
+    ]
+  },
+  {
+    "id": 27,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O reconhecimento da área e da população sob responsabilidade da equipe de saúde é a:",
+    "options": [
+      "hospitalização",
+      "territorialização",
+      "auditoria",
+      "regulação"
+    ]
+  },
+  {
+    "id": 28,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A vacina BCG e o teste tuberculínico (PPD) utilizam a via:",
+    "options": [
+      "intradérmica",
+      "intramuscular",
+      "subcutânea",
+      "endovenosa"
+    ]
+  },
+  {
+    "id": 29,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Local comum para vacinas intramusculares no braço do adulto:",
+    "options": [
+      "abdome",
+      "deltoide",
+      "antebraço",
+      "região plantar"
+    ]
+  },
+  {
+    "id": 30,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O exame rápido para verificar a glicose à beira do leito é a:",
+    "options": [
+      "glicemia capilar (HGT)",
+      "gasometria",
+      "hemocultura",
+      "urocultura"
+    ]
+  },
+  {
+    "id": 31,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A glicemia de jejum que caracteriza diabetes, em geral, é de:",
+    "options": [
+      "70 mg/dL",
+      "99 mg/dL",
+      "126 mg/dL ou mais",
+      "50 mg/dL"
+    ]
+  },
+  {
+    "id": 32,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A primeira medida diante de uma hemorragia externa é a:",
+    "options": [
+      "elevação do membro apenas",
+      "aplicação de gelo apenas",
+      "oferta de soro oral",
+      "compressão direta do local"
+    ]
+  },
+  {
+    "id": 33,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A perda significativa de volume sanguíneo, com queda da pressão, leva ao:",
+    "options": [
+      "choque anafilático",
+      "choque cardiogênico",
+      "choque neurogênico",
+      "choque hipovolêmico"
+    ]
+  },
+  {
+    "id": 34,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A reação alérgica grave e sistêmica, com risco de morte, é o:",
+    "options": [
+      "choque hipovolêmico",
+      "choque séptico",
+      "choque anafilático",
+      "choque obstrutivo"
+    ]
+  },
+  {
+    "id": 35,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O equipamento que esteriliza por vapor saturado sob pressão é a:",
+    "options": [
+      "estufa de Pasteur",
+      "autoclave",
+      "geladeira",
+      "capela de fluxo laminar"
+    ]
+  },
+  {
+    "id": 36,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O processamento de artigos hospitalares, em ordem crescente de eliminação de micro-organismos, é:",
+    "options": [
+      "limpeza, desinfecção e esterilização",
+      "esterilização, limpeza e secagem",
+      "desinfecção, pintura e embalagem",
+      "secagem, dobra e estoque"
+    ]
+  },
+  {
+    "id": 37,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "O gerenciamento dos resíduos de serviços de saúde é regido pela:",
+    "options": [
+      "RDC ANVISA nº 222/2018",
+      "Lei nº 8.142/1990",
+      "NR-6",
+      "Portaria nº 2.436/2017"
+    ]
+  },
+  {
+    "id": 38,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Os resíduos químicos (ex.: medicamentos vencidos) pertencem ao:",
+    "options": [
+      "grupo A",
+      "grupo D",
+      "grupo E",
+      "grupo B"
+    ]
+  },
+  {
+    "id": 39,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O acompanhamento do crescimento e desenvolvimento da criança é a:",
+    "options": [
+      "climatério",
+      "senescência",
+      "puericultura",
+      "puberdade tardia"
+    ]
+  },
+  {
+    "id": 40,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "O documento de acompanhamento do crescimento, da vacinação e do desenvolvimento infantil é a:",
+    "options": [
+      "ficha de internação",
+      "caderneta de saúde da criança",
+      "guia de SADT",
+      "autorização de internação hospitalar"
+    ]
+  }
+]

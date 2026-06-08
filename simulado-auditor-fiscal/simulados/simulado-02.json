@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que todas as expressões estão grafadas corretamente.",
+    "options": [
+      "concerteza, derrepente, a gente vai",
+      "com certeza, de repente, a gente vai",
+      "com certeza, derrepente, agente vai",
+      "concerteza, de repente, agente vai"
+    ]
+  },
+  {
+    "id": 2,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que o uso (ou a ausência) do sinal indicativo de crase está correto.",
+    "options": [
+      "Entreguei o processo àquela servidora do setor.",
+      "Refiro-me a senhora diretora da repartição.",
+      "O auditor chegou à pé ao estabelecimento.",
+      "Estou disposto à colaborar com a fiscalização."
+    ]
+  },
+  {
+    "id": 3,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que a concordância verbal está de acordo com a norma-padrão.",
+    "options": [
+      "Aluga-se casas no centro da cidade.",
+      "Precisa-se de auditores experientes no órgão.",
+      "Vende-se apartamentos novos na avenida.",
+      "Fazem dois meses da posse dos aprovados."
+    ]
+  },
+  {
+    "id": 4,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que a regência nominal está conforme a norma-padrão.",
+    "options": [
+      "Ele reside à Rua das Flores, no centro.",
+      "O servidor é passível de punição disciplinar.",
+      "Estou ciente sobre as regras do edital.",
+      "Tenho preferência em questões de legislação."
+    ]
+  },
+  {
+    "id": 5,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Na frase \"A fiscalização foi rigorosa\", a palavra \"rigorosa\" classifica-se como:",
+    "options": [
+      "substantivo",
+      "adjetivo",
+      "advérbio",
+      "verbo"
+    ]
+  },
+  {
+    "id": 6,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa corretamente pontuada.",
+    "options": [
+      "Campina Grande, cidade paraibana, sediará o concurso.",
+      "Campina Grande cidade paraibana, sediará o concurso.",
+      "Campina Grande, cidade paraibana sediará o concurso.",
+      "Campina, Grande cidade paraibana, sediará o concurso."
+    ]
+  },
+  {
+    "id": 7,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "No contexto \"o contribuinte inadimplente foi notificado\", a palavra \"inadimplente\" significa aquele que:",
+    "options": [
+      "pagou o tributo em dia",
+      "não cumpriu a obrigação no prazo devido",
+      "está isento do pagamento",
+      "obteve parcelamento do débito"
+    ]
+  },
+  {
+    "id": 8,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale o conectivo que, ao preencher a lacuna, estabelece relação de conclusão: \"O prazo expirou; ___, o crédito foi extinto.\"",
+    "options": [
+      "embora",
+      "portanto",
+      "porque",
+      "contudo"
+    ]
+  },
+  {
+    "id": 9,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa correta quanto à concordância nominal.",
+    "options": [
+      "Seguem anexo as guias de recolhimento.",
+      "Foram exigidos bastantes documentos na posse.",
+      "Havia menas exigências no edital anterior.",
+      "Os documento necessário foram entregues."
+    ]
+  },
+  {
+    "id": 10,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa que apresenta uma oração na voz passiva.",
+    "options": [
+      "O auditor lavrou o auto de infração.",
+      "O auto de infração foi lavrado pelo auditor.",
+      "O auditor preparou-se para a fiscalização.",
+      "O auditor trabalhou muito durante o dia."
+    ]
+  },
+  {
+    "id": 11,
+    "area": "Noções de Informática",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "No Microsoft Word, o recurso que verifica e sinaliza erros de grafia no texto é o:",
+    "options": [
+      "mala direta",
+      "corretor ortográfico",
+      "sumário automático",
+      "marca d'água"
+    ]
+  },
+  {
+    "id": 12,
+    "area": "Noções de Informática",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "No Microsoft Excel, uma referência absoluta a uma célula é indicada pelo uso do símbolo:",
+    "options": [
+      "%",
+      "&",
+      "$",
+      "#"
+    ]
+  },
+  {
+    "id": 13,
+    "area": "Noções de Informática",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A técnica de fraude que tenta obter dados sensíveis do usuário fingindo ser uma entidade confiável, geralmente por e-mail ou mensagem, é o:",
+    "options": [
+      "phishing",
+      "backup",
+      "firewall",
+      "cache"
+    ]
+  },
+  {
+    "id": 14,
+    "area": "Noções de Informática",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Entre as opções a seguir, qual é um navegador (browser) de internet?",
+    "options": [
+      "Microsoft Excel",
+      "Google Chrome",
+      "Windows Defender",
+      "WinRAR"
+    ]
+  },
+  {
+    "id": 15,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Campina Grande está localizada em qual estado da Federação?",
+    "options": [
+      "Pernambuco",
+      "Paraíba",
+      "Rio Grande do Norte",
+      "Ceará"
+    ]
+  },
+  {
+    "id": 16,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Campina Grande é o segundo município mais populoso da Paraíba, atrás apenas de:",
+    "options": [
+      "Patos",
+      "João Pessoa",
+      "Sousa",
+      "Cajazeiras"
+    ]
+  },
+  {
+    "id": 17,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Reconhecida como polo de tecnologia e informática, Campina Grande abriga a:",
+    "options": [
+      "Universidade Federal de Campina Grande (UFCG)",
+      "Universidade de São Paulo (USP)",
+      "Universidade Federal do Rio de Janeiro (UFRJ)",
+      "Universidade de Brasília (UnB)"
+    ]
+  },
+  {
+    "id": 18,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A divulgação dos atos da Administração para conhecimento geral, dando-lhes transparência, atende ao princípio da:",
+    "options": [
+      "publicidade",
+      "eficiência",
+      "moralidade",
+      "legalidade"
+    ]
+  },
+  {
+    "id": 19,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Conforme a Lei nº 12.527/2011 (LAI), quando não for possível o acesso imediato à informação, o prazo para resposta ao pedido é de até:",
+    "options": [
+      "5 dias, improrrogáveis",
+      "20 dias, prorrogáveis por mais 10 dias",
+      "90 dias, improrrogáveis",
+      "1 ano, prorrogável a critério do órgão"
+    ]
+  },
+  {
+    "id": 20,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Na LGPD (Lei nº 13.709/2018), o agente de tratamento a quem competem as decisões referentes ao tratamento de dados pessoais é o:",
+    "options": [
+      "operador",
+      "controlador",
+      "encarregado",
+      "titular"
+    ]
+  },
+  {
+    "id": 21,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Segundo o Código Tributário Nacional, o tributo cuja obrigação tem por fato gerador uma situação independente de qualquer atividade estatal específica relativa ao contribuinte é o:",
+    "options": [
+      "taxa",
+      "imposto",
+      "contribuição de melhoria",
+      "empréstimo compulsório"
+    ]
+  },
+  {
+    "id": 22,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Conforme o Código Tributário Nacional, a taxa tem como fato gerador:",
+    "options": [
+      "o exercício do poder de polícia ou a utilização de serviço público específico e divisível",
+      "a propriedade de imóvel localizado na zona urbana",
+      "a circulação de mercadorias entre Municípios",
+      "a renda anual auferida pelo contribuinte"
+    ]
+  },
+  {
+    "id": 23,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A contribuição de melhoria é instituída para fazer face ao custo de:",
+    "options": [
+      "obras públicas das quais decorra valorização imobiliária",
+      "serviços de iluminação pública",
+      "coleta domiciliar de lixo",
+      "emissão de documentos de identidade"
+    ]
+  },
+  {
+    "id": 24,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Nos termos do Código Tributário Nacional, a capacidade tributária passiva:",
+    "options": [
+      "depende da plena capacidade civil da pessoa natural",
+      "independe da capacidade civil das pessoas naturais",
+      "exige que a pessoa jurídica esteja regularmente constituída",
+      "depende de o sujeito estar no gozo de seus direitos civis"
+    ]
+  },
+  {
+    "id": 25,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Em regra, segundo o Código Tributário Nacional, o domicílio tributário é:",
+    "options": [
+      "eleito pelo contribuinte ou responsável",
+      "sempre o da repartição fiscal competente",
+      "definido exclusivamente por decisão judicial",
+      "o local de nascimento do contribuinte"
+    ]
+  },
+  {
+    "id": 26,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Cabe à lei complementar fixar as alíquotas máxima e mínima do:",
+    "options": [
+      "IPTU",
+      "ISS",
+      "ITBI",
+      "IPVA"
+    ]
+  },
+  {
+    "id": 27,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A alíquota mínima do ISS, fixada por lei complementar nacional, é de:",
+    "options": [
+      "1%",
+      "2%",
+      "5%",
+      "10%"
+    ]
+  },
+  {
+    "id": 28,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A alíquota máxima do ISS, fixada por lei complementar nacional, é de:",
+    "options": [
+      "2%",
+      "5%",
+      "10%",
+      "15%"
+    ]
+  },
+  {
+    "id": 29,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Em regra, NÃO incide o ISS sobre:",
+    "options": [
+      "serviços de informática e congêneres",
+      "as exportações de serviços para o exterior do País",
+      "serviços de construção civil",
+      "serviços de manutenção e reparação"
+    ]
+  },
+  {
+    "id": 30,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A possibilidade de o IPTU ser progressivo em razão do valor do imóvel e de ter alíquotas diferentes conforme a localização e o uso foi assegurada pela:",
+    "options": [
+      "Constituição Federal (Emenda Constitucional nº 29/2000)",
+      "Lei de Responsabilidade Fiscal",
+      "Lei nº 4.320/1964",
+      "Lei nº 8.666/1993"
+    ]
+  },
+  {
+    "id": 31,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Segundo o Código Tributário Nacional, é contribuinte do IPTU:",
+    "options": [
+      "exclusivamente o locatário do imóvel",
+      "o proprietário, o titular do domínio útil ou o possuidor a qualquer título",
+      "a imobiliária responsável pelo aluguel",
+      "o síndico do condomínio"
+    ]
+  },
+  {
+    "id": 32,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A imunidade tributária dos templos de qualquer culto alcança:",
+    "options": [
+      "somente o prédio onde se realiza o culto",
+      "o patrimônio, a renda e os serviços relacionados às suas finalidades essenciais",
+      "todos os bens particulares dos religiosos",
+      "apenas o Imposto sobre Serviços (ISS)"
+    ]
+  },
+  {
+    "id": 33,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O princípio que veda cobrar tributos antes de decorridos noventa dias da data da publicação da lei que os instituiu ou aumentou é o da:",
+    "options": [
+      "anterioridade nonagesimal (noventena)",
+      "legalidade estrita",
+      "irretroatividade tributária",
+      "uniformidade geográfica"
+    ]
+  },
+  {
+    "id": 34,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Pelo princípio da irretroatividade, é vedado cobrar tributos em relação a fatos geradores ocorridos:",
+    "options": [
+      "antes do início da vigência da lei que os instituiu ou aumentou",
+      "no território de outro Município",
+      "por pessoas amparadas por isenção",
+      "após a constituição definitiva do crédito"
+    ]
+  },
+  {
+    "id": 35,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "No Direito Tributário, a moratória é causa de:",
+    "options": [
+      "extinção do crédito tributário",
+      "exclusão do crédito tributário",
+      "suspensão da exigibilidade do crédito tributário",
+      "remissão automática do crédito tributário"
+    ]
+  },
+  {
+    "id": 36,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A remissão do crédito tributário consiste em:",
+    "options": [
+      "perdão (dispensa) do crédito tributário, concedido por lei",
+      "parcelamento do débito em prestações mensais",
+      "inscrição do débito em dívida ativa",
+      "compensação automática com créditos do contribuinte"
+    ]
+  },
+  {
+    "id": 37,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Segundo a Lei nº 4.320/1964, os créditos adicionais classificam-se em suplementares, especiais e:",
+    "options": [
+      "extraordinários",
+      "ordinários",
+      "vinculados",
+      "flutuantes"
+    ]
+  },
+  {
+    "id": 38,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A Receita Corrente Líquida (RCL) é o parâmetro utilizado pela Lei de Responsabilidade Fiscal para fixar limites de:",
+    "options": [
+      "despesa total com pessoal e de endividamento",
+      "número de secretarias municipais",
+      "alíquotas dos tributos municipais",
+      "valor venal dos imóveis cadastrados"
+    ]
+  },
+  {
+    "id": 39,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Segundo a Lei nº 4.320/1964, o exercício financeiro no Brasil coincide com:",
+    "options": [
+      "o ano civil",
+      "o ano letivo escolar",
+      "o período do mandato do prefeito",
+      "um período de dezoito meses"
+    ]
+  },
+  {
+    "id": 40,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A auditoria realizada por profissionais do próprio órgão ou entidade, com o objetivo de avaliar os controles internos, é denominada auditoria:",
+    "options": [
+      "externa",
+      "interna",
+      "independente",
+      "registral"
+    ]
+  }
+]

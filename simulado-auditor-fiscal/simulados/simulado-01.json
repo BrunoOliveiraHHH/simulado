@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que a concordância verbal está de acordo com a norma-padrão da língua portuguesa.",
+    "options": [
+      "Fazem cinco anos que ele tomou posse no cargo.",
+      "Houveram muitas reclamações sobre o lançamento do imposto.",
+      "Tratam-se de questões relativas à fiscalização tributária.",
+      "Devem existir normas claras sobre a atuação do auditor."
+    ]
+  },
+  {
+    "id": 2,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que o uso do sinal indicativo de crase está correto.",
+    "options": [
+      "Refiro-me à pessoas honestas e cumpridoras de seus deveres.",
+      "O contribuinte compareceu à reunião do conselho municipal.",
+      "Estou disposto à ajudar o cidadão que procura o setor.",
+      "O fiscal entregou o parecer à ele ainda pela manhã."
+    ]
+  },
+  {
+    "id": 3,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que a regência verbal está em conformidade com a norma-padrão.",
+    "options": [
+      "O auditor assistiu o documentário sobre tributação municipal.",
+      "Prefiro estudar legislação tributária do que resolver questões.",
+      "O servidor aspira ao cargo de Auditor Fiscal da Receita Municipal.",
+      "Cheguei no trabalho bem cedo para revisar o processo."
+    ]
+  },
+  {
+    "id": 4,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa corretamente pontuada.",
+    "options": [
+      "O auditor, fiscalizou a empresa e lavrou o auto de infração.",
+      "Fiscalizada a empresa, o auditor lavrou o auto de infração.",
+      "O auditor lavrou, o auto de infração na tarde de ontem.",
+      "Embora autuada a empresa, recorreu, da decisão administrativa."
+    ]
+  },
+  {
+    "id": 5,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que todas as palavras estão grafadas corretamente.",
+    "options": [
+      "excessão, previlégio, beneficiente",
+      "exceção, privilégio, beneficente",
+      "excessão, privilégio, beneficente",
+      "exceção, previlégio, benificente"
+    ]
+  },
+  {
+    "id": 6,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa que completa corretamente as lacunas: \"Não sei ___ o contribuinte não pagou o tributo; o fiscal quis entender o ___ do atraso.\"",
+    "options": [
+      "por que / porquê",
+      "porque / por quê",
+      "por quê / porque",
+      "porquê / por que"
+    ]
+  },
+  {
+    "id": 7,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "No trecho \"A administração tributária deve respeitar o sigilo fiscal, pois ele protege o contribuinte\", o pronome destacado \"ele\" refere-se a:",
+    "options": [
+      "administração tributária",
+      "sigilo fiscal",
+      "contribuinte",
+      "tributo"
+    ]
+  },
+  {
+    "id": 8,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Na frase \"O auditor agiu legalmente durante a fiscalização\", a palavra destacada \"legalmente\" classifica-se como:",
+    "options": [
+      "adjetivo",
+      "advérbio",
+      "substantivo",
+      "preposição"
+    ]
+  },
+  {
+    "id": 9,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa correta quanto à concordância nominal.",
+    "options": [
+      "Seguem anexo os documentos exigidos para a posse.",
+      "Os documentos seguem anexos ao processo administrativo.",
+      "A certidão de quitação está em anexa ao requerimento.",
+      "Elas mesmo assinaram o termo de responsabilidade."
+    ]
+  },
+  {
+    "id": 10,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa cujo conectivo, ao substituir o termo destacado em \"O contribuinte foi notificado, contudo não pagou o tributo\", preserva o sentido original.",
+    "options": [
+      "porque",
+      "portanto",
+      "no entanto",
+      "por isso"
+    ]
+  },
+  {
+    "id": 11,
+    "area": "Noções de Informática",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "No Microsoft Excel, a fórmula =SOMA(A1:A5) tem como resultado:",
+    "options": [
+      "a soma dos valores das células de A1 até A5",
+      "a multiplicação do valor de A1 pelo valor de A5",
+      "a média aritmética dos valores de A1 a A5",
+      "a contagem da quantidade de células preenchidas"
+    ]
+  },
+  {
+    "id": 12,
+    "area": "Noções de Informática",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "No sistema operacional Windows, a combinação de teclas Ctrl + C é utilizada para:",
+    "options": [
+      "recortar o item selecionado",
+      "copiar o item selecionado",
+      "colar o conteúdo da área de transferência",
+      "desfazer a última ação realizada"
+    ]
+  },
+  {
+    "id": 13,
+    "area": "Noções de Informática",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O tipo de praga digital (malware) que se disfarça de programa legítimo para enganar o usuário e obter acesso indevido ao sistema é conhecido como:",
+    "options": [
+      "firewall",
+      "cavalo de troia (trojan)",
+      "backup incremental",
+      "cookie de sessão"
+    ]
+  },
+  {
+    "id": 14,
+    "area": "Noções de Informática",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O protocolo utilizado para a navegação segura na web, que realiza a criptografia dos dados trafegados entre o navegador e o site, é o:",
+    "options": [
+      "HTTP",
+      "FTP",
+      "HTTPS",
+      "SMTP"
+    ]
+  },
+  {
+    "id": 15,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Campina Grande, no estado da Paraíba, é conhecida nacionalmente por sediar um dos maiores festejos juninos do país, denominado:",
+    "options": [
+      "O Maior São João do Mundo",
+      "Festa do Peão de Boiadeiro",
+      "Oktoberfest do Nordeste",
+      "Carnaval de Momo"
+    ]
+  },
+  {
+    "id": 16,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Campina Grande é tradicionalmente conhecida pelo epíteto (apelido) de:",
+    "options": [
+      "Cidade Maravilhosa",
+      "Rainha da Borborema",
+      "Cidade das Pontes",
+      "Capital do Frevo"
+    ]
+  },
+  {
+    "id": 17,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Geograficamente, Campina Grande localiza-se sobre uma importante formação de relevo do estado da Paraíba, denominada:",
+    "options": [
+      "Chapada Diamantina",
+      "Planalto da Borborema",
+      "Serra do Mar",
+      "Planície do Pantanal"
+    ]
+  },
+  {
+    "id": 18,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Os princípios expressos que regem a Administração Pública, nos termos do art. 37, caput, da Constituição Federal de 1988, são:",
+    "options": [
+      "legalidade, impessoalidade, moralidade, publicidade e eficiência",
+      "legalidade, economicidade, oralidade, publicidade e celeridade",
+      "moralidade, anterioridade, isonomia, eficiência e legalidade",
+      "impessoalidade, publicidade, presunção, eficiência e oralidade"
+    ]
+  },
+  {
+    "id": 19,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A Lei nº 12.527/2011 (Lei de Acesso à Informação) estabelece como diretriz geral que o acesso à informação pública é:",
+    "options": [
+      "sigiloso, sendo a publicidade a exceção",
+      "a regra, e o sigilo, a exceção",
+      "restrito exclusivamente aos servidores públicos",
+      "permitido apenas mediante o pagamento de taxa"
+    ]
+  },
+  {
+    "id": 20,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Conforme a Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais - LGPD), entende-se por \"dado pessoal\":",
+    "options": [
+      "qualquer informação relacionada a pessoa natural identificada ou identificável",
+      "somente os dados bancários e financeiros de um indivíduo",
+      "informações relativas exclusivamente a pessoas jurídicas",
+      "dados que já tenham sido tornados manifestamente públicos"
+    ]
+  },
+  {
+    "id": 21,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Nos termos do Código Tributário Nacional, são espécies de tributo o imposto, a taxa e:",
+    "options": [
+      "a tarifa pública",
+      "o preço público",
+      "a contribuição de melhoria",
+      "a multa de trânsito"
+    ]
+  },
+  {
+    "id": 22,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "De acordo com a Constituição Federal, compete aos Municípios instituir imposto sobre:",
+    "options": [
+      "a propriedade territorial rural (ITR)",
+      "serviços de qualquer natureza (ISS) não compreendidos na competência estadual",
+      "operações relativas à circulação de mercadorias (ICMS)",
+      "produtos industrializados (IPI)"
+    ]
+  },
+  {
+    "id": 23,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Nos termos do Código Tributário Nacional, a base de cálculo do Imposto sobre a Propriedade Predial e Territorial Urbana (IPTU) é:",
+    "options": [
+      "o valor venal do imóvel",
+      "o valor obrigatoriamente registrado na última transação em cartório",
+      "a renda anual auferida pelo proprietário do imóvel",
+      "o valor de mercado dos bens móveis existentes no imóvel"
+    ]
+  },
+  {
+    "id": 24,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Acerca do Imposto sobre a Transmissão de Bens Imóveis (ITBI), de competência municipal, é correto afirmar que:",
+    "options": [
+      "incide sobre a transmissão causa mortis de bens imóveis",
+      "incide sobre a transmissão inter vivos, por ato oneroso, de bens imóveis",
+      "tem como fato gerador a propriedade de veículos automotores",
+      "é tributo de competência exclusiva da União"
+    ]
+  },
+  {
+    "id": 25,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Em regra, o Imposto sobre Serviços de Qualquer Natureza (ISSQN) é constituído por meio da modalidade de:",
+    "options": [
+      "lançamento de ofício",
+      "lançamento por declaração",
+      "lançamento por homologação",
+      "arbitramento obrigatório pela autoridade fiscal"
+    ]
+  },
+  {
+    "id": 26,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O lançamento do IPTU é realizado, em regra, na modalidade de ofício porque:",
+    "options": [
+      "o contribuinte apura e antecipa o pagamento sem prévio exame da autoridade",
+      "a autoridade administrativa o constitui com base no cadastro imobiliário, sem participação do sujeito passivo",
+      "depende de declaração anual prestada pelo contribuinte a cada exercício",
+      "é constituído exclusivamente por decisão do Poder Judiciário"
+    ]
+  },
+  {
+    "id": 27,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Nos termos do Código Tributário Nacional, suspendem a exigibilidade do crédito tributário, EXCETO:",
+    "options": [
+      "a moratória",
+      "o parcelamento",
+      "o pagamento integral do crédito",
+      "as reclamações e os recursos no processo administrativo fiscal"
+    ]
+  },
+  {
+    "id": 28,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Conforme o Código Tributário Nacional, excluem o crédito tributário:",
+    "options": [
+      "a isenção e a anistia",
+      "a prescrição e a decadência",
+      "a remissão e a compensação",
+      "a moratória e o parcelamento"
+    ]
+  },
+  {
+    "id": 29,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Constitui forma de extinção do crédito tributário expressamente prevista no Código Tributário Nacional:",
+    "options": [
+      "a moratória",
+      "a anistia",
+      "a prescrição",
+      "o depósito do seu montante integral"
+    ]
+  },
+  {
+    "id": 30,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O prazo decadencial para que a Fazenda Pública constitua o crédito tributário é, em regra, de:",
+    "options": [
+      "2 (dois) anos",
+      "5 (cinco) anos",
+      "10 (dez) anos",
+      "1 (um) ano"
+    ]
+  },
+  {
+    "id": 31,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Segundo o Código Tributário Nacional, a ação para a cobrança do crédito tributário prescreve em:",
+    "options": [
+      "5 (cinco) anos, contados da data da sua constituição definitiva",
+      "3 (três) anos, contados da ocorrência do fato gerador",
+      "10 (dez) anos, contados da data do lançamento",
+      "2 (dois) anos, contados da inscrição em dívida ativa"
+    ]
+  },
+  {
+    "id": 32,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Na aquisição de fundo de comércio com continuidade da exploração da respectiva atividade, o adquirente responde pelos tributos relativos ao estabelecimento adquirido:",
+    "options": [
+      "não respondendo por eles em nenhuma hipótese",
+      "integralmente, se o alienante cessar a exploração da atividade",
+      "apenas pelos tributos cujos fatos geradores ocorrerem após a aquisição",
+      "somente quando houver previsão contratual expressa nesse sentido"
+    ]
+  },
+  {
+    "id": 33,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Pelo princípio da anterioridade tributária do exercício, em regra, é vedado cobrar tributos:",
+    "options": [
+      "no mesmo exercício financeiro em que publicada a lei que os instituiu ou aumentou",
+      "de contribuintes que não possuam inscrição estadual ativa",
+      "sem prévia autorização do Poder Judiciário",
+      "antes de decorridos dez anos da publicação da lei instituidora"
+    ]
+  },
+  {
+    "id": 34,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A vedação constitucional que impede a União, os Estados, o Distrito Federal e os Municípios de instituírem impostos sobre o patrimônio, a renda ou os serviços uns dos outros é denominada imunidade:",
+    "options": [
+      "recíproca",
+      "religiosa",
+      "cultural",
+      "condicional"
+    ]
+  },
+  {
+    "id": 35,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A dívida ativa tributária regularmente inscrita goza de presunção de:",
+    "options": [
+      "certeza e liquidez, presunção essa de natureza relativa (juris tantum)",
+      "certeza absoluta, não admitindo prova em contrário",
+      "inexigibilidade até decisão judicial definitiva",
+      "nulidade, salvo confirmação pelo contribuinte"
+    ]
+  },
+  {
+    "id": 36,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A cobrança judicial da dívida ativa da Fazenda Pública é disciplinada pela Lei nº 6.830/1980, conhecida como:",
+    "options": [
+      "Lei de Responsabilidade Fiscal",
+      "Lei de Execução Fiscal",
+      "Lei Geral de Licitações",
+      "Código de Defesa do Contribuinte"
+    ]
+  },
+  {
+    "id": 37,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A Lei Complementar nº 101/2000 (Lei de Responsabilidade Fiscal) estabelece, entre outros, limites para:",
+    "options": [
+      "a despesa total com pessoal dos entes da Federação",
+      "o número de servidores comissionados por secretaria, exclusivamente",
+      "a alíquota máxima do ISS de cada Município",
+      "o valor venal dos imóveis urbanos cadastrados"
+    ]
+  },
+  {
+    "id": 38,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "São instrumentos de planejamento orçamentário previstos na Constituição Federal:",
+    "options": [
+      "o PPA, a LDO e a LOA",
+      "o CTN, a LRF e a LEF",
+      "o PAC, a PPP e a RCL",
+      "a DRE, a DFC e a DMPL"
+    ]
+  },
+  {
+    "id": 39,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Segundo a Lei nº 4.320/1964, a receita orçamentária classifica-se em receitas correntes e receitas:",
+    "options": [
+      "de capital",
+      "extraordinárias permanentes",
+      "financeiras vinculadas",
+      "tributárias diretas"
+    ]
+  },
+  {
+    "id": 40,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A Lei nº 14.133/2021 (Nova Lei de Licitações e Contratos Administrativos) prevê, entre suas modalidades de licitação:",
+    "options": [
+      "a tomada de preços e o convite, como regra geral atual",
+      "o pregão, a concorrência, o concurso, o leilão e o diálogo competitivo",
+      "apenas o pregão eletrônico",
+      "a carta-convite e a melhor proposta técnica"
+    ]
+  }
+]

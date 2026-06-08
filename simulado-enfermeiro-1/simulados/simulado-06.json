@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que todas as palavras estão grafadas corretamente.",
+    "options": [
+      "previlégio, beneficiente, concessão",
+      "privilégio, beneficente, consessão",
+      "previlégio, beneficente, concessão",
+      "privilégio, beneficente, concessão"
+    ]
+  },
+  {
+    "id": 2,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que o uso do sinal indicativo de crase está correto.",
+    "options": [
+      "Refiro-me à Vossa Senhoria.",
+      "Deu assistência à parturiente.",
+      "Cheguei à pé à maternidade.",
+      "Falei à ele sobre o caso."
+    ]
+  },
+  {
+    "id": 3,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que a concordância verbal está correta.",
+    "options": [
+      "Deve haver protocolos atualizados.",
+      "Devem haver protocolos atualizados.",
+      "Houveram falhas no registro.",
+      "Fazem anos que atuo aqui."
+    ]
+  },
+  {
+    "id": 4,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que a regência está conforme a norma-padrão.",
+    "options": [
+      "Prefiro isto do que aquilo.",
+      "Cheguei no centro cirúrgico.",
+      "Aspiro a uma vaga no hospital.",
+      "Assisti o parto pela manhã."
+    ]
+  },
+  {
+    "id": 5,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Na frase 'é preciso cuidar bem', a palavra 'bem' classifica-se como:",
+    "options": [
+      "adjetivo",
+      "substantivo",
+      "advérbio",
+      "verbo"
+    ]
+  },
+  {
+    "id": 6,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale o uso correto de 'a/há'.",
+    "options": [
+      "Há dois dias o paciente está internado.",
+      "A dois dias o paciente está internado.",
+      "Daqui há uma hora começa a visita.",
+      "Cheguei a pouco ao plantão."
+    ]
+  },
+  {
+    "id": 7,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "No contexto 'paciente letárgico', a palavra 'letárgico' significa:",
+    "options": [
+      "agitado",
+      "sonolento, com torpor",
+      "eufórico",
+      "plenamente saudável"
+    ]
+  },
+  {
+    "id": 8,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale o conectivo de causa: 'O curativo foi trocado ___ estava úmido.'",
+    "options": [
+      "embora",
+      "portanto",
+      "caso",
+      "porque"
+    ]
+  },
+  {
+    "id": 9,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa correta quanto à concordância nominal.",
+    "options": [
+      "Os impressos anexo foram assinados.",
+      "Os impressos anexos foram assinados.",
+      "Segue anexo as receitas.",
+      "Ela está meio nervosa e eles meios cansados."
+    ]
+  },
+  {
+    "id": 10,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a oração na voz passiva.",
+    "options": [
+      "A técnica medicou o paciente.",
+      "Medicou-se o paciente.",
+      "A técnica se medicou.",
+      "O paciente foi medicado pela técnica."
+    ]
+  },
+  {
+    "id": 11,
+    "area": "Noções de Informática",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale o dispositivo de ENTRADA de dados.",
+    "options": [
+      "monitor",
+      "impressora",
+      "teclado",
+      "caixa de som"
+    ]
+  },
+  {
+    "id": 12,
+    "area": "Noções de Informática",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O atalho Ctrl+Z, na maioria dos programas, serve para:",
+    "options": [
+      "desfazer a última ação",
+      "salvar",
+      "copiar",
+      "imprimir"
+    ]
+  },
+  {
+    "id": 13,
+    "area": "Noções de Informática",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A barreira que controla o tráfego entre redes, protegendo o sistema, é o:",
+    "options": [
+      "firewall",
+      "cookie",
+      "cache",
+      "spam"
+    ]
+  },
+  {
+    "id": 14,
+    "area": "Noções de Informática",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Em informática, URL é:",
+    "options": [
+      "um tipo de vírus",
+      "um programa de edição",
+      "o endereço de um recurso na internet",
+      "uma memória do computador"
+    ]
+  },
+  {
+    "id": 15,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Campina Grande é a segunda maior cidade:",
+    "options": [
+      "do Ceará",
+      "de Pernambuco",
+      "do Rio Grande do Norte",
+      "da Paraíba"
+    ]
+  },
+  {
+    "id": 16,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "O festejo junino de Campina Grande é divulgado como:",
+    "options": [
+      "a maior festa junina da Europa",
+      "O Maior São João do Mundo",
+      "um carnaval fora de época",
+      "uma feira de tecnologia"
+    ]
+  },
+  {
+    "id": 17,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Campina Grande é conhecida como a 'Rainha da':",
+    "options": [
+      "Serra do Mar",
+      "Mata Atlântica",
+      "Borborema",
+      "Caatinga"
+    ]
+  },
+  {
+    "id": 18,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Usar o cargo público para favorecer interesses pessoais viola, sobretudo, o princípio da:",
+    "options": [
+      "publicidade",
+      "moralidade",
+      "eficiência",
+      "anterioridade"
+    ]
+  },
+  {
+    "id": 19,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Conforme a LAI, o pedido de acesso à informação, em regra:",
+    "options": [
+      "exige motivação detalhada",
+      "só pode ser feito por advogado",
+      "depende de pagamento prévio",
+      "não exige que o requerente exponha os motivos"
+    ]
+  },
+  {
+    "id": 20,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Na LGPD, o 'tratamento' de dados pessoais inclui coleta, uso, armazenamento e:",
+    "options": [
+      "eliminação",
+      "tributação",
+      "auditoria fiscal",
+      "penhora"
+    ]
+  },
+  {
+    "id": 21,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Compõem a equipe de enfermagem de nível médio:",
+    "options": [
+      "o médico e o farmacêutico",
+      "o fisioterapeuta e o nutricionista",
+      "o assistente social e o psicólogo",
+      "o técnico e o auxiliar de enfermagem"
+    ]
+  },
+  {
+    "id": 22,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A etapa do Processo de Enfermagem em que as intervenções planejadas são executadas é a:",
+    "options": [
+      "implementação",
+      "coleta de dados",
+      "diagnóstico",
+      "avaliação"
+    ]
+  },
+  {
+    "id": 23,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A última etapa do Processo de Enfermagem, que verifica os resultados alcançados, é a:",
+    "options": [
+      "coleta de dados",
+      "planejamento",
+      "avaliação de enfermagem",
+      "prescrição médica"
+    ]
+  },
+  {
+    "id": 24,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O acesso de todos às ações de saúde, sem distinção, expressa o princípio da:",
+    "options": [
+      "equidade",
+      "universalidade",
+      "integralidade",
+      "hierarquização"
+    ]
+  },
+  {
+    "id": 25,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A participação da população na formulação e na fiscalização das políticas de saúde é o:",
+    "options": [
+      "controle interno",
+      "controle social",
+      "controle externo",
+      "controle judicial"
+    ]
+  },
+  {
+    "id": 26,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "São instâncias de participação social no SUS:",
+    "options": [
+      "os tribunais de contas",
+      "os cartórios",
+      "os conselhos e as conferências de saúde",
+      "os sindicatos patronais"
+    ]
+  },
+  {
+    "id": 27,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A Estratégia Saúde da Família atua, sobretudo, no nível de:",
+    "options": [
+      "atenção primária",
+      "alta complexidade",
+      "urgência terciária",
+      "reabilitação hospitalar"
+    ]
+  },
+  {
+    "id": 28,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "O acompanhamento contínuo do usuário ao longo do tempo pela equipe é a:",
+    "options": [
+      "alta precoce",
+      "internação compulsória",
+      "triagem isolada",
+      "longitudinalidade do cuidado"
+    ]
+  },
+  {
+    "id": 29,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A via que permite administrar grandes volumes e obter efeito imediato é a:",
+    "options": [
+      "endovenosa",
+      "oral",
+      "intradérmica",
+      "subcutânea"
+    ]
+  },
+  {
+    "id": 30,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A redução do volume urinário em 24 horas é denominada:",
+    "options": [
+      "poliúria",
+      "diurese normal",
+      "glicosúria",
+      "oligúria"
+    ]
+  },
+  {
+    "id": 31,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "O controle entre líquidos administrados e eliminados pelo paciente é o:",
+    "options": [
+      "balanço energético",
+      "balanço hídrico",
+      "balanço patrimonial",
+      "índice glicêmico"
+    ]
+  },
+  {
+    "id": 32,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A queda da temperatura corporal abaixo dos valores normais é a:",
+    "options": [
+      "hipertermia",
+      "febre",
+      "hipotermia",
+      "taquicardia"
+    ]
+  },
+  {
+    "id": 33,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A vacina tríplice viral (sarampo, caxumba e rubéola) é aplicada, em regra, a partir dos:",
+    "options": [
+      "ao nascer",
+      "2 meses",
+      "12 meses",
+      "10 anos"
+    ]
+  },
+  {
+    "id": 34,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A vacina dTpa é recomendada, entre outros públicos, para a:",
+    "options": [
+      "criança apenas ao nascer",
+      "gestante",
+      "pessoa idosa exclusivamente",
+      "população masculina apenas"
+    ]
+  },
+  {
+    "id": 35,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O método de barreira que previne tanto ISTs quanto gravidez é o:",
+    "options": [
+      "preservativo",
+      "DIU de cobre",
+      "anticoncepcional oral",
+      "injeção mensal"
+    ]
+  },
+  {
+    "id": 36,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O primeiro leite materno, rico em anticorpos, é o:",
+    "options": [
+      "leite de transição",
+      "leite maduro",
+      "leite artificial",
+      "colostro"
+    ]
+  },
+  {
+    "id": 37,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A posição indicada para exame retal e aplicação de enema é a de:",
+    "options": [
+      "litotomia",
+      "Fowler",
+      "Trendelenburg",
+      "Sims (decúbito lateral esquerdo)"
+    ]
+  },
+  {
+    "id": 38,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Para a oxigenoterapia de baixo fluxo, utiliza-se comumente o:",
+    "options": [
+      "sonda vesical",
+      "dreno de tórax",
+      "cateter/cânula nasal de oxigênio",
+      "cânula de Guedel"
+    ]
+  },
+  {
+    "id": 39,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "No cuidado a paciente com doença transmitida por gotículas, adota-se a:",
+    "options": [
+      "precaução por contato apenas",
+      "precaução por gotículas",
+      "isolamento reverso",
+      "ausência de precaução"
+    ]
+  },
+  {
+    "id": 40,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "É atividade privativa do enfermeiro a:",
+    "options": [
+      "supervisão da equipe de enfermagem",
+      "prescrição de antibióticos",
+      "realização de cirurgias",
+      "dispensação na farmácia"
+    ]
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que todas as palavras estão flexionadas corretamente no plural.",
+    "options": [
+      "cidadões, animais, mãos",
+      "cidadãos, animais, mãos",
+      "cidadãos, animales, mãos",
+      "cidadões, animais, mões"
+    ]
+  },
+  {
+    "id": 2,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que o uso (ou a ausência) do sinal indicativo de crase está correto.",
+    "options": [
+      "A prova terá início às 8 horas da manhã.",
+      "Estou disposto a colaborar com à fiscalização.",
+      "Vou viajar à Recife na próxima semana.",
+      "Refiro-me à você, caro contribuinte."
+    ]
+  },
+  {
+    "id": 3,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que a concordância verbal está correta.",
+    "options": [
+      "O auditor e o fiscal compareceu à reunião.",
+      "O auditor e o fiscal compareceram à reunião.",
+      "Faltou recursos para a fiscalização.",
+      "Existe muitos contribuintes inadimplentes."
+    ]
+  },
+  {
+    "id": 4,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa correta quanto ao emprego dos porquês.",
+    "options": [
+      "Você sabe porque ele recorreu da decisão?",
+      "Não compareci porque estava doente.",
+      "Eis o porque da decisão administrativa.",
+      "Por quê você não pagou o tributo?"
+    ]
+  },
+  {
+    "id": 5,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa que apresenta o antônimo de \"lícito\".",
+    "options": [
+      "legal",
+      "permitido",
+      "ilícito",
+      "válido"
+    ]
+  },
+  {
+    "id": 6,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Na expressão \"muito eficiente\", a palavra \"muito\" classifica-se como:",
+    "options": [
+      "adjetivo",
+      "advérbio de intensidade",
+      "substantivo",
+      "preposição"
+    ]
+  },
+  {
+    "id": 7,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "No contexto \"o fiscal foi taxativo em sua decisão\", a palavra \"taxativo\" significa:",
+    "options": [
+      "hesitante e inseguro",
+      "categórico, que não admite contestação",
+      "gentil e compreensivo",
+      "confuso e contraditório"
+    ]
+  },
+  {
+    "id": 8,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que a regência verbal está conforme a norma-padrão.",
+    "options": [
+      "O documento que preciso está arquivado.",
+      "O cargo a que aspiro exige muito preparo.",
+      "Esqueci de assinar o termo de posse.",
+      "Obedeço meus superiores hierárquicos."
+    ]
+  },
+  {
+    "id": 9,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa corretamente pontuada quanto ao uso do vocativo.",
+    "options": [
+      "Senhor auditor, segue o relatório solicitado.",
+      "Senhor auditor segue, o relatório solicitado.",
+      "Senhor, auditor segue o relatório solicitado.",
+      "Senhor auditor segue o relatório solicitado."
+    ]
+  },
+  {
+    "id": 10,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Em \"Os contribuintes pagaram seus tributos; estes foram repassados ao Município\", o termo \"estes\" refere-se a:",
+    "options": [
+      "os contribuintes",
+      "os tributos",
+      "o Município",
+      "os pagamentos futuros"
+    ]
+  },
+  {
+    "id": 11,
+    "area": "Noções de Informática",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Qual é a extensão de arquivo típica de uma planilha do Microsoft Excel?",
+    "options": [
+      ".docx",
+      ".xlsx",
+      ".pptx",
+      ".pdf"
+    ]
+  },
+  {
+    "id": 12,
+    "area": "Noções de Informática",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Na maioria dos programas do Windows, qual é o atalho de teclado usado para salvar um arquivo?",
+    "options": [
+      "Ctrl + P",
+      "Ctrl + S",
+      "Ctrl + Z",
+      "Alt + F4"
+    ]
+  },
+  {
+    "id": 13,
+    "area": "Noções de Informática",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A cópia de segurança de dados, feita para permitir a recuperação em caso de perda, é denominada:",
+    "options": [
+      "firewall",
+      "backup",
+      "phishing",
+      "spam"
+    ]
+  },
+  {
+    "id": 14,
+    "area": "Noções de Informática",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A memória do computador que é volátil, ou seja, perde seu conteúdo ao ser desligado, é a:",
+    "options": [
+      "HD (disco rígido)",
+      "SSD",
+      "memória RAM",
+      "pendrive"
+    ]
+  },
+  {
+    "id": 15,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "O maior festejo junino de Campina Grande ocorre, tradicionalmente, no mês de:",
+    "options": [
+      "dezembro",
+      "junho",
+      "março",
+      "setembro"
+    ]
+  },
+  {
+    "id": 16,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O espaço onde se concentram as principais atrações do São João de Campina Grande é o:",
+    "options": [
+      "Parque do Povo",
+      "Estádio do Maracanã",
+      "Pelourinho",
+      "Parque do Ibirapuera"
+    ]
+  },
+  {
+    "id": 17,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Campina Grande localiza-se na mesorregião do(a):",
+    "options": [
+      "Sertão paraibano",
+      "Agreste paraibano",
+      "Litoral paraibano",
+      "Zona da Mata paraibana"
+    ]
+  },
+  {
+    "id": 18,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O princípio que exige que o agente público atue em conformidade com a lei, sem dela se afastar, é o da:",
+    "options": [
+      "legalidade",
+      "publicidade",
+      "eficiência",
+      "impessoalidade"
+    ]
+  },
+  {
+    "id": 19,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Conforme a LAI, a divulgação de informações de interesse coletivo pelos órgãos públicos, independentemente de requerimento, caracteriza a:",
+    "options": [
+      "transparência ativa",
+      "transparência passiva",
+      "restrição de acesso",
+      "classificação de sigilo"
+    ]
+  },
+  {
+    "id": 20,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Na LGPD, a pessoa natural a quem se referem os dados pessoais objeto de tratamento é o:",
+    "options": [
+      "controlador",
+      "operador",
+      "titular",
+      "encarregado"
+    ]
+  },
+  {
+    "id": 21,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Os empréstimos compulsórios somente podem ser instituídos pela União mediante:",
+    "options": [
+      "lei ordinária",
+      "lei complementar",
+      "decreto do Poder Executivo",
+      "medida provisória"
+    ]
+  },
+  {
+    "id": 22,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Compete aos Estados e ao Distrito Federal instituir o imposto sobre:",
+    "options": [
+      "serviços de qualquer natureza (ISS)",
+      "transmissão causa mortis e doação (ITCMD)",
+      "propriedade predial e territorial urbana (IPTU)",
+      "produtos industrializados (IPI)"
+    ]
+  },
+  {
+    "id": 23,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Segundo o Código Tributário Nacional, salvo disposição em contrário, a legislação tributária aplica-se imediatamente aos fatos geradores:",
+    "options": [
+      "já consumados antes de sua vigência",
+      "futuros e aos pendentes",
+      "cujo crédito já tenha sido extinto",
+      "anteriores à sua publicação"
+    ]
+  },
+  {
+    "id": 24,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Interpreta-se literalmente a legislação tributária que disponha sobre:",
+    "options": [
+      "responsabilidade por infrações",
+      "outorga de isenção",
+      "emprego da analogia",
+      "capacidade tributária passiva"
+    ]
+  },
+  {
+    "id": 25,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Na ausência de disposição expressa, a autoridade aplicará a legislação tributária utilizando, sucessivamente, a analogia, os princípios gerais de direito tributário, os princípios gerais de direito público e a:",
+    "options": [
+      "equidade",
+      "doutrina estrangeira",
+      "jurisprudência internacional",
+      "convenção das partes"
+    ]
+  },
+  {
+    "id": 26,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O emprego da analogia, na integração da legislação tributária, não poderá resultar na:",
+    "options": [
+      "revisão de lançamento já efetuado",
+      "exigência de tributo não previsto em lei",
+      "concessão de parcelamento ao contribuinte",
+      "ampliação de prazo de pagamento"
+    ]
+  },
+  {
+    "id": 27,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O emprego da equidade, na integração da legislação tributária, não poderá resultar na:",
+    "options": [
+      "redução de penalidade",
+      "dispensa do pagamento de tributo devido",
+      "concessão de prazo adicional",
+      "anulação de auto de infração"
+    ]
+  },
+  {
+    "id": 28,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A solidariedade tributária entre pessoas com interesse comum na situação que constitua o fato gerador:",
+    "options": [
+      "comporta benefício de ordem",
+      "não comporta benefício de ordem",
+      "extingue automaticamente o crédito",
+      "depende de prévia decisão judicial"
+    ]
+  },
+  {
+    "id": 29,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Os tributos cujo fato gerador seja a propriedade de bem imóvel sub-rogam-se na pessoa do adquirente, salvo quando conste do título a prova de sua:",
+    "options": [
+      "quitação",
+      "avaliação fiscal",
+      "matrícula em cartório",
+      "isenção legal"
+    ]
+  },
+  {
+    "id": 30,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O lançamento reporta-se à data da ocorrência do fato gerador e rege-se pela lei então vigente, ainda que posteriormente:",
+    "options": [
+      "modificada ou revogada",
+      "expressamente confirmada",
+      "republicada sem alterações",
+      "declarada constitucional"
+    ]
+  },
+  {
+    "id": 31,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A modalidade de lançamento em que o sujeito passivo antecipa o pagamento sem prévio exame da autoridade, que posteriormente o homologa, é o lançamento por:",
+    "options": [
+      "ofício",
+      "declaração",
+      "homologação",
+      "arbitramento"
+    ]
+  },
+  {
+    "id": 32,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O Imposto sobre a Propriedade de Veículos Automotores (IPVA) é de competência:",
+    "options": [
+      "dos Municípios",
+      "dos Estados e do Distrito Federal",
+      "da União",
+      "compartilhada entre União e Municípios"
+    ]
+  },
+  {
+    "id": 33,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Não incide ITBI na transmissão de bens incorporados ao patrimônio de pessoa jurídica em realização de capital, salvo se a atividade preponderante do adquirente for:",
+    "options": [
+      "industrial",
+      "compra e venda de imóveis ou sua locação",
+      "prestação de serviços de saúde",
+      "educação básica"
+    ]
+  },
+  {
+    "id": 34,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Considera-se zona urbana, para fins de IPTU, a área com pelo menos dois dos melhoramentos indicados em lei, construídos ou mantidos pelo:",
+    "options": [
+      "proprietário do imóvel",
+      "Poder Público",
+      "condomínio residencial",
+      "cartório de registro"
+    ]
+  },
+  {
+    "id": 35,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Em regra, a base de cálculo do ISS é:",
+    "options": [
+      "o valor venal do imóvel",
+      "o preço do serviço prestado",
+      "o faturamento anual da empresa",
+      "o lucro líquido do prestador"
+    ]
+  },
+  {
+    "id": 36,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A contribuição para o custeio do serviço de iluminação pública (COSIP) é de competência:",
+    "options": [
+      "dos Estados",
+      "dos Municípios e do Distrito Federal",
+      "exclusivamente da União",
+      "dos consórcios públicos"
+    ]
+  },
+  {
+    "id": 37,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A vedação de que a Lei Orçamentária Anual contenha dispositivo estranho à previsão da receita e à fixação da despesa traduz o princípio orçamentário da:",
+    "options": [
+      "exclusividade",
+      "unidade",
+      "anualidade",
+      "publicidade"
+    ]
+  },
+  {
+    "id": 38,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O Plano Plurianual (PPA) tem vigência de:",
+    "options": [
+      "1 (um) ano",
+      "2 (dois) anos",
+      "4 (quatro) anos",
+      "8 (oito) anos"
+    ]
+  },
+  {
+    "id": 39,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Segundo a Lei nº 4.320/1964, os estágios da despesa pública, na ordem, são:",
+    "options": [
+      "empenho, liquidação e pagamento",
+      "previsão, fixação e execução",
+      "provisão, reserva e quitação",
+      "dotação, emissão e resgate"
+    ]
+  },
+  {
+    "id": 40,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Entre os estágios da receita pública orçamentária previstos na Lei nº 4.320/1964, incluem-se:",
+    "options": [
+      "empenho e liquidação",
+      "lançamento, arrecadação e recolhimento",
+      "sanção e veto",
+      "emissão e resgate"
+    ]
+  }
+]

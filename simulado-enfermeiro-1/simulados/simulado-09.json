@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que todas as palavras estão grafadas corretamente.",
+    "options": [
+      "esceção, exceder, excelente",
+      "exceção, esceder, escelente",
+      "esceção, esceder, escelente",
+      "exceção, exceder, excelente"
+    ]
+  },
+  {
+    "id": 2,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que o uso do sinal indicativo de crase está correto.",
+    "options": [
+      "Deu atenção à queixa da paciente.",
+      "Refiro-me à Vossa Senhoria.",
+      "Fui à pé até o leito.",
+      "Entreguei o laudo à ele."
+    ]
+  },
+  {
+    "id": 3,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que a concordância verbal está correta.",
+    "options": [
+      "Houveram muitas internações no plantão.",
+      "Houve muitas internações no plantão.",
+      "Existe muitos leitos vagos.",
+      "Fazem dias que aguardo."
+    ]
+  },
+  {
+    "id": 4,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que a regência está conforme a norma-padrão.",
+    "options": [
+      "Obedeço as normas da instituição.",
+      "Cheguei na unidade cedo.",
+      "Obedeço às normas da instituição.",
+      "Prefiro ler do que escrever."
+    ]
+  },
+  {
+    "id": 5,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Na frase 'a equipe agiu prontamente', a palavra 'prontamente' classifica-se como:",
+    "options": [
+      "adjetivo",
+      "substantivo",
+      "advérbio",
+      "numeral"
+    ]
+  },
+  {
+    "id": 6,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa que completa corretamente: 'Sentiu-se ___ após a punção venosa.'",
+    "options": [
+      "mau",
+      "mais",
+      "más",
+      "mal"
+    ]
+  },
+  {
+    "id": 7,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "No contexto 'o enfermeiro foi taxativo', a palavra 'taxativo' significa:",
+    "options": [
+      "categórico, que não admite contestação",
+      "hesitante",
+      "gentil",
+      "confuso"
+    ]
+  },
+  {
+    "id": 8,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale o conectivo de concessão: 'Compareceu ao plantão, ___ estivesse cansada.'",
+    "options": [
+      "porque",
+      "embora",
+      "portanto",
+      "assim que"
+    ]
+  },
+  {
+    "id": 9,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa correta quanto à concordância nominal.",
+    "options": [
+      "Segue anexo as guias.",
+      "É necessária cautela na triagem.",
+      "Ela está meia nervosa.",
+      "Comprei bastante materiais; estavam caro."
+    ]
+  },
+  {
+    "id": 10,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a oração na voz passiva.",
+    "options": [
+      "O exame foi solicitado pelo médico.",
+      "O médico solicitou o exame.",
+      "Solicitou-se o exame.",
+      "O médico se solicitou."
+    ]
+  },
+  {
+    "id": 11,
+    "area": "Noções de Informática",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A memória volátil, que perde os dados ao desligar o computador, é a:",
+    "options": [
+      "HD",
+      "SSD",
+      "memória RAM",
+      "pendrive"
+    ]
+  },
+  {
+    "id": 12,
+    "area": "Noções de Informática",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O atalho Ctrl+V, na maioria dos programas, serve para:",
+    "options": [
+      "copiar",
+      "recortar",
+      "salvar",
+      "colar"
+    ]
+  },
+  {
+    "id": 13,
+    "area": "Noções de Informática",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "O malware que se replica e se propaga automaticamente por redes é o:",
+    "options": [
+      "cookie",
+      "driver",
+      "worm (verme)",
+      "plugin"
+    ]
+  },
+  {
+    "id": 14,
+    "area": "Noções de Informática",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O Google Chrome é um:",
+    "options": [
+      "programa antivírus",
+      "editor de planilhas",
+      "sistema operacional",
+      "navegador de internet"
+    ]
+  },
+  {
+    "id": 15,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Campina Grande pertence ao estado da:",
+    "options": [
+      "Bahia",
+      "Paraíba",
+      "Sergipe",
+      "Alagoas"
+    ]
+  },
+  {
+    "id": 16,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A capital do estado da Paraíba é:",
+    "options": [
+      "João Pessoa",
+      "Natal",
+      "Recife",
+      "Maceió"
+    ]
+  },
+  {
+    "id": 17,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Campina Grande é apelidada de:",
+    "options": [
+      "Rainha da Borborema",
+      "Cidade Sorriso",
+      "Capital do Sol",
+      "Cidade Luz"
+    ]
+  },
+  {
+    "id": 18,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Ao agente público só é permitido fazer o que a lei autoriza, conforme o princípio da:",
+    "options": [
+      "autonomia da vontade",
+      "legalidade",
+      "conveniência",
+      "oportunidade"
+    ]
+  },
+  {
+    "id": 19,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "O fornecimento de informação pública mediante pedido do cidadão caracteriza a:",
+    "options": [
+      "transparência ativa",
+      "classificação de sigilo",
+      "censura prévia",
+      "transparência passiva"
+    ]
+  },
+  {
+    "id": 20,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Na LGPD, a pessoa natural a quem se referem os dados pessoais é o:",
+    "options": [
+      "controlador",
+      "operador",
+      "titular",
+      "encarregado"
+    ]
+  },
+  {
+    "id": 21,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O exercício profissional da enfermagem é regido pela:",
+    "options": [
+      "Lei nº 8.080/1990",
+      "Lei nº 8.142/1990",
+      "CLT exclusivamente",
+      "Lei nº 7.498/1986"
+    ]
+  },
+  {
+    "id": 22,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A direção do serviço de enfermagem na instituição de saúde é privativa do:",
+    "options": [
+      "técnico de enfermagem",
+      "auxiliar de enfermagem",
+      "enfermeiro",
+      "médico"
+    ]
+  },
+  {
+    "id": 23,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A definição de metas e a prescrição de intervenções de enfermagem, na SAE, é a etapa de:",
+    "options": [
+      "planejamento de enfermagem",
+      "coleta de dados",
+      "avaliação",
+      "alta"
+    ]
+  },
+  {
+    "id": 24,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A organização dos serviços por níveis de complexidade (básica, média e alta) é a:",
+    "options": [
+      "privatização",
+      "hierarquização",
+      "centralização",
+      "seletividade"
+    ]
+  },
+  {
+    "id": 25,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A direção única em cada esfera de governo decorre da diretriz do SUS da:",
+    "options": [
+      "descentralização",
+      "centralização",
+      "verticalização",
+      "terceirização"
+    ]
+  },
+  {
+    "id": 26,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A política responsável pelas vacinas no Brasil é o:",
+    "options": [
+      "SISVAN",
+      "SAMU",
+      "Programa Nacional de Imunizações (PNI)",
+      "HiperDia"
+    ]
+  },
+  {
+    "id": 27,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A vacina tríplice viral protege contra:",
+    "options": [
+      "hepatite, tétano e difteria",
+      "sarampo, caxumba e rubéola",
+      "febre amarela e dengue",
+      "tuberculose e poliomielite"
+    ]
+  },
+  {
+    "id": 28,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A primeira dose da vacina contra hepatite B deve ser feita, idealmente:",
+    "options": [
+      "aos 5 anos",
+      "aos 12 meses",
+      "apenas na adolescência",
+      "ao nascer"
+    ]
+  },
+  {
+    "id": 29,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A via de administração da maioria das vacinas injetáveis no deltoide é a:",
+    "options": [
+      "intradérmica",
+      "subcutânea profunda",
+      "endovenosa",
+      "intramuscular"
+    ]
+  },
+  {
+    "id": 30,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A aplicação de antisséptico na pele do paciente antes de um procedimento é a:",
+    "options": [
+      "desinfecção de superfície",
+      "antissepsia",
+      "esterilização",
+      "limpeza concorrente"
+    ]
+  },
+  {
+    "id": 31,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "O conjunto de medidas para impedir a contaminação por micro-organismos durante um procedimento é a:",
+    "options": [
+      "antissepsia da água",
+      "desinfecção do piso",
+      "assepsia",
+      "esterilização do ar"
+    ]
+  },
+  {
+    "id": 32,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A escala de Braden é utilizada para avaliar o risco de:",
+    "options": [
+      "lesão por pressão",
+      "queda",
+      "desnutrição",
+      "flebite"
+    ]
+  },
+  {
+    "id": 33,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Medida de prevenção da lesão por pressão no paciente acamado:",
+    "options": [
+      "jejum prolongado",
+      "restrição hídrica",
+      "mudança de decúbito a cada 2 horas",
+      "imobilização total"
+    ]
+  },
+  {
+    "id": 34,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A posição com a cabeceira elevada (semissentado), que melhora a respiração, é a de:",
+    "options": [
+      "Fowler",
+      "Trendelenburg",
+      "decúbito ventral",
+      "litotomia"
+    ]
+  },
+  {
+    "id": 35,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A posição utilizada em exames ginecológicos e partos é a de:",
+    "options": [
+      "Sims",
+      "Fowler",
+      "decúbito ventral",
+      "litotomia (ginecológica)"
+    ]
+  },
+  {
+    "id": 36,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Para drenagem ou alimentação gástrica utiliza-se a:",
+    "options": [
+      "sonda vesical de demora",
+      "sonda nasogástrica",
+      "cânula de Guedel",
+      "cateter venoso central"
+    ]
+  },
+  {
+    "id": 37,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A eliminação de urina é denominada:",
+    "options": [
+      "êmese",
+      "diurese",
+      "evacuação",
+      "expectoração"
+    ]
+  },
+  {
+    "id": 38,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A eliminação do conteúdo gástrico pela boca é a:",
+    "options": [
+      "diurese",
+      "diaforese",
+      "disúria",
+      "êmese (vômito)"
+    ]
+  },
+  {
+    "id": 39,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Na urgência, o atendimento por prioridade clínica, e não por ordem de chegada, baseia-se na:",
+    "options": [
+      "classificação de risco",
+      "ordem alfabética",
+      "idade do paciente",
+      "sorteio"
+    ]
+  },
+  {
+    "id": 40,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Na RCP do adulto por um socorrista, a relação compressão-ventilação é de:",
+    "options": [
+      "15:1",
+      "5:2",
+      "30:2",
+      "12:2"
+    ]
+  }
+]

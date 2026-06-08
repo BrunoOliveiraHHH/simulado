@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que todas as palavras estão grafadas corretamente.",
+    "options": [
+      "análize, paralizar, pesquizar",
+      "análise, paraliszar, pesquisar",
+      "análize, paralisar, pesquizar",
+      "análise, paralisar, pesquisar"
+    ]
+  },
+  {
+    "id": 2,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que o uso do sinal indicativo de crase está correto.",
+    "options": [
+      "Refiro-me à Vossa Excelência.",
+      "Fez referência à norma de biossegurança.",
+      "Cheguei à pé à unidade.",
+      "Entreguei o exame à ele."
+    ]
+  },
+  {
+    "id": 3,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que a concordância verbal está correta.",
+    "options": [
+      "Houve muitos atendimentos hoje.",
+      "Houveram muitos atendimentos hoje.",
+      "Existe falhas no relatório.",
+      "Fazem horas que aguardo."
+    ]
+  },
+  {
+    "id": 4,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que a regência está conforme a norma-padrão.",
+    "options": [
+      "Obedeço as normas da instituição.",
+      "Cheguei na UPA cedo.",
+      "Obedeço às normas da instituição.",
+      "Prefiro cuidar do que registrar."
+    ]
+  },
+  {
+    "id": 5,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Na expressão 'cuidado humanizado', a palavra 'humanizado' classifica-se como:",
+    "options": [
+      "advérbio",
+      "substantivo",
+      "adjetivo",
+      "verbo"
+    ]
+  },
+  {
+    "id": 6,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "No contexto 'um processo moroso', a palavra 'moroso' significa:",
+    "options": [
+      "lento, demorado",
+      "rápido",
+      "eficiente",
+      "pontual"
+    ]
+  },
+  {
+    "id": 7,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "No contexto 'fonte fidedigna', a palavra 'fidedigna' significa:",
+    "options": [
+      "falsa",
+      "digna de confiança",
+      "ilegível",
+      "duvidosa"
+    ]
+  },
+  {
+    "id": 8,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale o conectivo que estabelece relação adversativa: 'O paciente melhorou; ___, permanece em observação.'",
+    "options": [
+      "portanto",
+      "porque",
+      "assim que",
+      "no entanto"
+    ]
+  },
+  {
+    "id": 9,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa correta quanto à concordância nominal.",
+    "options": [
+      "Os relatórios anexo foram entregues.",
+      "Os relatórios anexos foram entregues.",
+      "Segue anexo as fichas.",
+      "Ela está meia preocupada."
+    ]
+  },
+  {
+    "id": 10,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a oração na voz passiva.",
+    "options": [
+      "A equipe avaliou a ferida.",
+      "Avaliou-se a ferida.",
+      "A equipe se avaliou.",
+      "A ferida foi avaliada pela equipe."
+    ]
+  },
+  {
+    "id": 11,
+    "area": "Noções de Informática",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale o dispositivo de SAÍDA de dados.",
+    "options": [
+      "teclado",
+      "mouse",
+      "monitor",
+      "scanner"
+    ]
+  },
+  {
+    "id": 12,
+    "area": "Noções de Informática",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O atalho Ctrl+X, na maioria dos programas, serve para:",
+    "options": [
+      "recortar",
+      "copiar",
+      "colar",
+      "salvar"
+    ]
+  },
+  {
+    "id": 13,
+    "area": "Noções de Informática",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A fraude que tenta obter dados sensíveis fingindo ser uma entidade confiável é o:",
+    "options": [
+      "phishing",
+      "backup",
+      "firewall",
+      "cache"
+    ]
+  },
+  {
+    "id": 14,
+    "area": "Noções de Informática",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O protocolo de navegação segura, com criptografia dos dados, é o:",
+    "options": [
+      "HTTP",
+      "FTP",
+      "HTTPS",
+      "SMTP"
+    ]
+  },
+  {
+    "id": 15,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A capital do estado da Paraíba é:",
+    "options": [
+      "Natal",
+      "Recife",
+      "Maceió",
+      "João Pessoa"
+    ]
+  },
+  {
+    "id": 16,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Campina Grande situa-se sobre o(a):",
+    "options": [
+      "Pantanal",
+      "Planalto da Borborema",
+      "Serra do Mar",
+      "Chapada Diamantina"
+    ]
+  },
+  {
+    "id": 17,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O festejo junino de Campina Grande é conhecido como:",
+    "options": [
+      "Festa do Peão",
+      "Oktoberfest",
+      "O Maior São João do Mundo",
+      "Carnaval de Momo"
+    ]
+  },
+  {
+    "id": 18,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Buscar produtividade e o melhor resultado no serviço público relaciona-se ao princípio da:",
+    "options": [
+      "legalidade",
+      "eficiência",
+      "publicidade",
+      "moralidade"
+    ]
+  },
+  {
+    "id": 19,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Conforme a LAI, quando não for possível o acesso imediato, o prazo de resposta ao pedido é de até:",
+    "options": [
+      "5 dias",
+      "90 dias",
+      "1 ano",
+      "20 dias, prorrogáveis por mais 10"
+    ]
+  },
+  {
+    "id": 20,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Na LGPD, o agente a quem competem as decisões sobre o tratamento de dados é o:",
+    "options": [
+      "controlador",
+      "operador",
+      "titular",
+      "encarregado"
+    ]
+  },
+  {
+    "id": 21,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A equipe de enfermagem é composta pelo enfermeiro e pelos:",
+    "options": [
+      "médicos plantonistas",
+      "agentes administrativos",
+      "farmacêuticos",
+      "técnicos e auxiliares de enfermagem, sob supervisão do enfermeiro"
+    ]
+  },
+  {
+    "id": 22,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "O Código de Ética dos Profissionais de Enfermagem vigente foi instituído pela:",
+    "options": [
+      "Resolução COFEN nº 564/2017",
+      "Lei nº 8.080/1990",
+      "Portaria GM/MS nº 2.436/2017",
+      "RDC ANVISA nº 222/2018"
+    ]
+  },
+  {
+    "id": 23,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A primeira etapa do Processo de Enfermagem é a:",
+    "options": [
+      "avaliação de enfermagem",
+      "prescrição médica",
+      "coleta de dados (histórico de enfermagem)",
+      "alta de enfermagem"
+    ]
+  },
+  {
+    "id": 24,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Tratar de forma desigual os desiguais, investindo mais onde a necessidade é maior, expressa o princípio do SUS da:",
+    "options": [
+      "universalidade",
+      "equidade",
+      "hierarquização",
+      "centralização"
+    ]
+  },
+  {
+    "id": 25,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A oferta articulada de ações de promoção, proteção e recuperação da saúde expressa o princípio da:",
+    "options": [
+      "seletividade",
+      "integralidade",
+      "subsidiariedade",
+      "unicidade"
+    ]
+  },
+  {
+    "id": 26,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Entre as diretrizes organizativas do SUS está a:",
+    "options": [
+      "centralização federal das ações",
+      "gestão exclusivamente privada",
+      "descentralização, com direção única em cada esfera de governo",
+      "ausência de regionalização"
+    ]
+  },
+  {
+    "id": 27,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A Conferência de Saúde, em regra, reúne-se:",
+    "options": [
+      "a cada quatro anos",
+      "mensalmente",
+      "a cada dez anos",
+      "semanalmente"
+    ]
+  },
+  {
+    "id": 28,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A comunicação obrigatória às autoridades sobre a ocorrência de determinada doença é a:",
+    "options": [
+      "alta administrativa",
+      "internação compulsória",
+      "auditoria clínica",
+      "notificação compulsória"
+    ]
+  },
+  {
+    "id": 29,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "As medidas adotadas no cuidado a TODOS os pacientes, independentemente do diagnóstico, são as:",
+    "options": [
+      "precauções padrão",
+      "precauções por contato apenas",
+      "precauções por aerossóis apenas",
+      "medidas de isolamento reverso"
+    ]
+  },
+  {
+    "id": 30,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O programa responsável pela política de vacinação no Brasil é o:",
+    "options": [
+      "SISVAN",
+      "HiperDia",
+      "SAMU",
+      "Programa Nacional de Imunizações (PNI)"
+    ]
+  },
+  {
+    "id": 31,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "As vacinas BCG e hepatite B, em regra, são aplicadas:",
+    "options": [
+      "aos 6 meses",
+      "ao nascer",
+      "aos 12 meses",
+      "aos 4 anos"
+    ]
+  },
+  {
+    "id": 32,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Considera-se valor de referência (normal) de pressão arterial no adulto:",
+    "options": [
+      "180/120 mmHg",
+      "80/40 mmHg",
+      "120/80 mmHg",
+      "200/100 mmHg"
+    ]
+  },
+  {
+    "id": 33,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Considera-se hipertensão arterial no adulto, em geral, a:",
+    "options": [
+      "PA de 100/60 mmHg",
+      "PA de 110/70 mmHg",
+      "PA igual ou superior a 140/90 mmHg",
+      "PA de 90/60 mmHg"
+    ]
+  },
+  {
+    "id": 34,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Para calcular o gotejamento de uma infusão em macrogotas, utiliza-se:",
+    "options": [
+      "volume multiplicado pelo tempo",
+      "volume (mL) dividido por (tempo em horas × 3)",
+      "tempo dividido pelo volume",
+      "volume × 3 × tempo"
+    ]
+  },
+  {
+    "id": 35,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A úlcera decorrente de pressão prolongada sobre proeminências ósseas é denominada:",
+    "options": [
+      "lesão por pressão",
+      "queimadura de 1º grau",
+      "dermatite alérgica",
+      "lesão por fricção apenas"
+    ]
+  },
+  {
+    "id": 36,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Medida fundamental para prevenir lesão por pressão em paciente acamado:",
+    "options": [
+      "restrição hídrica",
+      "jejum prolongado",
+      "imobilização contínua",
+      "mudança de decúbito periódica"
+    ]
+  },
+  {
+    "id": 37,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "O nível de consciência de um paciente é avaliado, classicamente, pela:",
+    "options": [
+      "escala de Apgar",
+      "escala de Braden",
+      "escala de Borg",
+      "escala de coma de Glasgow"
+    ]
+  },
+  {
+    "id": 38,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O serviço estratégico da rede de atenção à saúde mental é o:",
+    "options": [
+      "pronto-socorro cardiológico",
+      "banco de sangue",
+      "Centro de Atenção Psicossocial (CAPS)",
+      "laboratório de análises"
+    ]
+  },
+  {
+    "id": 39,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O principal modelo de organização da atenção primária no SUS é a:",
+    "options": [
+      "internação domiciliar privada",
+      "Estratégia Saúde da Família (ESF)",
+      "auditoria hospitalar",
+      "central de regulação"
+    ]
+  },
+  {
+    "id": 40,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A via de administração que proporciona efeito mais rápido, por levar o fármaco diretamente à corrente sanguínea, é a:",
+    "options": [
+      "endovenosa",
+      "oral",
+      "subcutânea",
+      "intradérmica"
+    ]
+  }
+]

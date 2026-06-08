@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Simulados — Auditor Fiscal da Receita Municipal</title>
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+  <header class="topo">
+    <div>
+      <h1>📊 Simulados — Auditor Fiscal da Receita Municipal</h1>
+      <p class="subtitulo">Campina Grande/PB · banca IDECAN · 40 questões · 60 pontos</p>
+    </div>
+    <div id="usuario-atual" class="usuario-atual" hidden>
+      <span id="usuario-nome"></span>
+      <button id="btn-trocar" class="link">trocar</button>
+    </div>
+  </header>
+
+  <!-- Tela 1: usuário -->
+  <section id="tela-usuario" class="tela">
+    <div class="cartao centro">
+      <h2>Quem vai treinar?</h2>
+      <p class="ajuda">Escolha um perfil existente ou crie um novo. Cada usuário tem
+        progresso e resultados próprios. Durante a prova, <strong>nada é revelado</strong>:
+        suas respostas são apenas gravadas. A nota só aparece ao finalizar.</p>
+
+      <div id="lista-usuarios" class="lista-usuarios"></div>
+
+      <form id="form-usuario" class="form-usuario">
+        <input id="nome-usuario" type="text" placeholder="Novo usuário (nome)"
+               autocomplete="off" maxlength="40" />
+        <button type="submit">Entrar</button>
+      </form>
+    </div>
+  </section>
+
+  <!-- Tela 2: escolher simulado -->
+  <section id="tela-simulados" class="tela" hidden>
+    <h2 class="titulo-secao">Escolha um simulado</h2>
+    <p class="ajuda">Cada simulado segue a distribuição do edital: 10 Português · 4 Informática ·
+      3 História de CG · 3 Legislação/Ética · 20 Específicos (peso 2).</p>
+    <div id="lista-simulados" class="grade-simulados"></div>
+  </section>
+
+  <!-- Tela 3: prova -->
+  <section id="tela-prova" class="tela" hidden>
+    <div class="barra-progresso">
+      <div class="info">
+        <span id="prova-titulo"></span>
+        <span id="prova-respondidas">0 / 40 respondidas</span>
+      </div>
+      <div class="trilho"><div id="preenchimento" class="preenchimento"></div></div>
+    </div>
+
+    <div id="prova-cartao" class="cartao quiz">
+      <div class="meta">
+        <span id="q-num" class="contador"></span>
+        <span id="q-area" class="badge area"></span>
+        <span id="q-dif" class="badge"></span>
+      </div>
+      <p id="q-texto" class="enunciado"></p>
+      <div id="area-resposta"></div>
+
+      <div class="acoes">
+        <button id="btn-anterior" class="secundario">◀ Anterior</button>
+        <button id="btn-voltar-simulados" class="secundario">Sair</button>
+        <button id="btn-proxima">Próxima ▶</button>
+      </div>
+    </div>
+
+    <div class="acoes centro finalizar-area">
+      <button id="btn-finalizar">Finalizar e ver resultado</button>
+    </div>
+    <p id="aviso-pendentes" class="ajuda centro"></p>
+  </section>
+
+  <!-- Tela 4: resultado -->
+  <section id="tela-resultado" class="tela" hidden>
+    <div class="cartao centro">
+      <span id="selo-aprovacao" class="selo"></span>
+      <h2 id="resultado-titulo"></h2>
+      <div class="nota-grande"><span id="nota-valor">0</span><span class="nota-max">/ 60</span></div>
+      <p id="resultado-percentual" class="ajuda"></p>
+
+      <div id="desempenho" class="desempenho"></div>
+
+      <p class="ajuda nota-rodape">O gabarito não é revelado — foque em revisar as disciplinas
+        com menor aproveitamento. Aprovação no simulado segue a regra do edital
+        (≥ 50% e ao menos 1 acerto em cada disciplina).</p>
+
+      <div class="acoes centro">
+        <button id="btn-refazer" class="secundario">Refazer este simulado</button>
+        <button id="btn-outro-simulado">Escolher outro simulado</button>
+      </div>
+    </div>
+  </section>
+
+  <script src="/app.js"></script>
+</body>
+</html>

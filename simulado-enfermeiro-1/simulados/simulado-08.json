@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que todas as palavras estão grafadas corretamente.",
+    "options": [
+      "paralização, fiscalização, autorização",
+      "paralisação, fiscalização, autorização",
+      "paralisação, fiscalisação, autorização",
+      "paralização, fiscalisação, autorisação"
+    ]
+  },
+  {
+    "id": 2,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que o uso do sinal indicativo de crase está correto.",
+    "options": [
+      "Daqui à pouco inicia o plantão.",
+      "Fui à cavalo até o sítio.",
+      "Refiro-me à este caso.",
+      "Daqui a pouco inicia o plantão."
+    ]
+  },
+  {
+    "id": 3,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que a concordância verbal está correta.",
+    "options": [
+      "Cada um dos técnicos receberam sua escala.",
+      "Fazem anos que não há concurso.",
+      "Cada um dos técnicos recebeu sua escala.",
+      "Houveram muitos casos."
+    ]
+  },
+  {
+    "id": 4,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que a regência está conforme a norma-padrão.",
+    "options": [
+      "Viso ao bem-estar do paciente.",
+      "Prefiro mais isto do que aquilo.",
+      "Cheguei na cidade ontem.",
+      "Namoro com ela há tempos."
+    ]
+  },
+  {
+    "id": 5,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Na expressão 'muito grave', a palavra 'muito' classifica-se como:",
+    "options": [
+      "advérbio de intensidade",
+      "adjetivo",
+      "substantivo",
+      "artigo"
+    ]
+  },
+  {
+    "id": 6,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa corretamente pontuada.",
+    "options": [
+      "Estudou bastante portanto foi aprovado.",
+      "Estudou, bastante portanto, foi aprovado.",
+      "Estudou bastante; portanto, foi aprovado.",
+      "Estudou bastante; portanto foi, aprovado."
+    ]
+  },
+  {
+    "id": 7,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "No contexto 'fonte fidedigna', a palavra 'fidedigna' significa:",
+    "options": [
+      "falsa",
+      "ilegível",
+      "desatualizada",
+      "digna de fé, confiável"
+    ]
+  },
+  {
+    "id": 8,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale o conectivo de finalidade: 'Lave as mãos ___ prevenir infecções.'",
+    "options": [
+      "por isso",
+      "a fim de",
+      "embora",
+      "porque"
+    ]
+  },
+  {
+    "id": 9,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa correta quanto à concordância nominal.",
+    "options": [
+      "Era meio-dia e meio quando terminou o plantão.",
+      "Ela está meia triste.",
+      "Seguem anexo as notas.",
+      "Era meio-dia e meia quando terminou o plantão."
+    ]
+  },
+  {
+    "id": 10,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a oração na voz passiva.",
+    "options": [
+      "A técnica afere os sinais vitais.",
+      "Os sinais vitais são aferidos pela técnica.",
+      "Aferem-se os sinais vitais.",
+      "A técnica se afere."
+    ]
+  },
+  {
+    "id": 11,
+    "area": "Noções de Informática",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale o dispositivo de SAÍDA de dados.",
+    "options": [
+      "monitor",
+      "teclado",
+      "mouse",
+      "scanner"
+    ]
+  },
+  {
+    "id": 12,
+    "area": "Noções de Informática",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O atalho Ctrl+X, na maioria dos programas, serve para:",
+    "options": [
+      "copiar",
+      "colar",
+      "recortar",
+      "salvar"
+    ]
+  },
+  {
+    "id": 13,
+    "area": "Noções de Informática",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A criptografia, em segurança da informação, serve para:",
+    "options": [
+      "acelerar a internet",
+      "apagar arquivos",
+      "proteger a confidencialidade dos dados",
+      "imprimir"
+    ]
+  },
+  {
+    "id": 14,
+    "area": "Noções de Informática",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A computação em nuvem permite acessar arquivos:",
+    "options": [
+      "de qualquer lugar com acesso à internet",
+      "apenas no computador local",
+      "somente off-line",
+      "apenas a partir de um CD"
+    ]
+  },
+  {
+    "id": 15,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O maior São João de Campina Grande ocorre no mês de:",
+    "options": [
+      "dezembro",
+      "junho",
+      "abril",
+      "outubro"
+    ]
+  },
+  {
+    "id": 16,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Campina Grande é a 'Rainha da':",
+    "options": [
+      "Serra do Mar",
+      "Mata Atlântica",
+      "Caatinga Central",
+      "Borborema"
+    ]
+  },
+  {
+    "id": 17,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Campina Grande destaca-se na Paraíba como importante centro:",
+    "options": [
+      "universitário e tecnológico",
+      "portuário",
+      "pesqueiro",
+      "vinícola"
+    ]
+  },
+  {
+    "id": 18,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Publicar o extrato de um contrato administrativo atende ao princípio da:",
+    "options": [
+      "anterioridade",
+      "eficiência",
+      "moralidade",
+      "publicidade"
+    ]
+  },
+  {
+    "id": 19,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Conforme a LAI, negado o acesso à informação, o cidadão pode:",
+    "options": [
+      "nada fazer",
+      "interpor recurso",
+      "ser multado",
+      "ser preso"
+    ]
+  },
+  {
+    "id": 20,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O órgão federal responsável por fiscalizar a aplicação da LGPD é a:",
+    "options": [
+      "ANS",
+      "ANEEL",
+      "ANPD",
+      "ANVISA"
+    ]
+  },
+  {
+    "id": 21,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O Código de Ética dos Profissionais de Enfermagem vigente é a:",
+    "options": [
+      "Lei nº 8.080/1990",
+      "Resolução COFEN nº 564/2017",
+      "Portaria nº 2.436/2017",
+      "RDC nº 222/2018"
+    ]
+  },
+  {
+    "id": 22,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A entrevista e o exame físico iniciais, na SAE, integram a etapa de:",
+    "options": [
+      "avaliação",
+      "prescrição médica",
+      "coleta de dados (histórico)",
+      "alta"
+    ]
+  },
+  {
+    "id": 23,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Investir mais onde há maior necessidade de saúde expressa o princípio da:",
+    "options": [
+      "equidade",
+      "universalidade",
+      "integralidade",
+      "centralização"
+    ]
+  },
+  {
+    "id": 24,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A Lei nº 8.142/1990 trata, sobretudo, da:",
+    "options": [
+      "organização hospitalar",
+      "tabela de procedimentos",
+      "carreira médica",
+      "participação da comunidade no SUS"
+    ]
+  },
+  {
+    "id": 25,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "É a porta de entrada preferencial e coordenadora do cuidado no SUS:",
+    "options": [
+      "a UTI",
+      "o pronto-socorro",
+      "a auditoria",
+      "a atenção primária à saúde"
+    ]
+  },
+  {
+    "id": 26,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A escuta qualificada e a recepção humanizada do usuário caracterizam o:",
+    "options": [
+      "acolhimento",
+      "faturamento",
+      "arquivamento",
+      "censo demográfico"
+    ]
+  },
+  {
+    "id": 27,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A vacina, que estimula o próprio organismo a produzir anticorpos, é exemplo de:",
+    "options": [
+      "imunização passiva",
+      "soroterapia",
+      "imunização ativa",
+      "antibioticoterapia"
+    ]
+  },
+  {
+    "id": 28,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "O soro antitetânico, que fornece anticorpos prontos, é exemplo de:",
+    "options": [
+      "imunização ativa",
+      "imunização passiva",
+      "vacina atenuada",
+      "quimioprofilaxia"
+    ]
+  },
+  {
+    "id": 29,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A insulina é administrada, em geral, por via:",
+    "options": [
+      "intramuscular",
+      "endovenosa",
+      "subcutânea",
+      "intradérmica"
+    ]
+  },
+  {
+    "id": 30,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Para evitar lipodistrofia na aplicação de insulina, recomenda-se a:",
+    "options": [
+      "aplicação sempre no mesmo ponto",
+      "rotação dos locais de aplicação",
+      "via endovenosa",
+      "aplicação intradérmica"
+    ]
+  },
+  {
+    "id": 31,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "As agulhas usadas devem ser descartadas em coletor próprio para:",
+    "options": [
+      "resíduo comum",
+      "resíduo reciclável",
+      "material biológico em saco branco",
+      "perfurocortantes (grupo E)"
+    ]
+  },
+  {
+    "id": 32,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Para prevenir acidente com material biológico, a equipe deve:",
+    "options": [
+      "não reencapar a agulha",
+      "reencapar a agulha com as duas mãos",
+      "descartar a agulha no lixo comum",
+      "entortar a agulha manualmente"
+    ]
+  },
+  {
+    "id": 33,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A norma de segurança e saúde no trabalho em serviços de saúde é a:",
+    "options": [
+      "NR-32",
+      "NR-15",
+      "NR-6",
+      "NR-35"
+    ]
+  },
+  {
+    "id": 34,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Em caso de acidente com perfurocortante contaminado, deve-se:",
+    "options": [
+      "ignorar se a ferida for pequena",
+      "apenas passar álcool e seguir",
+      "espremer fortemente o local",
+      "lavar o local com água e sabão e notificar o acidente"
+    ]
+  },
+  {
+    "id": 35,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "PA persistentemente igual ou superior a 140/90 mmHg caracteriza:",
+    "options": [
+      "hipotensão",
+      "bradicardia",
+      "hipertensão arterial",
+      "febre"
+    ]
+  },
+  {
+    "id": 36,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A doença crônica caracterizada por hiperglicemia é o(a):",
+    "options": [
+      "hipertensão",
+      "diabetes mellitus",
+      "anemia",
+      "asma"
+    ]
+  },
+  {
+    "id": 37,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "O acompanhamento de hipertensos e diabéticos na atenção básica integra a:",
+    "options": [
+      "vigilância sanitária de alimentos",
+      "linha de cuidado das doenças crônicas (Hiperdia)",
+      "auditoria hospitalar",
+      "regulação de leitos"
+    ]
+  },
+  {
+    "id": 38,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Doença respiratória de notificação compulsória cujo tratamento pode ser diretamente observado (TDO):",
+    "options": [
+      "tuberculose",
+      "diabetes",
+      "hipertensão",
+      "dengue"
+    ]
+  },
+  {
+    "id": 39,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O vetor da dengue, zika e chikungunya é o:",
+    "options": [
+      "Anopheles",
+      "Culex",
+      "barbeiro",
+      "Aedes aegypti"
+    ]
+  },
+  {
+    "id": 40,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "É atividade privativa do enfermeiro, prevista na lei do exercício profissional, a:",
+    "options": [
+      "prescrição de quimioterapia",
+      "cirurgia de médio porte",
+      "consulta de enfermagem",
+      "dispensação de medicamentos controlados"
+    ]
+  }
+]

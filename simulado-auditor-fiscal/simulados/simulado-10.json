@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que todas as palavras estão grafadas corretamente.",
+    "options": [
+      "exceção, exceder, excelente",
+      "esceção, exceder, excelente",
+      "exceção, esceder, escelente",
+      "esceção, esceder, escelente"
+    ]
+  },
+  {
+    "id": 2,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que o uso do sinal indicativo de crase está correto.",
+    "options": [
+      "Refiro-me à Vossa Senhoria.",
+      "Pagou o valor referente à taxa de lixo.",
+      "Fui à pé até o setor.",
+      "Entreguei o auto à ele."
+    ]
+  },
+  {
+    "id": 3,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que a concordância verbal está correta.",
+    "options": [
+      "Houveram muitas reclamações sobre a cobrança.",
+      "Existe muitos problemas no cadastro.",
+      "Houve muitas reclamações sobre a cobrança.",
+      "Fazem dois anos da fiscalização."
+    ]
+  },
+  {
+    "id": 4,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que a regência está conforme a norma-padrão.",
+    "options": [
+      "Obedeço as normas do edital.",
+      "Cheguei na repartição cedo.",
+      "Prefiro ler do que escrever.",
+      "Obedeço às normas do edital."
+    ]
+  },
+  {
+    "id": 5,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Na expressão 'a beleza do projeto', a palavra 'beleza' classifica-se como:",
+    "options": [
+      "adjetivo",
+      "advérbio",
+      "verbo",
+      "substantivo"
+    ]
+  },
+  {
+    "id": 6,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale o uso correto de 'a/há'.",
+    "options": [
+      "Há dez anos trabalho aqui.",
+      "A dez anos trabalho aqui.",
+      "Daqui há um mês sairá o resultado.",
+      "Cheguei a muito tempo."
+    ]
+  },
+  {
+    "id": 7,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "No contexto 'ato revogável', a palavra 'revogável' significa aquilo que:",
+    "options": [
+      "é irreversível",
+      "pode ser revogado",
+      "é permanente",
+      "é obrigatório"
+    ]
+  },
+  {
+    "id": 8,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale o conectivo que estabelece relação de conclusão: 'Cumpriu os requisitos; ___, foi nomeado.'",
+    "options": [
+      "embora",
+      "porque",
+      "portanto",
+      "caso"
+    ]
+  },
+  {
+    "id": 9,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa correta quanto à concordância nominal.",
+    "options": [
+      "Os relatórios anexo foram aprovados.",
+      "Segue anexo as planilhas atualizadas.",
+      "Os relatórios anexos foram aprovados.",
+      "Ela está meio nervosa e eles meios cansados."
+    ]
+  },
+  {
+    "id": 10,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a oração que está na voz passiva analítica.",
+    "options": [
+      "O juiz analisou os autos.",
+      "Os autos foram analisados pelo juiz.",
+      "Analisaram-se os autos.",
+      "O juiz se analisou."
+    ]
+  },
+  {
+    "id": 11,
+    "area": "Noções de Informática",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Windows e Linux são exemplos de:",
+    "options": [
+      "editores de texto",
+      "navegadores de internet",
+      "programas antivírus",
+      "sistemas operacionais"
+    ]
+  },
+  {
+    "id": 12,
+    "area": "Noções de Informática",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O atalho Ctrl+C, na maioria dos programas, serve para:",
+    "options": [
+      "copiar",
+      "colar",
+      "recortar",
+      "salvar"
+    ]
+  },
+  {
+    "id": 13,
+    "area": "Noções de Informática",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Constitui boa prática de segurança da informação:",
+    "options": [
+      "usar a mesma senha em tudo",
+      "criar senhas com o próprio nome",
+      "compartilhar a senha com colegas",
+      "usar senhas fortes e distintas para cada serviço"
+    ]
+  },
+  {
+    "id": 14,
+    "area": "Noções de Informática",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Transferir um arquivo da internet para o computador é fazer:",
+    "options": [
+      "download",
+      "upload",
+      "backup",
+      "upgrade"
+    ]
+  },
+  {
+    "id": 15,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Campina Grande pertence ao estado da:",
+    "options": [
+      "Bahia",
+      "Ceará",
+      "Paraíba",
+      "Pernambuco"
+    ]
+  },
+  {
+    "id": 16,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Campina Grande é apelidada de:",
+    "options": [
+      "Cidade Maravilhosa",
+      "Rainha da Borborema",
+      "Princesa do Mar",
+      "Capital Federal"
+    ]
+  },
+  {
+    "id": 17,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O 'Maior São João do Mundo' ocorre, em Campina Grande, no mês de:",
+    "options": [
+      "janeiro",
+      "junho",
+      "julho",
+      "setembro"
+    ]
+  },
+  {
+    "id": 18,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Ao agente público só é permitido fazer o que a lei autoriza, conforme o princípio da:",
+    "options": [
+      "autonomia da vontade",
+      "conveniência",
+      "legalidade",
+      "oportunidade"
+    ]
+  },
+  {
+    "id": 19,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "O fornecimento de informação pública mediante pedido do cidadão caracteriza a:",
+    "options": [
+      "transparência passiva",
+      "transparência ativa",
+      "classificação de sigilo",
+      "censura prévia"
+    ]
+  },
+  {
+    "id": 20,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O órgão federal de fiscalização da LGPD é a:",
+    "options": [
+      "Receita Federal",
+      "TCU",
+      "CGU",
+      "ANPD"
+    ]
+  },
+  {
+    "id": 21,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Tributo não vinculado, cujo fato gerador independe de atividade estatal específica relativa ao contribuinte, é o:",
+    "options": [
+      "imposto",
+      "taxa",
+      "contribuição de melhoria",
+      "empréstimo compulsório"
+    ]
+  },
+  {
+    "id": 22,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Tributo vinculado ao exercício do poder de polícia ou a serviço público específico e divisível é a:",
+    "options": [
+      "imposto",
+      "contribuição de melhoria",
+      "contribuição social",
+      "taxa"
+    ]
+  },
+  {
+    "id": 23,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O IPTU é tributo de competência do:",
+    "options": [
+      "Estado",
+      "Município",
+      "União",
+      "Distrito Federal e do Estado"
+    ]
+  },
+  {
+    "id": 24,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A base de cálculo do IPTU é o:",
+    "options": [
+      "valor do aluguel mensal",
+      "renda do proprietário",
+      "valor venal do imóvel",
+      "valor dos bens móveis"
+    ]
+  },
+  {
+    "id": 25,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A alíquota máxima do ISS, fixada por lei complementar, é de:",
+    "options": [
+      "2%",
+      "5%",
+      "10%",
+      "15%"
+    ]
+  },
+  {
+    "id": 26,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A alíquota mínima do ISS, fixada por lei complementar, é de:",
+    "options": [
+      "1%",
+      "5%",
+      "0,5%",
+      "2%"
+    ]
+  },
+  {
+    "id": 27,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O procedimento administrativo que constitui o crédito tributário é o:",
+    "options": [
+      "pagamento",
+      "protesto",
+      "lançamento",
+      "arrolamento"
+    ]
+  },
+  {
+    "id": 28,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A modalidade de lançamento do IPTU, em regra, é a de:",
+    "options": [
+      "ofício",
+      "homologação",
+      "declaração",
+      "arbitramento obrigatório"
+    ]
+  },
+  {
+    "id": 29,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O parcelamento do crédito tributário é causa de:",
+    "options": [
+      "suspensão da exigibilidade",
+      "extinção do crédito",
+      "exclusão do crédito",
+      "remissão"
+    ]
+  },
+  {
+    "id": 30,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O pagamento do crédito tributário é causa de:",
+    "options": [
+      "suspensão da exigibilidade",
+      "exclusão do crédito",
+      "extinção do crédito",
+      "isenção"
+    ]
+  },
+  {
+    "id": 31,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A isenção e a anistia são causas de:",
+    "options": [
+      "extinção do crédito",
+      "suspensão da exigibilidade",
+      "prescrição",
+      "exclusão do crédito tributário"
+    ]
+  },
+  {
+    "id": 32,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O prazo prescricional para a cobrança do crédito tributário é de:",
+    "options": [
+      "3 anos",
+      "5 anos",
+      "10 anos",
+      "2 anos"
+    ]
+  },
+  {
+    "id": 33,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O prazo decadencial para a Fazenda constituir o crédito é, em regra, de:",
+    "options": [
+      "2 anos",
+      "10 anos",
+      "1 ano",
+      "5 anos"
+    ]
+  },
+  {
+    "id": 34,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A imunidade que impede os entes federativos de instituir impostos sobre patrimônio, renda e serviços uns dos outros é a:",
+    "options": [
+      "religiosa",
+      "recíproca",
+      "cultural",
+      "condicional"
+    ]
+  },
+  {
+    "id": 35,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "São instrumentos do planejamento orçamentário público:",
+    "options": [
+      "PPA, LDO e LOA",
+      "CTN, LRF e LEF",
+      "DRE, DFC e DMPL",
+      "II, IE e IPI"
+    ]
+  },
+  {
+    "id": 36,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O Plano Plurianual (PPA) tem vigência de:",
+    "options": [
+      "1 ano",
+      "2 anos",
+      "4 anos",
+      "8 anos"
+    ]
+  },
+  {
+    "id": 37,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Os estágios da despesa pública são:",
+    "options": [
+      "previsão, lançamento e arrecadação",
+      "sanção, promulgação e veto",
+      "empenho, liquidação e pagamento",
+      "dotação, reserva e quitação"
+    ]
+  },
+  {
+    "id": 38,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O exercício financeiro, no Brasil, coincide com o:",
+    "options": [
+      "ano civil",
+      "ano letivo",
+      "mandato do prefeito",
+      "semestre fiscal"
+    ]
+  },
+  {
+    "id": 39,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Na equação patrimonial, Ativo = Passivo + :",
+    "options": [
+      "Receita",
+      "Patrimônio Líquido",
+      "Despesa",
+      "Custo"
+    ]
+  },
+  {
+    "id": 40,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A auditoria realizada por servidores do próprio órgão, para avaliar controles internos, é a auditoria:",
+    "options": [
+      "externa",
+      "independente",
+      "privada",
+      "interna"
+    ]
+  }
+]

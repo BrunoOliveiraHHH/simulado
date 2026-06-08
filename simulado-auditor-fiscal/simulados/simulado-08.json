@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que todas as palavras estão grafadas corretamente.",
+    "options": [
+      "paralização, fiscalização, autorização",
+      "paralisação, fiscalização, autorização",
+      "paralisação, fiscalisação, autorização",
+      "paralização, fiscalisação, autorisação"
+    ]
+  },
+  {
+    "id": 2,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que o uso (ou a ausência) do sinal de crase está correto.",
+    "options": [
+      "Daqui à pouco começa a sessão.",
+      "Fui à cavalo até a fazenda.",
+      "Refiro-me à este caso específico.",
+      "Daqui a pouco começa a sessão."
+    ]
+  },
+  {
+    "id": 3,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que a concordância verbal está correta.",
+    "options": [
+      "Cada um dos auditores receberam sua pasta.",
+      "Fazem anos que não há concurso.",
+      "Cada um dos auditores recebeu sua pasta.",
+      "Houveram muitos casos."
+    ]
+  },
+  {
+    "id": 4,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que a regência está conforme a norma-padrão.",
+    "options": [
+      "Viso ao cargo de Auditor Fiscal.",
+      "Prefiro mais isto do que aquilo.",
+      "Cheguei na cidade ontem.",
+      "Namoro com ela há tempos."
+    ]
+  },
+  {
+    "id": 5,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Na expressão 'muito importante', a palavra 'muito' classifica-se como:",
+    "options": [
+      "advérbio de intensidade",
+      "adjetivo",
+      "substantivo",
+      "artigo"
+    ]
+  },
+  {
+    "id": 6,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa corretamente pontuada.",
+    "options": [
+      "Estudou bastante portanto foi aprovado.",
+      "Estudou, bastante portanto, foi aprovado.",
+      "Estudou bastante; portanto, foi aprovado.",
+      "Estudou bastante; portanto foi, aprovado."
+    ]
+  },
+  {
+    "id": 7,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "No contexto 'fonte fidedigna', a palavra 'fidedigna' significa:",
+    "options": [
+      "falsa e duvidosa",
+      "ilegível",
+      "desatualizada",
+      "digna de fé, confiável"
+    ]
+  },
+  {
+    "id": 8,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale o conectivo que estabelece relação de finalidade: 'Pague o tributo ___ evitar a multa.'",
+    "options": [
+      "por isso",
+      "a fim de",
+      "embora",
+      "porque"
+    ]
+  },
+  {
+    "id": 9,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa correta quanto à concordância nominal.",
+    "options": [
+      "Era meio-dia e meio quando terminou.",
+      "Ela está meia triste com a notícia.",
+      "Seguem anexo as notas fiscais.",
+      "Era meio-dia e meia quando terminou."
+    ]
+  },
+  {
+    "id": 10,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A frase 'Os tributos são fiscalizados pelo auditor' está na voz:",
+    "options": [
+      "ativa",
+      "passiva analítica",
+      "reflexiva",
+      "passiva sintética"
+    ]
+  },
+  {
+    "id": 11,
+    "area": "Noções de Informática",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale o dispositivo de SAÍDA de dados.",
+    "options": [
+      "monitor",
+      "teclado",
+      "mouse",
+      "scanner"
+    ]
+  },
+  {
+    "id": 12,
+    "area": "Noções de Informática",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O atalho Ctrl+X, na maioria dos programas, serve para:",
+    "options": [
+      "copiar",
+      "colar",
+      "recortar",
+      "salvar"
+    ]
+  },
+  {
+    "id": 13,
+    "area": "Noções de Informática",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A criptografia, em segurança da informação, serve para:",
+    "options": [
+      "aumentar a velocidade da internet",
+      "apagar arquivos definitivamente",
+      "proteger a confidencialidade dos dados",
+      "imprimir documentos"
+    ]
+  },
+  {
+    "id": 14,
+    "area": "Noções de Informática",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A computação em nuvem permite acessar arquivos:",
+    "options": [
+      "de qualquer lugar com acesso à internet",
+      "apenas no computador local",
+      "somente off-line",
+      "apenas a partir de um CD"
+    ]
+  },
+  {
+    "id": 15,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A maior festa de Campina Grande acontece no Parque do Povo durante o mês de:",
+    "options": [
+      "dezembro",
+      "junho",
+      "abril",
+      "outubro"
+    ]
+  },
+  {
+    "id": 16,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Campina Grande é frequentemente chamada de Rainha da:",
+    "options": [
+      "Serra do Mar",
+      "Mata Atlântica",
+      "Caatinga Central",
+      "Borborema"
+    ]
+  },
+  {
+    "id": 17,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Campina Grande destaca-se na Paraíba como importante centro:",
+    "options": [
+      "universitário e tecnológico",
+      "portuário",
+      "pesqueiro",
+      "vinícola"
+    ]
+  },
+  {
+    "id": 18,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Publicar o extrato de um contrato administrativo atende ao princípio da:",
+    "options": [
+      "anterioridade",
+      "eficiência",
+      "moralidade",
+      "publicidade"
+    ]
+  },
+  {
+    "id": 19,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Conforme a LAI, negado o acesso à informação, o requerente pode:",
+    "options": [
+      "nada fazer",
+      "interpor recurso",
+      "ser multado",
+      "ser preso"
+    ]
+  },
+  {
+    "id": 20,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A autoridade nacional responsável por fiscalizar a aplicação da LGPD é a:",
+    "options": [
+      "ANS",
+      "ANEEL",
+      "ANPD",
+      "ANVISA"
+    ]
+  },
+  {
+    "id": 21,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O Imposto sobre Operações Financeiras (IOF) é de competência:",
+    "options": [
+      "dos Estados",
+      "da União",
+      "dos Municípios",
+      "do Distrito Federal"
+    ]
+  },
+  {
+    "id": 22,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "O imposto sobre transmissão causa mortis e doação (ITCMD) compete:",
+    "options": [
+      "aos Municípios",
+      "à União",
+      "aos Estados e ao Distrito Federal",
+      "aos cartórios"
+    ]
+  },
+  {
+    "id": 23,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "É vedado instituir tratamento desigual entre contribuintes em situação equivalente. Trata-se do princípio da:",
+    "options": [
+      "isonomia (igualdade tributária)",
+      "anterioridade",
+      "legalidade",
+      "publicidade"
+    ]
+  },
+  {
+    "id": 24,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Somente a lei pode instituir tributos. Esse é o princípio da:",
+    "options": [
+      "anterioridade",
+      "irretroatividade",
+      "capacidade contributiva",
+      "legalidade tributária"
+    ]
+  },
+  {
+    "id": 25,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Constituem exceções à legalidade (alíquotas alteráveis por ato do Executivo), entre outros:",
+    "options": [
+      "IPTU e ISS",
+      "ITBI e ITCMD",
+      "ICMS e IPVA",
+      "II, IE, IPI e IOF"
+    ]
+  },
+  {
+    "id": 26,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A obrigação tributária acessória, ainda que o contribuinte seja imune ou isento:",
+    "options": [
+      "subsiste (ex.: emitir nota, escriturar livros)",
+      "deixa de existir",
+      "torna-se facultativa",
+      "converte-se automaticamente em principal"
+    ]
+  },
+  {
+    "id": 27,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Quanto à responsabilidade dos sucessores, o espólio é responsável pelos tributos devidos pelo de cujus até a data:",
+    "options": [
+      "do casamento",
+      "do nascimento dos herdeiros",
+      "da abertura da sucessão",
+      "do lançamento"
+    ]
+  },
+  {
+    "id": 28,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "São pessoalmente responsáveis pelos créditos resultantes de atos com excesso de poderes ou infração de lei os:",
+    "options": [
+      "empregados em geral",
+      "diretores, gerentes ou representantes de pessoas jurídicas",
+      "clientes da empresa",
+      "fornecedores"
+    ]
+  },
+  {
+    "id": 29,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A denúncia espontânea da infração, com o pagamento do tributo e dos juros, afasta:",
+    "options": [
+      "o pagamento do tributo",
+      "os juros de mora",
+      "a responsabilidade por infrações (a multa)",
+      "a correção monetária"
+    ]
+  },
+  {
+    "id": 30,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A consulta tributária formulada pelo sujeito passivo, enquanto pendente, em regra:",
+    "options": [
+      "extingue o crédito",
+      "impede a aplicação de penalidade quanto ao objeto consultado",
+      "suspende a prescrição por dez anos",
+      "dispensa o tributo"
+    ]
+  },
+  {
+    "id": 31,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Considera-se domiciliado no Município, para fins de ISS devido no estabelecimento, o prestador que ali mantém:",
+    "options": [
+      "apenas conta bancária",
+      "somente endereço de correspondência",
+      "apenas caixa postal",
+      "unidade econômica ou profissional"
+    ]
+  },
+  {
+    "id": 32,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A imunidade dos livros, jornais, periódicos e do papel destinado à sua impressão é classificada como imunidade:",
+    "options": [
+      "cultural (objetiva)",
+      "recíproca",
+      "religiosa",
+      "condicional"
+    ]
+  },
+  {
+    "id": 33,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O princípio orçamentário segundo o qual o orçamento deve ser uno, contido em um só documento, é o da:",
+    "options": [
+      "unidade",
+      "exclusividade",
+      "anualidade",
+      "legalidade"
+    ]
+  },
+  {
+    "id": 34,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "O princípio orçamentário da universalidade exige que o orçamento contenha:",
+    "options": [
+      "apenas as receitas",
+      "apenas as despesas de pessoal",
+      "somente os investimentos",
+      "todas as receitas e todas as despesas"
+    ]
+  },
+  {
+    "id": 35,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A abertura de créditos adicionais extraordinários destina-se a atender despesas:",
+    "options": [
+      "ordinárias de pessoal",
+      "já previstas na LOA",
+      "urgentes e imprevisíveis, como em calamidade ou guerra",
+      "de exercícios futuros"
+    ]
+  },
+  {
+    "id": 36,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A LRF determina a elaboração e a ampla divulgação de relatórios de gestão fiscal e de:",
+    "options": [
+      "auditoria privada obrigatória",
+      "execução orçamentária",
+      "balanço de bancos",
+      "censo populacional"
+    ]
+  },
+  {
+    "id": 37,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A demonstração contábil que evidencia as entradas e saídas de dinheiro é a:",
+    "options": [
+      "Demonstração do Resultado do Exercício (DRE)",
+      "Demonstração dos Fluxos de Caixa (DFC)",
+      "Balanço Patrimonial",
+      "Demonstração das Mutações do Patrimônio Líquido"
+    ]
+  },
+  {
+    "id": 38,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O ponto de equilíbrio é alcançado quando:",
+    "options": [
+      "a receita total iguala os custos e despesas totais (lucro zero)",
+      "o lucro é máximo",
+      "o custo fixo é zero",
+      "a margem de contribuição é negativa"
+    ]
+  },
+  {
+    "id": 39,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A média aritmética dos valores 4, 6 e 8 é:",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "6"
+    ]
+  },
+  {
+    "id": 40,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Numa série de dados, a mediana é:",
+    "options": [
+      "o valor mais frequente",
+      "a soma dividida pelo total",
+      "o valor que ocupa a posição central dos dados ordenados",
+      "a maior observação"
+    ]
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que todas as palavras estão grafadas corretamente.",
+    "options": [
+      "ascenção, obssessão, discrissão",
+      "ascensão, obcessão, discrição",
+      "ascensão, obsessão, discrição",
+      "ascenção, obsessão, discrissão"
+    ]
+  },
+  {
+    "id": 2,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que o uso do sinal indicativo de crase está correto.",
+    "options": [
+      "Estou à disposição da chefia de enfermagem.",
+      "Vou a praia no domingo.",
+      "Entreguei o relatório a coordenadora.",
+      "Cheguei a uma hora da tarde."
+    ]
+  },
+  {
+    "id": 3,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que a concordância verbal está correta.",
+    "options": [
+      "Os Estados Unidos enviou vacinas.",
+      "Houveram muitos casos.",
+      "Tratam-se de protocolos novos.",
+      "Mais de um paciente aguardava atendimento."
+    ]
+  },
+  {
+    "id": 4,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que a regência está conforme a norma-padrão.",
+    "options": [
+      "A norma que me refiro mudou.",
+      "A norma a que me refiro mudou.",
+      "Prefiro cuidar do que anotar.",
+      "Cheguei na recepção cedo."
+    ]
+  },
+  {
+    "id": 5,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Na frase 'o atendimento foi rápido', a palavra 'rápido' classifica-se como:",
+    "options": [
+      "advérbio",
+      "adjetivo",
+      "substantivo",
+      "verbo"
+    ]
+  },
+  {
+    "id": 6,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa que completa corretamente: 'O idoso ouve ___.'",
+    "options": [
+      "mau",
+      "mais",
+      "más",
+      "mal"
+    ]
+  },
+  {
+    "id": 7,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "No contexto 'risco iminente de parada', a palavra 'iminente' significa:",
+    "options": [
+      "que está prestes a acontecer",
+      "que já passou",
+      "duvidoso",
+      "permanente"
+    ]
+  },
+  {
+    "id": 8,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale o conectivo de adição: 'Avaliou o paciente; ___, registrou os sinais vitais.'",
+    "options": [
+      "contudo",
+      "porque",
+      "além disso",
+      "portanto"
+    ]
+  },
+  {
+    "id": 9,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa correta quanto à concordância nominal.",
+    "options": [
+      "É proibida a entrada de pessoas não autorizadas.",
+      "Segue anexo as fichas.",
+      "Ela está meia tonta.",
+      "Há bastante leito; estão ocupado."
+    ]
+  },
+  {
+    "id": 10,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a oração na voz passiva.",
+    "options": [
+      "O médico prescreveu a medicação.",
+      "Prescreveu-se a medicação.",
+      "A medicação foi prescrita pelo médico.",
+      "O médico se prescreveu."
+    ]
+  },
+  {
+    "id": 11,
+    "area": "Noções de Informática",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O Linux é um exemplo de:",
+    "options": [
+      "editor de texto",
+      "sistema operacional",
+      "navegador",
+      "antivírus"
+    ]
+  },
+  {
+    "id": 12,
+    "area": "Noções de Informática",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "No Excel, o sinal de igual (=) no início de uma célula indica:",
+    "options": [
+      "um texto fixo",
+      "uma data",
+      "um comentário",
+      "o início de uma fórmula"
+    ]
+  },
+  {
+    "id": 13,
+    "area": "Noções de Informática",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Mensagem eletrônica não solicitada, enviada em massa, é o:",
+    "options": [
+      "backup",
+      "cookie",
+      "driver",
+      "spam"
+    ]
+  },
+  {
+    "id": 14,
+    "area": "Noções de Informática",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O atalho Ctrl+S, na maioria dos programas, serve para:",
+    "options": [
+      "copiar",
+      "salvar",
+      "colar",
+      "imprimir"
+    ]
+  },
+  {
+    "id": 15,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Campina Grande fica no estado da:",
+    "options": [
+      "Pernambuco",
+      "Ceará",
+      "Paraíba",
+      "Sergipe"
+    ]
+  },
+  {
+    "id": 16,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Campina Grande situa-se no Planalto da:",
+    "options": [
+      "Borborema",
+      "Conquista",
+      "Central",
+      "Diamantina"
+    ]
+  },
+  {
+    "id": 17,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Campina Grande é importante polo regional de:",
+    "options": [
+      "mineração de ferro",
+      "educação, saúde e tecnologia",
+      "produção de petróleo",
+      "turismo de praia"
+    ]
+  },
+  {
+    "id": 18,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Atender todos os administrados sem favorecimentos pessoais é exigência do princípio da:",
+    "options": [
+      "impessoalidade",
+      "publicidade",
+      "eficiência",
+      "anterioridade"
+    ]
+  },
+  {
+    "id": 19,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Informações que possam pôr em risco a segurança do Estado podem ser classificadas, na LAI, como:",
+    "options": [
+      "públicas",
+      "de livre acesso",
+      "sigilosas",
+      "pessoais irrestritas"
+    ]
+  },
+  {
+    "id": 20,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O profissional que atua como canal entre o controlador, os titulares e a ANPD, na LGPD, é o:",
+    "options": [
+      "operador",
+      "titular",
+      "fiscal",
+      "encarregado (DPO)"
+    ]
+  },
+  {
+    "id": 21,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Regulamenta o exercício profissional da enfermagem a:",
+    "options": [
+      "Lei nº 8.080/1990",
+      "Lei nº 8.142/1990",
+      "Lei nº 7.498/1986",
+      "Lei nº 6.437/1977"
+    ]
+  },
+  {
+    "id": 22,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "O conselho regional que inscreve e fiscaliza os profissionais de enfermagem é o:",
+    "options": [
+      "COFEN",
+      "CRM",
+      "CREA",
+      "COREN"
+    ]
+  },
+  {
+    "id": 23,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A etapa do Processo de Enfermagem em que se definem as intervenções, após o diagnóstico, é o:",
+    "options": [
+      "alta hospitalar",
+      "planejamento de enfermagem",
+      "faturamento",
+      "triagem administrativa"
+    ]
+  },
+  {
+    "id": 24,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O índice que avalia a vitalidade do recém-nascido no 1º e no 5º minuto de vida é o:",
+    "options": [
+      "Apgar",
+      "Glasgow",
+      "Braden",
+      "Borg"
+    ]
+  },
+  {
+    "id": 25,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A escala usada para avaliar o nível de consciência é a de:",
+    "options": [
+      "Glasgow",
+      "Apgar",
+      "Braden",
+      "Snellen"
+    ]
+  },
+  {
+    "id": 26,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A escala que avalia o risco de lesão por pressão é a de:",
+    "options": [
+      "Apgar",
+      "Braden",
+      "Glasgow",
+      "Borg"
+    ]
+  },
+  {
+    "id": 27,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "São sinais clássicos (flogísticos) da inflamação:",
+    "options": [
+      "febre, tosse, espirro e coriza",
+      "palidez, frio e sudorese",
+      "cianose, dispneia e apneia",
+      "rubor, calor, tumor e dor"
+    ]
+  },
+  {
+    "id": 28,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A injeção aplicada no músculo ventroglúteo é da via:",
+    "options": [
+      "intradérmica",
+      "subcutânea",
+      "intramuscular",
+      "endovenosa"
+    ]
+  },
+  {
+    "id": 29,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A injeção intramuscular é aplicada, em regra, em ângulo de:",
+    "options": [
+      "15 graus",
+      "45 graus",
+      "180 graus",
+      "90 graus"
+    ]
+  },
+  {
+    "id": 30,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A injeção aplicada em ângulo de 45° a 90° no tecido subcutâneo é da via:",
+    "options": [
+      "intradérmica",
+      "intramuscular",
+      "subcutânea",
+      "endovenosa"
+    ]
+  },
+  {
+    "id": 31,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Na cadeia de frio, as vacinas devem ser conservadas, em geral, na temperatura de:",
+    "options": [
+      "entre 2°C e 8°C",
+      "entre -20°C e -10°C",
+      "entre 15°C e 25°C",
+      "acima de 30°C"
+    ]
+  },
+  {
+    "id": 32,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O exame preventivo do câncer de colo do útero é o:",
+    "options": [
+      "hemograma",
+      "Papanicolau (citologia oncótica)",
+      "glicemia de jejum",
+      "eletrocardiograma"
+    ]
+  },
+  {
+    "id": 33,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O mosquito transmissor da dengue, zika e chikungunya é o:",
+    "options": [
+      "Anopheles",
+      "Aedes aegypti",
+      "Culex",
+      "Lutzomyia"
+    ]
+  },
+  {
+    "id": 34,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Considera-se sintomático respiratório, na busca da tuberculose, a pessoa com:",
+    "options": [
+      "tosse por três semanas ou mais",
+      "febre por um dia",
+      "cefaleia ocasional",
+      "dor lombar"
+    ]
+  },
+  {
+    "id": 35,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Para a precaução por aerossóis (ex.: tuberculose pulmonar), o profissional deve usar:",
+    "options": [
+      "apenas luvas",
+      "máscara cirúrgica comum",
+      "somente avental",
+      "máscara N95/PFF2"
+    ]
+  },
+  {
+    "id": 36,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A administração de soro ou imunoglobulina, fornecendo anticorpos prontos, é a:",
+    "options": [
+      "imunização ativa",
+      "vacinação atenuada",
+      "imunização passiva",
+      "antibioticoterapia"
+    ]
+  },
+  {
+    "id": 37,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Para estimar a extensão de queimaduras em adultos, utiliza-se a:",
+    "options": [
+      "escala de Glasgow",
+      "regra de três simples",
+      "regra dos nove",
+      "escala de Apgar"
+    ]
+  },
+  {
+    "id": 38,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Para a aplicação de enema (clister), posiciona-se o paciente em:",
+    "options": [
+      "posição de litotomia",
+      "decúbito lateral esquerdo (posição de Sims)",
+      "decúbito ventral",
+      "posição ortostática"
+    ]
+  },
+  {
+    "id": 39,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O sistema de informação que registra os agravos de notificação compulsória é o:",
+    "options": [
+      "SINAN",
+      "SISREG",
+      "SIAB",
+      "CNES"
+    ]
+  },
+  {
+    "id": 40,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Os '5 momentos' preconizados pela OMS referem-se à:",
+    "options": [
+      "troca de luvas",
+      "limpeza do piso",
+      "desinfecção de macas",
+      "higienização das mãos"
+    ]
+  }
+]

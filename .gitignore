@@ -1,0 +1,20 @@
+# Dados de runtime gerados pelos apps de simulado (não versionar)
+**/usuarios.json
+**/respostas.json
+*.tmp
+**/*.tmp
+
+# Artefatos de teste/build temporários
+**/qa_result.txt
+**/valida.txt
+**/_build*.py
+**/_qa.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Sistema
+Thumbs.db
+.DS_Store

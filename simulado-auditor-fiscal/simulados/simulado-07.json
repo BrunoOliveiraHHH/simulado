@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que todas as palavras estão grafadas corretamente.",
+    "options": [
+      "privilégio, beneficência, concessão",
+      "previlégio, beneficiência, concessão",
+      "privilégio, beneficência, consessão",
+      "previlégio, beneficência, concessão"
+    ]
+  },
+  {
+    "id": 2,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que o uso do sinal indicativo de crase está correto.",
+    "options": [
+      "Refiro-me à Vossa Senhoria.",
+      "Fui à pé até a repartição.",
+      "Compareci à sessão de julgamento.",
+      "Entreguei o auto à ele."
+    ]
+  },
+  {
+    "id": 3,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que a concordância verbal está de acordo com a norma-padrão.",
+    "options": [
+      "Devem haver soluções para o impasse.",
+      "Deve haver soluções para o impasse.",
+      "Houveram falhas na fiscalização.",
+      "Fazem meses que não há reajuste."
+    ]
+  },
+  {
+    "id": 4,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que a regência está conforme a norma-padrão.",
+    "options": [
+      "Prefiro isto do que aquilo.",
+      "Cheguei no local marcado.",
+      "Assisti o jogo pela TV.",
+      "Aspiro a uma vida melhor."
+    ]
+  },
+  {
+    "id": 5,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Na expressão 'agir corretamente', a palavra 'corretamente' classifica-se como:",
+    "options": [
+      "substantivo",
+      "adjetivo",
+      "numeral",
+      "advérbio"
+    ]
+  },
+  {
+    "id": 6,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale o uso correto de 'a/há': '___ dois anos não há fiscalização; daqui ___ um mês haverá.'",
+    "options": [
+      "A / há",
+      "Há / a",
+      "Há / há",
+      "A / a"
+    ]
+  },
+  {
+    "id": 7,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "No contexto 'é prerrogativa do cargo', a palavra 'prerrogativa' significa:",
+    "options": [
+      "proibição imposta por lei",
+      "penalidade administrativa",
+      "privilégio ou direito especial inerente a um cargo",
+      "dúvida razoável"
+    ]
+  },
+  {
+    "id": 8,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale o conectivo que estabelece relação de causa: 'O auto foi anulado ___ continha vício formal.'",
+    "options": [
+      "porque",
+      "embora",
+      "portanto",
+      "caso"
+    ]
+  },
+  {
+    "id": 9,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa correta quanto à concordância nominal.",
+    "options": [
+      "Segue anexa os documentos exigidos.",
+      "Eles ficaram meios cansados após o expediente.",
+      "Os anexos do processo estão completos.",
+      "Comprei bastante livros para estudar."
+    ]
+  },
+  {
+    "id": 10,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a oração que está na voz ATIVA.",
+    "options": [
+      "O contribuinte recolheu o tributo.",
+      "O tributo foi recolhido.",
+      "Recolheu-se o tributo.",
+      "O tributo é recolhido mensalmente."
+    ]
+  },
+  {
+    "id": 11,
+    "area": "Noções de Informática",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Memória de armazenamento permanente (não volátil):",
+    "options": [
+      "memória RAM",
+      "memória cache",
+      "registrador",
+      "HD/SSD"
+    ]
+  },
+  {
+    "id": 12,
+    "area": "Noções de Informática",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O atalho Ctrl+A, em geral, é usado para:",
+    "options": [
+      "salvar o arquivo",
+      "selecionar tudo",
+      "abrir um arquivo",
+      "fechar o programa"
+    ]
+  },
+  {
+    "id": 13,
+    "area": "Noções de Informática",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "O programa que detecta e remove vírus do computador é o:",
+    "options": [
+      "navegador",
+      "antivírus",
+      "compactador",
+      "editor de planilhas"
+    ]
+  },
+  {
+    "id": 14,
+    "area": "Noções de Informática",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Em um e-mail, o campo CCo (cópia oculta) serve para:",
+    "options": [
+      "anexar arquivos grandes",
+      "excluir mensagens antigas",
+      "marcar a mensagem como spam",
+      "enviar cópia sem que os demais destinatários vejam o endereço"
+    ]
+  },
+  {
+    "id": 15,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Em junho, Campina Grande celebra festejos em homenagem a santos como Santo Antônio, São João e:",
+    "options": [
+      "São Pedro",
+      "São Jorge",
+      "São Francisco",
+      "São Sebastião"
+    ]
+  },
+  {
+    "id": 16,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "O apelido 'Rainha da Borborema' faz referência à importância de Campina Grande na região do(a):",
+    "options": [
+      "Litoral paraibano",
+      "Pantanal",
+      "Planalto/Agreste da Borborema",
+      "Amazônia"
+    ]
+  },
+  {
+    "id": 17,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A sigla UFCG, instituição sediada em Campina Grande, significa:",
+    "options": [
+      "União das Faculdades de Campina Grande",
+      "Universidade Federal do Ceará e Garanhuns",
+      "Universidade de Garanhuns",
+      "Universidade Federal de Campina Grande"
+    ]
+  },
+  {
+    "id": 18,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Praticar ato visando fim diverso do interesse público, ainda que sem violar a letra da lei, fere o princípio da:",
+    "options": [
+      "anterioridade",
+      "publicidade",
+      "moralidade",
+      "legalidade estrita apenas"
+    ]
+  },
+  {
+    "id": 19,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "São diretrizes da LAI a observância da publicidade como preceito geral e do sigilo como:",
+    "options": [
+      "exceção",
+      "regra",
+      "obrigação",
+      "vedação absoluta"
+    ]
+  },
+  {
+    "id": 20,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A LGPD aplica-se ao tratamento de dados realizado por:",
+    "options": [
+      "pessoa natural para fins exclusivamente particulares",
+      "pessoas naturais e jurídicas, de direito público e privado",
+      "apenas empresas privadas",
+      "apenas órgãos públicos"
+    ]
+  },
+  {
+    "id": 21,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "São tributos de competência dos Municípios:",
+    "options": [
+      "IPTU, ISS e ITBI",
+      "ICMS, IPVA e ITCMD",
+      "IR, IPI e IOF",
+      "II, IE e ITR"
+    ]
+  },
+  {
+    "id": 22,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "O fato gerador do IPTU é a propriedade, o domínio útil ou a posse de bem imóvel localizado na:",
+    "options": [
+      "zona rural",
+      "zona urbana do Município",
+      "faixa de fronteira",
+      "área de domínio da União"
+    ]
+  },
+  {
+    "id": 23,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O fato gerador do ISS é a prestação de serviços constantes da:",
+    "options": [
+      "tabela do IPI",
+      "Constituição, apenas",
+      "lei estadual",
+      "lista anexa à lei complementar"
+    ]
+  },
+  {
+    "id": 24,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Contribuinte do ITBI é, em regra:",
+    "options": [
+      "exclusivamente o vendedor",
+      "o cartório de registro",
+      "qualquer das partes na operação, conforme dispuser a lei municipal",
+      "a União"
+    ]
+  },
+  {
+    "id": 25,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A base de cálculo do ITBI é:",
+    "options": [
+      "o preço do serviço prestado",
+      "a renda anual do adquirente",
+      "o valor venal dos bens ou direitos transmitidos",
+      "o faturamento da empresa"
+    ]
+  },
+  {
+    "id": 26,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A planta genérica de valores (PGV) é utilizada, no Município, para apurar:",
+    "options": [
+      "o lucro das empresas",
+      "a folha de pagamento",
+      "o ICMS devido",
+      "o valor venal dos imóveis para fins de IPTU e ITBI"
+    ]
+  },
+  {
+    "id": 27,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A Nota Fiscal de Serviços eletrônica (NFS-e) relaciona-se à fiscalização e arrecadação do:",
+    "options": [
+      "ICMS",
+      "ISS",
+      "IPI",
+      "IR"
+    ]
+  },
+  {
+    "id": 28,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "O parcelamento do crédito tributário:",
+    "options": [
+      "suspende a exigibilidade do crédito",
+      "extingue o crédito",
+      "exclui o crédito",
+      "dispensa a existência de lei"
+    ]
+  },
+  {
+    "id": 29,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "No parcelamento, salvo disposição em contrário, os juros e a correção monetária:",
+    "options": [
+      "são dispensados",
+      "integram o crédito parcelado",
+      "são vedados",
+      "substituem o tributo"
+    ]
+  },
+  {
+    "id": 30,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A dívida ativa tributária é constituída pela inscrição do crédito após esgotado o prazo para:",
+    "options": [
+      "pagamento",
+      "o lançamento inicial",
+      "o parcelamento obrigatório",
+      "o protesto extrajudicial"
+    ]
+  },
+  {
+    "id": 31,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Constitui exceção ao sigilo fiscal a divulgação de informações em razão de:",
+    "options": [
+      "curiosidade da imprensa",
+      "interesse comercial de terceiros",
+      "requisição de autoridade judiciária no interesse da justiça",
+      "pedido verbal de um vizinho"
+    ]
+  },
+  {
+    "id": 32,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O processo administrativo fiscal assegura ao autuado o direito ao contraditório e à:",
+    "options": [
+      "imunidade penal",
+      "anistia automática",
+      "prescrição imediata",
+      "ampla defesa"
+    ]
+  },
+  {
+    "id": 33,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O auto de infração é o instrumento por meio do qual a autoridade fiscal:",
+    "options": [
+      "concede isenção ao contribuinte",
+      "homologa o pagamento",
+      "extingue o crédito",
+      "formaliza a exigência do crédito decorrente de infração à legislação"
+    ]
+  },
+  {
+    "id": 34,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A multa moratória decorre do:",
+    "options": [
+      "mero descumprimento de obrigação acessória",
+      "ato plenamente lícito",
+      "atraso no pagamento do tributo",
+      "parcelamento do débito"
+    ]
+  },
+  {
+    "id": 35,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A fase da despesa em que se verifica o direito do credor, com base em títulos e documentos, é a:",
+    "options": [
+      "empenho",
+      "liquidação",
+      "pagamento",
+      "previsão"
+    ]
+  },
+  {
+    "id": 36,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O empenho da despesa pública é o ato que:",
+    "options": [
+      "cria para o Estado a obrigação de pagamento, deduzindo o valor da dotação",
+      "efetua o pagamento ao credor",
+      "realiza a arrecadação",
+      "prevê a receita do exercício"
+    ]
+  },
+  {
+    "id": 37,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A LRF exige, para a criação de despesa obrigatória de caráter continuado, a demonstração da:",
+    "options": [
+      "origem dos recursos e do impacto orçamentário-financeiro",
+      "aprovação por plebiscito",
+      "anuência do TCU em todos os casos",
+      "renúncia equivalente de receita"
+    ]
+  },
+  {
+    "id": 38,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O Balanço Patrimonial é uma demonstração:",
+    "options": [
+      "que apura apenas o lucro do período",
+      "de fluxo de caixa",
+      "exclusiva de custos",
+      "estática, que evidencia a posição patrimonial e financeira em determinada data"
+    ]
+  },
+  {
+    "id": 39,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A conta 'Caixa' é classificada no:",
+    "options": [
+      "passivo exigível",
+      "patrimônio líquido",
+      "ativo circulante",
+      "resultado do exercício"
+    ]
+  },
+  {
+    "id": 40,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "O planejamento de auditoria tem por objetivo:",
+    "options": [
+      "emitir desde logo a opinião final",
+      "definir a natureza, a época e a extensão dos procedimentos",
+      "substituir os controles internos",
+      "eliminar o uso de amostragem"
+    ]
+  }
+]

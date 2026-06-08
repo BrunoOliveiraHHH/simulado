@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que todas as palavras estão grafadas corretamente.",
+    "options": [
+      "enchergar, enxame, enxoval",
+      "enxergar, enchame, enxoval",
+      "enxergar, enxame, enchoval",
+      "enxergar, enxame, enxoval"
+    ]
+  },
+  {
+    "id": 2,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que o uso do sinal indicativo de crase está correto.",
+    "options": [
+      "Estou disposto à ajudar o cidadão.",
+      "Refiro-me àquilo que foi dito na sessão.",
+      "Cheguei a Bahia ontem à noite.",
+      "Falei a respeito à norma vigente."
+    ]
+  },
+  {
+    "id": 3,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que a concordância verbal está correta.",
+    "options": [
+      "Bateram três horas no relógio da sala.",
+      "Fazem dois anos da posse.",
+      "Existe falhas no relatório.",
+      "Houveram problemas no sistema."
+    ]
+  },
+  {
+    "id": 4,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que a regência está conforme a norma-padrão.",
+    "options": [
+      "Esqueci-me o nome do servidor.",
+      "Cheguei na repartição cedo.",
+      "O filme a que assisti foi premiado.",
+      "Obedeço as regras do edital."
+    ]
+  },
+  {
+    "id": 5,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Na expressão 'documento importante', a palavra 'importante' classifica-se como:",
+    "options": [
+      "advérbio",
+      "verbo",
+      "adjetivo",
+      "substantivo"
+    ]
+  },
+  {
+    "id": 6,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa corretamente pontuada (oração explicativa entre vírgulas).",
+    "options": [
+      "O auditor, que é experiente, conduziu o caso.",
+      "O auditor que é experiente, conduziu o caso.",
+      "O auditor, que é experiente conduziu o caso.",
+      "O auditor que, é experiente, conduziu o caso."
+    ]
+  },
+  {
+    "id": 7,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "No contexto 'um processo moroso', a palavra 'moroso' significa:",
+    "options": [
+      "rápido e ágil",
+      "lento, demorado",
+      "eficiente e produtivo",
+      "pontual"
+    ]
+  },
+  {
+    "id": 8,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale o conectivo que estabelece relação adversativa: 'O contribuinte recorreu; ___, o prazo já havia expirado.'",
+    "options": [
+      "por isso",
+      "porque",
+      "então",
+      "todavia"
+    ]
+  },
+  {
+    "id": 9,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa correta quanto à concordância nominal.",
+    "options": [
+      "Os documento entregue estão corretos.",
+      "As certidões necessárias foram anexadas ao processo.",
+      "Ela ficou meia preocupada com o prazo.",
+      "É proibida a entrada, mas o aviso diz: 'é proibido a entrada'."
+    ]
+  },
+  {
+    "id": 10,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Transponha para a voz passiva: 'O fiscal lavrará o auto.'",
+    "options": [
+      "O auto lavrará o fiscal.",
+      "O auto foi lavrado.",
+      "Lavrar-se-ia o auto.",
+      "O auto será lavrado pelo fiscal."
+    ]
+  },
+  {
+    "id": 11,
+    "area": "Noções de Informática",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale o dispositivo de ENTRADA de dados.",
+    "options": [
+      "monitor",
+      "impressora",
+      "teclado",
+      "caixa de som"
+    ]
+  },
+  {
+    "id": 12,
+    "area": "Noções de Informática",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O atalho Ctrl+Z, na maioria dos programas, serve para:",
+    "options": [
+      "desfazer a última ação",
+      "salvar o arquivo",
+      "copiar o conteúdo",
+      "imprimir"
+    ]
+  },
+  {
+    "id": 13,
+    "area": "Noções de Informática",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "O recurso de segurança que funciona como barreira, controlando o tráfego entre redes, é o:",
+    "options": [
+      "firewall",
+      "cookie",
+      "cache",
+      "spam"
+    ]
+  },
+  {
+    "id": 14,
+    "area": "Noções de Informática",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Em informática, URL é:",
+    "options": [
+      "um tipo de vírus",
+      "um programa de edição",
+      "o endereço de um recurso na internet",
+      "uma memória do computador"
+    ]
+  },
+  {
+    "id": 15,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Campina Grande é a segunda maior cidade do estado:",
+    "options": [
+      "do Ceará",
+      "de Pernambuco",
+      "do Rio Grande do Norte",
+      "da Paraíba"
+    ]
+  },
+  {
+    "id": 16,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "O São João de Campina Grande é amplamente divulgado como:",
+    "options": [
+      "a maior festa junina da Europa",
+      "O Maior São João do Mundo",
+      "um carnaval fora de época",
+      "a maior feira de tecnologia"
+    ]
+  },
+  {
+    "id": 17,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Campina Grande está situada no Planalto da:",
+    "options": [
+      "Conquista",
+      "Central",
+      "Borborema",
+      "Diamantina"
+    ]
+  },
+  {
+    "id": 18,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Usar o cargo público para favorecer interesses pessoais viola, sobretudo, o princípio da:",
+    "options": [
+      "publicidade",
+      "moralidade",
+      "eficiência",
+      "anterioridade"
+    ]
+  },
+  {
+    "id": 19,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Conforme a LAI, o pedido de acesso à informação, em regra:",
+    "options": [
+      "exige motivação detalhada do requerente",
+      "só pode ser feito por advogado",
+      "depende de pagamento prévio",
+      "não exige que o requerente exponha os motivos"
+    ]
+  },
+  {
+    "id": 20,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Segundo a LGPD, 'tratamento' de dados pessoais inclui operações como coleta, uso, armazenamento e:",
+    "options": [
+      "eliminação",
+      "tributação",
+      "auditoria fiscal",
+      "penhora"
+    ]
+  },
+  {
+    "id": 21,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A competência tributária é:",
+    "options": [
+      "delegável a particulares",
+      "renunciável a qualquer tempo",
+      "exercida por simples decreto",
+      "indelegável, salvo as funções de arrecadar e fiscalizar"
+    ]
+  },
+  {
+    "id": 22,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A atribuição das funções de arrecadar ou fiscalizar tributos a outra pessoa jurídica de direito público:",
+    "options": [
+      "é possível e pode ser revogada a qualquer tempo",
+      "é vedada pelo CTN",
+      "transfere a própria competência",
+      "é definitiva e irrevogável"
+    ]
+  },
+  {
+    "id": 23,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O IPI (Imposto sobre Produtos Industrializados) é de competência:",
+    "options": [
+      "dos Estados",
+      "dos Municípios",
+      "da União",
+      "do Distrito Federal"
+    ]
+  },
+  {
+    "id": 24,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Pelo princípio da capacidade contributiva, sempre que possível os impostos terão caráter:",
+    "options": [
+      "real e fixo",
+      "pessoal e serão graduados segundo a capacidade econômica do contribuinte",
+      "regressivo",
+      "cumulativo"
+    ]
+  },
+  {
+    "id": 25,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A vedação de tributo com efeito de confisco protege o contribuinte contra:",
+    "options": [
+      "concessão de isenções",
+      "tributação excessiva, de caráter expropriatório",
+      "reconhecimento de imunidades",
+      "parcelamentos de débitos"
+    ]
+  },
+  {
+    "id": 26,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O lançamento verifica a ocorrência do fato gerador, determina a matéria tributável, calcula o montante e identifica o:",
+    "options": [
+      "servidor responsável pelo ato",
+      "tribunal competente",
+      "sujeito passivo",
+      "cartório de registro"
+    ]
+  },
+  {
+    "id": 27,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A atividade de lançamento é:",
+    "options": [
+      "vinculada e obrigatória, sob pena de responsabilidade funcional",
+      "discricionária",
+      "facultativa",
+      "delegável a particular"
+    ]
+  },
+  {
+    "id": 28,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "O lançamento por declaração ocorre quando:",
+    "options": [
+      "o contribuinte antecipa o pagamento",
+      "a autoridade age de ofício",
+      "há decisão judicial constitutiva",
+      "o sujeito passivo presta informações de fato e a autoridade calcula o tributo"
+    ]
+  },
+  {
+    "id": 29,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A revisão de ofício do lançamento é possível enquanto não extinto o direito da Fazenda, que se extingue pela:",
+    "options": [
+      "decadência",
+      "prescrição da execução",
+      "remissão",
+      "anistia"
+    ]
+  },
+  {
+    "id": 30,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Constitui hipótese de suspensão da exigibilidade do crédito a concessão de medida liminar em:",
+    "options": [
+      "ação penal",
+      "habeas corpus",
+      "inventário",
+      "mandado de segurança"
+    ]
+  },
+  {
+    "id": 31,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "O depósito do montante integral do crédito tributário:",
+    "options": [
+      "extingue o crédito",
+      "suspende a exigibilidade do crédito",
+      "exclui o crédito",
+      "é vedado pelo CTN"
+    ]
+  },
+  {
+    "id": 32,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A compensação tributária:",
+    "options": [
+      "é forma de suspensão do crédito",
+      "independe de previsão legal",
+      "é forma de extinção do crédito, quando autorizada por lei",
+      "é vedada no Brasil"
+    ]
+  },
+  {
+    "id": 33,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A transação, no Direito Tributário, depende de:",
+    "options": [
+      "acordo meramente verbal",
+      "decisão isolada do contribuinte",
+      "previsão legal que a autorize",
+      "homologação cartorial"
+    ]
+  },
+  {
+    "id": 34,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "No ISS, em regra, o imposto é devido no local do estabelecimento prestador, salvo as exceções em que é devido no local:",
+    "options": [
+      "do domicílio do tomador em qualquer caso",
+      "da prestação do serviço",
+      "da sede da União",
+      "do cartório de registro"
+    ]
+  },
+  {
+    "id": 35,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O conjunto PPA, LDO e LOA compõe o sistema de:",
+    "options": [
+      "planejamento e orçamento público",
+      "controle judicial de contas",
+      "fiscalização sanitária",
+      "arrecadação direta de tributos"
+    ]
+  },
+  {
+    "id": 36,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Restos a pagar correspondem a despesas:",
+    "options": [
+      "não empenhadas no exercício",
+      "canceladas por excesso",
+      "de exercícios futuros",
+      "empenhadas e não pagas até 31 de dezembro"
+    ]
+  },
+  {
+    "id": 37,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A Lei de Responsabilidade Fiscal apoia-se no planejamento, na transparência, no controle e na:",
+    "options": [
+      "imunidade dos gestores",
+      "flexibilização irrestrita de metas",
+      "renúncia ilimitada de receitas",
+      "responsabilização na gestão fiscal"
+    ]
+  },
+  {
+    "id": 38,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O conjunto de contas que representa a riqueza própria da entidade (capital, reservas e resultados) é o:",
+    "options": [
+      "ativo circulante",
+      "passivo exigível",
+      "patrimônio líquido",
+      "custo dos produtos"
+    ]
+  },
+  {
+    "id": 39,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Os gastos que podem ser apropriados diretamente a um produto, sem rateio, são os custos:",
+    "options": [
+      "indiretos",
+      "diretos",
+      "fixos",
+      "de oportunidade"
+    ]
+  },
+  {
+    "id": 40,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A auditoria realizada por profissional sem vínculo empregatício com a entidade auditada é a auditoria:",
+    "options": [
+      "independente (externa)",
+      "interna",
+      "operacional interna",
+      "de gestão própria"
+    ]
+  }
+]

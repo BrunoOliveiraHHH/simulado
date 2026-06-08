@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que todas as palavras estão grafadas corretamente.",
+    "options": [
+      "esceção, exceder, excelente",
+      "exceção, exceder, excelente",
+      "exceção, esceder, escelente",
+      "esceção, esceder, escelente"
+    ]
+  },
+  {
+    "id": 2,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que o uso do sinal indicativo de crase está correto.",
+    "options": [
+      "Refiro-me à Vossa Senhoria.",
+      "Fui à pé até o leito.",
+      "Entreguei o laudo à ele.",
+      "Deu atenção à queixa do paciente."
+    ]
+  },
+  {
+    "id": 3,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que a concordância verbal está correta.",
+    "options": [
+      "Houveram muitas internações no plantão.",
+      "Existe muitos leitos vagos.",
+      "Houve muitas internações no plantão.",
+      "Fazem dias que aguardo."
+    ]
+  },
+  {
+    "id": 4,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que a regência está conforme a norma-padrão.",
+    "options": [
+      "O cargo a que aspiro exige preparo.",
+      "O cargo que aspiro exige preparo.",
+      "Cheguei na unidade cedo.",
+      "Prefiro ler do que escrever."
+    ]
+  },
+  {
+    "id": 5,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Na frase 'a equipe agiu prontamente', a palavra 'prontamente' classifica-se como:",
+    "options": [
+      "advérbio",
+      "adjetivo",
+      "substantivo",
+      "numeral"
+    ]
+  },
+  {
+    "id": 6,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa que completa corretamente: 'Ele se sentiu ___ após o procedimento.'",
+    "options": [
+      "mau",
+      "mais",
+      "mal",
+      "más"
+    ]
+  },
+  {
+    "id": 7,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "No contexto 'o enfermeiro foi taxativo', a palavra 'taxativo' significa:",
+    "options": [
+      "hesitante",
+      "gentil",
+      "confuso",
+      "categórico, que não admite contestação"
+    ]
+  },
+  {
+    "id": 8,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale o conectivo que estabelece relação de finalidade: 'Higienize as mãos ___ evitar infecções.'",
+    "options": [
+      "por isso",
+      "a fim de",
+      "embora",
+      "porque"
+    ]
+  },
+  {
+    "id": 9,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa correta quanto à concordância nominal.",
+    "options": [
+      "Segue anexo as guias.",
+      "Ela está meia nervosa com o caso.",
+      "Comprei bastante materiais; estavam caro.",
+      "É necessária muita cautela na triagem."
+    ]
+  },
+  {
+    "id": 10,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a oração na voz passiva.",
+    "options": [
+      "O médico solicitou o exame.",
+      "O exame foi solicitado pelo médico.",
+      "Solicitou-se o exame.",
+      "O médico se solicitou."
+    ]
+  },
+  {
+    "id": 11,
+    "area": "Noções de Informática",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A memória volátil, que perde os dados ao desligar o computador, é a:",
+    "options": [
+      "memória RAM",
+      "HD",
+      "SSD",
+      "pendrive"
+    ]
+  },
+  {
+    "id": 12,
+    "area": "Noções de Informática",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O atalho Ctrl+V, na maioria dos programas, serve para:",
+    "options": [
+      "copiar",
+      "recortar",
+      "colar",
+      "salvar"
+    ]
+  },
+  {
+    "id": 13,
+    "area": "Noções de Informática",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "O malware que se replica e se propaga automaticamente por redes, sem hospedeiro, é o:",
+    "options": [
+      "cookie",
+      "driver",
+      "worm (verme)",
+      "plugin"
+    ]
+  },
+  {
+    "id": 14,
+    "area": "Noções de Informática",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O Google Chrome é um:",
+    "options": [
+      "navegador de internet",
+      "programa antivírus",
+      "editor de planilhas",
+      "sistema operacional"
+    ]
+  },
+  {
+    "id": 15,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Campina Grande pertence ao estado da:",
+    "options": [
+      "Bahia",
+      "Paraíba",
+      "Sergipe",
+      "Alagoas"
+    ]
+  },
+  {
+    "id": 16,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Campina Grande é apelidada de:",
+    "options": [
+      "Cidade Sorriso",
+      "Capital do Sol",
+      "Cidade Luz",
+      "Rainha da Borborema"
+    ]
+  },
+  {
+    "id": 17,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Campina Grande destaca-se na Paraíba como importante centro:",
+    "options": [
+      "universitário e tecnológico",
+      "portuário",
+      "pesqueiro",
+      "vinícola"
+    ]
+  },
+  {
+    "id": 18,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Publicar atos para conhecimento geral, dando-lhes transparência, atende ao princípio da:",
+    "options": [
+      "anterioridade",
+      "eficiência",
+      "moralidade",
+      "publicidade"
+    ]
+  },
+  {
+    "id": 19,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "O órgão federal responsável por fiscalizar a aplicação da LGPD é a:",
+    "options": [
+      "ANS",
+      "ANPD",
+      "ANVISA",
+      "ANEEL"
+    ]
+  },
+  {
+    "id": 20,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Uma das hipóteses que autorizam o tratamento de dados pessoais, na LGPD, é:",
+    "options": [
+      "a ordem verbal do gestor",
+      "o interesse comercial irrestrito",
+      "o consentimento do titular",
+      "o anonimato obrigatório"
+    ]
+  },
+  {
+    "id": 21,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O exercício da enfermagem é regulamentado pela:",
+    "options": [
+      "Lei nº 8.142/1990",
+      "Lei nº 7.498/1986 e pelo Decreto nº 94.406/1987",
+      "RDC ANVISA nº 222/2018",
+      "NR-32 apenas"
+    ]
+  },
+  {
+    "id": 22,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "O profissional de nível médio que executa atividades de maior complexidade, sob supervisão do enfermeiro, é o:",
+    "options": [
+      "agente comunitário de saúde",
+      "auxiliar administrativo",
+      "técnico de enfermagem",
+      "cuidador leigo"
+    ]
+  },
+  {
+    "id": 23,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "As condutas éticas dos profissionais de enfermagem estão previstas no(a):",
+    "options": [
+      "Resolução COFEN nº 564/2017",
+      "Código de Defesa do Consumidor",
+      "Estatuto do Idoso",
+      "Código Penal"
+    ]
+  },
+  {
+    "id": 24,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O Conselho de Saúde caracteriza-se por ser:",
+    "options": [
+      "consultivo, sem participação de usuários",
+      "formado apenas por gestores",
+      "de mandato vitalício",
+      "deliberativo, com 50% de usuários (composição paritária)"
+    ]
+  },
+  {
+    "id": 25,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A organização do SUS, as regiões de saúde e o planejamento foram regulamentados pelo:",
+    "options": [
+      "Decreto-Lei nº 200/1967",
+      "Decreto nº 1.171/1994",
+      "Decreto nº 5.296/2004",
+      "Decreto nº 7.508/2011"
+    ]
+  },
+  {
+    "id": 26,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A política que valoriza o acolhimento e o vínculo no cuidado em saúde é a:",
+    "options": [
+      "Política Nacional de Humanização (PNH)",
+      "Política Nacional de Resíduos Sólidos",
+      "Política Nacional de Recursos Hídricos",
+      "Política de Defesa do Consumidor"
+    ]
+  },
+  {
+    "id": 27,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Na atenção básica, o enfermeiro acompanha programas de controle de doenças crônicas como:",
+    "options": [
+      "fraturas e luxações",
+      "cáries e gengivites",
+      "hipertensão e diabetes",
+      "miopia e astigmatismo"
+    ]
+  },
+  {
+    "id": 28,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Doença infectocontagiosa de notificação compulsória, diagnosticada pela baciloscopia (BAAR), é a:",
+    "options": [
+      "hipertensão",
+      "tuberculose",
+      "diabetes",
+      "anemia ferropriva"
+    ]
+  },
+  {
+    "id": 29,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Doença causada pelo Mycobacterium leprae, de notificação compulsória e tratada por poliquimioterapia, é a:",
+    "options": [
+      "dengue",
+      "tétano",
+      "hanseníase",
+      "cólera"
+    ]
+  },
+  {
+    "id": 30,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A vacinação que estimula o próprio organismo a produzir anticorpos é a imunização:",
+    "options": [
+      "passiva",
+      "ativa",
+      "por soroterapia",
+      "por antibioticoterapia"
+    ]
+  },
+  {
+    "id": 31,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A prevenção da infecção do sítio cirúrgico depende, entre outros fatores, da:",
+    "options": [
+      "reutilização de compressas",
+      "ausência de paramentação",
+      "ventilação livre da sala",
+      "manutenção da cadeia asséptica e da esterilização do material"
+    ]
+  },
+  {
+    "id": 32,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Para favorecer a expansão pulmonar de um paciente dispneico, eleva-se a cabeceira na:",
+    "options": [
+      "posição de Fowler",
+      "posição de Trendelenburg",
+      "decúbito ventral",
+      "posição genupeitoral"
+    ]
+  },
+  {
+    "id": 33,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Temperatura, pulso, respiração e pressão arterial constituem os:",
+    "options": [
+      "sinais vitais",
+      "dados cadastrais",
+      "exames laboratoriais",
+      "diagnósticos médicos"
+    ]
+  },
+  {
+    "id": 34,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A elevação da temperatura corporal acima dos valores normais denomina-se:",
+    "options": [
+      "hipotermia",
+      "bradicardia",
+      "apneia",
+      "febre (hipertermia)"
+    ]
+  },
+  {
+    "id": 35,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Para a drenagem contínua da urina, utiliza-se a:",
+    "options": [
+      "sonda nasogástrica",
+      "cânula de Guedel",
+      "sonda vesical de demora",
+      "sonda nasoenteral"
+    ]
+  },
+  {
+    "id": 36,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O gerenciamento dos resíduos de serviços de saúde é regulado pela:",
+    "options": [
+      "NR-6",
+      "RDC ANVISA nº 222/2018",
+      "Lei nº 8.080/1990",
+      "Portaria nº 2.436/2017"
+    ]
+  },
+  {
+    "id": 37,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Os resíduos com possível presença de agentes biológicos (infectantes) pertencem ao:",
+    "options": [
+      "grupo D",
+      "grupo A",
+      "grupo B",
+      "grupo C"
+    ]
+  },
+  {
+    "id": 38,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Na urgência, a priorização do atendimento conforme a gravidade clínica chama-se:",
+    "options": [
+      "acolhimento com classificação de risco",
+      "ordem de chegada",
+      "triagem por idade",
+      "atendimento por sorteio"
+    ]
+  },
+  {
+    "id": 39,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Na RCP do adulto, a relação entre compressões e ventilações realizada por um socorrista é de:",
+    "options": [
+      "15:1",
+      "5:2",
+      "12:2",
+      "30:2"
+    ]
+  },
+  {
+    "id": 40,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Entre as atribuições gerenciais do enfermeiro está a:",
+    "options": [
+      "realização de cirurgias",
+      "prescrição de quimioterapia antineoplásica isoladamente",
+      "supervisão e coordenação da equipe de enfermagem",
+      "dispensação de medicamentos na farmácia"
+    ]
+  }
+]

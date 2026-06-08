@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que todas as palavras estão grafadas corretamente.",
+    "options": [
+      "ascenção, obssessão, discrissão",
+      "ascensão, obcessão, discrição",
+      "ascensão, obsessão, discrição",
+      "ascenção, obsessão, discrissão"
+    ]
+  },
+  {
+    "id": 2,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que o uso (ou a ausência) do sinal indicativo de crase está correto.",
+    "options": [
+      "Estou à disposição do contribuinte.",
+      "Vou a praia aos domingos.",
+      "Entreguei o laudo a diretora.",
+      "Cheguei a uma hora da tarde."
+    ]
+  },
+  {
+    "id": 3,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que a concordância verbal está de acordo com a norma-padrão.",
+    "options": [
+      "Os Estados Unidos enviou ajuda.",
+      "Houveram muitas convocações.",
+      "Tratam-se de normas tributárias.",
+      "Mais de um candidato se inscreveu no concurso."
+    ]
+  },
+  {
+    "id": 4,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que a regência está conforme a norma-padrão.",
+    "options": [
+      "Fui à reunião que você se referiu.",
+      "A casa onde moro é alugada.",
+      "Prefiro café do que chá.",
+      "Namoro com ela há anos."
+    ]
+  },
+  {
+    "id": 5,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Na frase 'O processo tramita lentamente', a palavra 'lentamente' classifica-se como:",
+    "options": [
+      "adjetivo",
+      "advérbio",
+      "substantivo",
+      "verbo"
+    ]
+  },
+  {
+    "id": 6,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa que preenche corretamente a lacuna: 'Ele se comportou ___ na audiência.'",
+    "options": [
+      "mau",
+      "mais",
+      "más",
+      "mal"
+    ]
+  },
+  {
+    "id": 7,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "No contexto 'uma cobrança exorbitante', a palavra 'exorbitante' significa:",
+    "options": [
+      "excessivo, que ultrapassa os limites",
+      "razoável e moderado",
+      "pequeno e insignificante",
+      "justo e equilibrado"
+    ]
+  },
+  {
+    "id": 8,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale o conectivo que estabelece relação de adição: 'O fiscal autuou a empresa; ___, concedeu prazo para defesa.'",
+    "options": [
+      "contudo",
+      "porque",
+      "além disso",
+      "portanto"
+    ]
+  },
+  {
+    "id": 9,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa correta quanto à concordância nominal.",
+    "options": [
+      "É necessária muita cautela na auditoria.",
+      "Os anexo do processo sumiram.",
+      "Ela ficou meia nervosa com o prazo.",
+      "Comprei bastante materiais; estavam caro."
+    ]
+  },
+  {
+    "id": 10,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a oração na voz passiva analítica.",
+    "options": [
+      "Notificou-se o contribuinte.",
+      "O fiscal notificou o contribuinte.",
+      "O contribuinte foi notificado pelo fiscal.",
+      "O contribuinte notificou-se."
+    ]
+  },
+  {
+    "id": 11,
+    "area": "Noções de Informática",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O programa que gerencia os recursos do computador e serve de base para os demais é o:",
+    "options": [
+      "editor de texto",
+      "sistema operacional",
+      "antivírus",
+      "navegador"
+    ]
+  },
+  {
+    "id": 12,
+    "area": "Noções de Informática",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Em uma planilha do Excel, o sinal de igual (=) no início de uma célula indica:",
+    "options": [
+      "um comentário",
+      "um texto fixo",
+      "uma data",
+      "o início de uma fórmula"
+    ]
+  },
+  {
+    "id": 13,
+    "area": "Noções de Informática",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Mensagem eletrônica não solicitada, geralmente enviada em massa, é chamada de:",
+    "options": [
+      "backup",
+      "cookie",
+      "hardware",
+      "spam"
+    ]
+  },
+  {
+    "id": 14,
+    "area": "Noções de Informática",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "No Explorador de Arquivos do Windows, uma pasta serve para:",
+    "options": [
+      "executar programas automaticamente",
+      "organizar e armazenar arquivos",
+      "navegar na internet",
+      "editar imagens"
+    ]
+  },
+  {
+    "id": 15,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A festa que projeta Campina Grande nacionalmente em junho celebra os festejos:",
+    "options": [
+      "carnavalescos",
+      "natalinos",
+      "juninos",
+      "momescos"
+    ]
+  },
+  {
+    "id": 16,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Campina Grande situa-se no estado da Paraíba, cuja capital é:",
+    "options": [
+      "João Pessoa",
+      "Natal",
+      "Recife",
+      "Maceió"
+    ]
+  },
+  {
+    "id": 17,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "É comum referir-se a Campina Grande como importante polo regional de:",
+    "options": [
+      "mineração de ferro",
+      "educação, saúde e tecnologia",
+      "produção de petróleo",
+      "turismo de praia"
+    ]
+  },
+  {
+    "id": 18,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Buscar o melhor resultado com produtividade e menor custo no serviço público relaciona-se ao princípio da:",
+    "options": [
+      "eficiência",
+      "legalidade",
+      "publicidade",
+      "moralidade"
+    ]
+  },
+  {
+    "id": 19,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Informações cuja divulgação possa pôr em risco a segurança da sociedade ou do Estado podem ser classificadas, conforme a LAI, como:",
+    "options": [
+      "públicas",
+      "pessoais irrestritas",
+      "sigilosas",
+      "de livre acesso"
+    ]
+  },
+  {
+    "id": 20,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Na LGPD, o profissional indicado para atuar como canal de comunicação entre o controlador, os titulares e a ANPD é o:",
+    "options": [
+      "operador",
+      "titular",
+      "agente fiscal",
+      "encarregado (DPO)"
+    ]
+  },
+  {
+    "id": 21,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Segundo o CTN, o tributo é cobrado mediante atividade administrativa plenamente:",
+    "options": [
+      "discricionária",
+      "facultativa",
+      "vinculada",
+      "delegável"
+    ]
+  },
+  {
+    "id": 22,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A natureza jurídica específica do tributo é determinada pelo(a):",
+    "options": [
+      "nome atribuído pela lei",
+      "destinação do produto da arrecadação",
+      "órgão arrecadador",
+      "fato gerador da respectiva obrigação"
+    ]
+  },
+  {
+    "id": 23,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O ICMS, imposto sobre circulação de mercadorias e serviços, é de competência:",
+    "options": [
+      "dos Municípios",
+      "dos Estados e do Distrito Federal",
+      "da União",
+      "dos consórcios públicos"
+    ]
+  },
+  {
+    "id": 24,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Na iminência ou no caso de guerra externa, compete à União instituir:",
+    "options": [
+      "impostos extraordinários",
+      "o ISS",
+      "o IPTU",
+      "o ITBI"
+    ]
+  },
+  {
+    "id": 25,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "O imposto sobre a renda e proventos de qualquer natureza (IR) é de competência:",
+    "options": [
+      "da União",
+      "dos Estados",
+      "dos Municípios",
+      "do Distrito Federal apenas"
+    ]
+  },
+  {
+    "id": 26,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A obrigação tributária principal surge com a ocorrência do:",
+    "options": [
+      "lançamento",
+      "fato gerador",
+      "pagamento",
+      "protesto"
+    ]
+  },
+  {
+    "id": 27,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Tratando-se de situação de fato, considera-se ocorrido o fato gerador desde o momento em que:",
+    "options": [
+      "a lei é publicada",
+      "o tributo é pago",
+      "o crédito é inscrito em dívida ativa",
+      "se verifiquem as circunstâncias materiais necessárias à produção dos efeitos"
+    ]
+  },
+  {
+    "id": 28,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Quando a lei atribui de modo expresso a responsabilidade pelo crédito a terceira pessoa, excluindo a do contribuinte, há responsabilidade por:",
+    "options": [
+      "sucessão imobiliária",
+      "infração à legislação",
+      "substituição tributária",
+      "solidariedade natural"
+    ]
+  },
+  {
+    "id": 29,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A isenção, salvo disposição em contrário, NÃO é extensiva:",
+    "options": [
+      "aos impostos",
+      "ao IPTU",
+      "ao ISS",
+      "às taxas e às contribuições de melhoria"
+    ]
+  },
+  {
+    "id": 30,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A anistia abrange exclusivamente as infrações cometidas:",
+    "options": [
+      "após a vigência da lei que a concede",
+      "por reincidentes com dolo",
+      "anteriormente à vigência da lei que a concede",
+      "somente no exercício seguinte"
+    ]
+  },
+  {
+    "id": 31,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "O pagamento parcial de um crédito tributário:",
+    "options": [
+      "não presume quitação das demais prestações",
+      "presume a quitação das prestações anteriores",
+      "extingue todo o débito",
+      "suspende a exigibilidade do crédito"
+    ]
+  },
+  {
+    "id": 32,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O prazo para o sujeito passivo pleitear a restituição de tributo pago indevidamente extingue-se em:",
+    "options": [
+      "2 anos",
+      "5 anos",
+      "10 anos",
+      "1 ano"
+    ]
+  },
+  {
+    "id": 33,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A progressividade do IPTU no tempo para imóvel urbano subutilizado decorre de sua função:",
+    "options": [
+      "meramente arrecadatória",
+      "extrafiscal (instrumento de política urbana)",
+      "parafiscal",
+      "sancionatória penal"
+    ]
+  },
+  {
+    "id": 34,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Na substituição tributária 'para frente' (progressiva), o recolhimento do imposto ocorre:",
+    "options": [
+      "antecipadamente, em relação a fato gerador presumido",
+      "após todos os fatos geradores",
+      "somente na importação",
+      "apenas no consumo final"
+    ]
+  },
+  {
+    "id": 35,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O documento que estima a receita e fixa a despesa para o exercício financeiro é a:",
+    "options": [
+      "LDO",
+      "PPA",
+      "LRF",
+      "LOA"
+    ]
+  },
+  {
+    "id": 36,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A lei que orienta a elaboração da LOA e estabelece metas e prioridades é a:",
+    "options": [
+      "LOA",
+      "PPA",
+      "LDO",
+      "Lei nº 4.320/1964"
+    ]
+  },
+  {
+    "id": 37,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Conforme a LRF, a despesa total com pessoal dos Municípios não pode exceder, como limite global, ___ da Receita Corrente Líquida.",
+    "options": [
+      "40%",
+      "45%",
+      "60%",
+      "70%"
+    ]
+  },
+  {
+    "id": 38,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Pela LRF, a renúncia de receita deve estar acompanhada de:",
+    "options": [
+      "autorização do Tribunal de Contas apenas",
+      "estimativa do impacto orçamentário-financeiro e medidas de compensação",
+      "referendo popular",
+      "decreto do Poder Legislativo"
+    ]
+  },
+  {
+    "id": 39,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "No Balanço Patrimonial, as obrigações (dívidas) da entidade são registradas no:",
+    "options": [
+      "passivo",
+      "ativo",
+      "patrimônio líquido",
+      "resultado do exercício"
+    ]
+  },
+  {
+    "id": 40,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "O documento que expressa a opinião do auditor independente sobre as demonstrações contábeis é o:",
+    "options": [
+      "balancete de verificação",
+      "livro razão",
+      "livro diário",
+      "relatório (parecer) de auditoria"
+    ]
+  }
+]

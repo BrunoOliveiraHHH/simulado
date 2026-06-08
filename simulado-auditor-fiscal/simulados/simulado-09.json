@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa que completa corretamente: 'Espero que eles ___ amanhã; foi uma boa ___.'",
+    "options": [
+      "viagem / viajem",
+      "viajem / viajem",
+      "viagem / viagem",
+      "viajem / viagem"
+    ]
+  },
+  {
+    "id": 2,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que o uso do sinal indicativo de crase está correto.",
+    "options": [
+      "Chegou às dez horas em ponto.",
+      "Chegou as dez horas em ponto.",
+      "Fui à cavalo até o sítio.",
+      "Refiro-me à mim mesmo."
+    ]
+  },
+  {
+    "id": 3,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que a concordância verbal está correta.",
+    "options": [
+      "Fazem dez anos que ingressei no serviço público.",
+      "Faz dez anos que ingressei no serviço público.",
+      "Existe muitos casos pendentes.",
+      "Houveram decisões favoráveis."
+    ]
+  },
+  {
+    "id": 4,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa em que a regência está conforme a norma-padrão.",
+    "options": [
+      "O assunto que me refiro é sigiloso.",
+      "Prefiro sair do que ficar.",
+      "O assunto a que me refiro é sigiloso.",
+      "Cheguei no fórum atrasado."
+    ]
+  },
+  {
+    "id": 5,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Na expressão 'decisão justa', a palavra 'justa' classifica-se como:",
+    "options": [
+      "advérbio",
+      "verbo",
+      "adjetivo",
+      "substantivo"
+    ]
+  },
+  {
+    "id": 6,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa que completa corretamente: 'Estudou muito, ___ não foi aprovado; quer estudar ___.'",
+    "options": [
+      "mais / mas",
+      "mas / mas",
+      "mais / mais",
+      "mas / mais"
+    ]
+  },
+  {
+    "id": 7,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "No contexto 'o chefe anuiu ao pedido', a forma verbal 'anuiu' significa:",
+    "options": [
+      "consentiu, concordou",
+      "discordou",
+      "anulou",
+      "adiou"
+    ]
+  },
+  {
+    "id": 8,
+    "area": "Língua Portuguesa",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Assinale o conectivo que estabelece relação de condição: '___ haja recurso, o prazo se suspende.'",
+    "options": [
+      "Porque",
+      "Caso",
+      "Portanto",
+      "Embora"
+    ]
+  },
+  {
+    "id": 9,
+    "area": "Língua Portuguesa",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Assinale a alternativa correta quanto à concordância nominal.",
+    "options": [
+      "Os candidatos ficaram alertas durante a prova.",
+      "Os candidatos ficaram alerta durante a prova.",
+      "Seguem anexo as provas corrigidas.",
+      "Ela está meia cansada hoje."
+    ]
+  },
+  {
+    "id": 10,
+    "area": "Língua Portuguesa",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Passe para a voz passiva: 'A comissão analisará os recursos.'",
+    "options": [
+      "Os recursos serão analisados pela comissão.",
+      "Os recursos analisarão a comissão.",
+      "Analisaram-se os recursos.",
+      "A comissão foi analisada."
+    ]
+  },
+  {
+    "id": 11,
+    "area": "Noções de Informática",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Um arquivo de imagem comum possui a extensão:",
+    "options": [
+      ".exe",
+      ".mp3",
+      ".jpg",
+      ".docx"
+    ]
+  },
+  {
+    "id": 12,
+    "area": "Noções de Informática",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O atalho Ctrl+P, na maioria dos programas, serve para:",
+    "options": [
+      "colar",
+      "salvar",
+      "recortar",
+      "imprimir"
+    ]
+  },
+  {
+    "id": 13,
+    "area": "Noções de Informática",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Manter o sistema e os programas atualizados ajuda a corrigir, sobretudo:",
+    "options": [
+      "defeitos do monitor",
+      "problemas do teclado",
+      "falhas de segurança (vulnerabilidades)",
+      "a fonte de alimentação"
+    ]
+  },
+  {
+    "id": 14,
+    "area": "Noções de Informática",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Intranet é uma rede:",
+    "options": [
+      "pública e mundial",
+      "de telefonia fixa",
+      "de transmissão de TV",
+      "privada/corporativa baseada em tecnologias da internet"
+    ]
+  },
+  {
+    "id": 15,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Campina Grande fica na região Nordeste, no estado da:",
+    "options": [
+      "Bahia",
+      "Paraíba",
+      "Sergipe",
+      "Alagoas"
+    ]
+  },
+  {
+    "id": 16,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "O Parque do Povo, em Campina Grande, é o palco principal:",
+    "options": [
+      "do São João",
+      "apenas do Réveillon",
+      "de corridas de automóvel",
+      "somente de feiras agropecuárias"
+    ]
+  },
+  {
+    "id": 17,
+    "area": "História de Campina Grande/PB",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Por seu polo de informática e tecnologia, Campina Grande é às vezes chamada de:",
+    "options": [
+      "'Vale do Silício' paraibano/nordestino",
+      "Cidade do Petróleo",
+      "Capital do Ferro",
+      "Cidade Jardim"
+    ]
+  },
+  {
+    "id": 18,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Atuar com presteza, rendimento e qualidade no serviço público reflete o princípio da:",
+    "options": [
+      "legalidade",
+      "eficiência",
+      "anterioridade",
+      "publicidade"
+    ]
+  },
+  {
+    "id": 19,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Conforme a LAI, o prazo máximo de classificação de uma informação como ultrassecreta é de até:",
+    "options": [
+      "5 anos",
+      "100 anos",
+      "tempo ilimitado",
+      "25 anos"
+    ]
+  },
+  {
+    "id": 20,
+    "area": "Legislação e Ética no Serviço Público",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O consentimento do titular, na LGPD, deve ser:",
+    "options": [
+      "tácito em qualquer caso",
+      "verbal e genérico",
+      "livre, informado e inequívoco",
+      "dispensável sempre"
+    ]
+  },
+  {
+    "id": 21,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O Sistema Tributário Nacional está disciplinado na Constituição Federal a partir do art.:",
+    "options": [
+      "1º",
+      "37",
+      "5º",
+      "145"
+    ]
+  },
+  {
+    "id": 22,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "As limitações constitucionais ao poder de tributar englobam os princípios e as:",
+    "options": [
+      "isenções legais",
+      "anistias",
+      "imunidades",
+      "remissões"
+    ]
+  },
+  {
+    "id": 23,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "A imunidade tributária é uma limitação prevista:",
+    "options": [
+      "na Constituição Federal",
+      "em lei ordinária",
+      "em portaria",
+      "em instrução normativa"
+    ]
+  },
+  {
+    "id": 24,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A isenção é causa de exclusão do crédito tributário e decorre de:",
+    "options": [
+      "Constituição Federal",
+      "lei",
+      "decreto autônomo",
+      "costume"
+    ]
+  },
+  {
+    "id": 25,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Diferença essencial entre imunidade e isenção:",
+    "options": [
+      "a imunidade é constitucional; a isenção é legal",
+      "ambas são legais",
+      "ambas são constitucionais",
+      "a isenção é constitucional e a imunidade é legal"
+    ]
+  },
+  {
+    "id": 26,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Os impostos, em regra, são tributos:",
+    "options": [
+      "vinculados a um serviço prestado",
+      "restituíveis ao contribuinte",
+      "não vinculados a uma contraprestação estatal específica",
+      "de instituição facultativa"
+    ]
+  },
+  {
+    "id": 27,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "As taxas e contribuições de melhoria são tributos:",
+    "options": [
+      "não vinculados",
+      "vinculados a uma atividade estatal",
+      "de competência exclusiva da União",
+      "inconstitucionais"
+    ]
+  },
+  {
+    "id": 28,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Quanto à repartição de receitas, pertence aos Municípios parte do produto da arrecadação do:",
+    "options": [
+      "ISS estadual",
+      "IR federal, integralmente",
+      "IPTU da União",
+      "ICMS e do IPVA"
+    ]
+  },
+  {
+    "id": 29,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Pertence integralmente ao Município o produto da arrecadação do IR retido na fonte sobre rendimentos pagos:",
+    "options": [
+      "por empresas privadas",
+      "por outros Municípios",
+      "pela União diretamente",
+      "por ele, suas autarquias e fundações"
+    ]
+  },
+  {
+    "id": 30,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O ITR é da União, mas o Município que optar por fiscalizá-lo e cobrá-lo fica com:",
+    "options": [
+      "50% do produto",
+      "100% do produto da arrecadação",
+      "25% do produto",
+      "nenhuma parcela"
+    ]
+  },
+  {
+    "id": 31,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "O lançamento por homologação aplica-se, tipicamente, a tributos como:",
+    "options": [
+      "IPTU e IPVA",
+      "ITR exclusivamente",
+      "ISS e ICMS",
+      "taxas de polícia"
+    ]
+  },
+  {
+    "id": 32,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Constituído o crédito pelo lançamento, sua exigibilidade pode ser suspensa, entre outras hipóteses, por:",
+    "options": [
+      "moratória, depósito integral, recursos administrativos, liminares e parcelamento",
+      "pagamento integral",
+      "prescrição",
+      "decadência"
+    ]
+  },
+  {
+    "id": 33,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "Quanto às garantias do crédito, respondem por ele todos os bens e rendas do sujeito passivo, salvo os declarados:",
+    "options": [
+      "de uso pessoal",
+      "imóveis urbanos",
+      "absolutamente impenhoráveis por lei",
+      "veículos automotores"
+    ]
+  },
+  {
+    "id": 34,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "Presume-se fraudulenta a alienação de bens por sujeito passivo com débito inscrito em dívida ativa, salvo reserva de bens suficientes. Isso protege:",
+    "options": [
+      "a garantia do crédito tributário",
+      "a imunidade do contribuinte",
+      "a isenção concedida",
+      "a anistia"
+    ]
+  },
+  {
+    "id": 35,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "O controle externo da execução orçamentária no Município é exercido pela Câmara Municipal com auxílio do:",
+    "options": [
+      "Ministério da Economia",
+      "cartório de registro",
+      "Banco Central",
+      "Tribunal de Contas"
+    ]
+  },
+  {
+    "id": 36,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "O controle interno é exercido:",
+    "options": [
+      "pelo Poder Judiciário",
+      "pela própria Administração, sobre seus atos",
+      "pela imprensa",
+      "pelos cartórios"
+    ]
+  },
+  {
+    "id": 37,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A Demonstração do Resultado do Exercício (DRE) confronta receitas e despesas para apurar:",
+    "options": [
+      "o saldo de caixa",
+      "o resultado (lucro ou prejuízo) do período",
+      "o ativo total",
+      "o passivo exigível"
+    ]
+  },
+  {
+    "id": 38,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Médio",
+    "type": "múltipla escolha",
+    "questionText": "Depreciação é a:",
+    "options": [
+      "valorização de imóveis",
+      "receita financeira",
+      "despesa de pessoal",
+      "perda de valor de ativos imobilizados pelo uso ou pelo tempo"
+    ]
+  },
+  {
+    "id": 39,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Difícil",
+    "type": "múltipla escolha",
+    "questionText": "A probabilidade de um evento varia entre:",
+    "options": [
+      "0 e 1",
+      "1 e 10",
+      "-1 e 1",
+      "0 e 100, sempre"
+    ]
+  },
+  {
+    "id": 40,
+    "area": "Conhecimentos Específicos",
+    "difficulty": "Fácil",
+    "type": "múltipla escolha",
+    "questionText": "A função administrativa que envolve definir objetivos e os meios para alcançá-los é o:",
+    "options": [
+      "controle",
+      "direção",
+      "planejamento",
+      "arquivamento"
+    ]
+  }
+]
