@@ -6,10 +6,10 @@
     "type": "múltipla escolha",
     "questionText": "Assinale a alternativa em que todas as palavras estão grafadas corretamente.",
     "options": [
-      "previlégio, beneficiente, concessão",
-      "privilégio, beneficente, consessão",
-      "previlégio, beneficente, concessão",
-      "privilégio, beneficente, concessão"
+      "O previlégio foi concedido sem justificativa.",
+      "Houve um empecilio burocrático no processo.",
+      "A despeza com a obra foi excessiva.",
+      "A exceção foi analisada com discrição pelo gestor."
     ]
   },
   {
@@ -17,12 +17,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que o uso do sinal indicativo de crase está correto.",
+    "questionText": "Assinale a alternativa em que não há erro de ortografia.",
     "options": [
-      "Refiro-me à Vossa Senhoria.",
-      "Deu assistência à parturiente.",
-      "Cheguei à pé à maternidade.",
-      "Falei à ele sobre o caso."
+      "Houve uma paralização das atividades no órgão.",
+      "O concurso exige bom senso e disciplina do candidato.",
+      "O servidor agiu com extrema mal-criação.",
+      "O processo foi protelado por mera ezitação."
     ]
   },
   {
@@ -30,12 +30,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que a concordância verbal está correta.",
+    "questionText": "Assinale a alternativa em que a acentuação gráfica está inteiramente correta.",
     "options": [
-      "Deve haver protocolos atualizados.",
-      "Devem haver protocolos atualizados.",
-      "Houveram falhas no registro.",
-      "Fazem anos que atuo aqui."
+      "O juiz analisou o item com critério e cautela.",
+      "O juíz foi imparcial ao avaliar o caso.",
+      "O ítem está correto segundo o relator.",
+      "O critereo adotado pela banca foi rigoroso."
     ]
   },
   {
@@ -43,12 +43,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que a regência está conforme a norma-padrão.",
+    "questionText": "Sobre as regras de acentuação, assinale a alternativa correta.",
     "options": [
-      "Prefiro isto do que aquilo.",
-      "Cheguei no centro cirúrgico.",
-      "Aspiro a uma vaga no hospital.",
-      "Assisti o parto pela manhã."
+      "Os monossílabos átonos sempre recebem acento gráfico.",
+      "As oxítonas terminadas em 'i' são sempre acentuadas.",
+      "Todas as proparoxítonas são acentuadas, como 'lâmpada' e 'médico'.",
+      "As paroxítonas terminadas em 'a' recebem acento."
     ]
   },
   {
@@ -56,12 +56,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Na frase 'é preciso cuidar bem', a palavra 'bem' classifica-se como:",
+    "questionText": "Quanto ao processo de formação de palavras, assinale a alternativa correta.",
     "options": [
-      "adjetivo",
-      "substantivo",
-      "advérbio",
-      "verbo"
+      "'Pontapé' é formada por derivação sufixal.",
+      "'Guarda-chuva' resulta de derivação regressiva.",
+      "'Desleal' é formada por derivação prefixal.",
+      "'Reler' é uma palavra primitiva."
     ]
   },
   {
@@ -69,12 +69,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Assinale o uso correto de 'a/há'.",
+    "questionText": "Assinale a alternativa correta quanto à formação de palavras.",
     "options": [
-      "Há dois dias o paciente está internado.",
-      "A dois dias o paciente está internado.",
-      "Daqui há uma hora começa a visita.",
-      "Cheguei a pouco ao plantão."
+      "'Passatempo' é formada por composição por justaposição.",
+      "'Infeliz' é exemplo de composição por aglutinação.",
+      "'Aguardente' resulta de derivação sufixal.",
+      "'Cafezal' é uma palavra primitiva."
     ]
   },
   {
@@ -82,12 +82,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "No contexto 'paciente letárgico', a palavra 'letárgico' significa:",
+    "questionText": "Assinale a alternativa em que a classe gramatical da palavra destacada está correta.",
     "options": [
-      "agitado",
-      "sonolento, com torpor",
-      "eufórico",
-      "plenamente saudável"
+      "Em 'os deveres do cargo', 'os' é pronome.",
+      "Em 'cidade histórica', 'histórica' é adjetivo.",
+      "Em 'corri muito hoje', 'muito' é adjetivo.",
+      "Em 'dois servidores', 'dois' é substantivo."
     ]
   },
   {
@@ -95,12 +95,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Assinale o conectivo de causa: 'O curativo foi trocado ___ estava úmido.'",
+    "questionText": "Assinale a alternativa correta quanto à classe de palavras.",
     "options": [
-      "embora",
-      "portanto",
-      "caso",
-      "porque"
+      "Em 'casa bonita', 'bonita' é advérbio.",
+      "Em 'nós estudamos', 'nós' é verbo.",
+      "Em 'muito bom', 'muito' é substantivo.",
+      "Em 'ele falou calmamente', 'calmamente' é advérbio de modo."
     ]
   },
   {
@@ -108,12 +108,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa correta quanto à concordância nominal.",
+    "questionText": "Assinale a alternativa em que a função do 'que' está corretamente identificada.",
     "options": [
-      "Os impressos anexo foram assinados.",
-      "Os impressos anexos foram assinados.",
-      "Segue anexo as receitas.",
-      "Ela está meio nervosa e eles meios cansados."
+      "Em 'espero que venha', 'que' é pronome relativo.",
+      "Em 'o livro que comprei', 'que' é pronome relativo.",
+      "Em 'que dia lindo!', 'que' é conjunção integrante.",
+      "Em 'fiquei que nem tonto', 'que' é artigo."
     ]
   },
   {
@@ -121,12 +121,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a oração na voz passiva.",
+    "questionText": "Assinale a alternativa em que a função do 'se' está corretamente identificada.",
     "options": [
-      "A técnica medicou o paciente.",
-      "Medicou-se o paciente.",
-      "A técnica se medicou.",
-      "O paciente foi medicado pela técnica."
+      "Em 'precisa-se de auxiliares', 'se' é apassivadora.",
+      "Em 'ele se feriu', 'se' é conjunção.",
+      "Em 'se chover, ficarei', 'se' é pronome reflexivo.",
+      "Em 'vendem-se casas', 'se' é partícula apassivadora."
     ]
   },
   {
@@ -134,12 +134,12 @@
     "area": "Noções de Informática",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Assinale o dispositivo de ENTRADA de dados.",
+    "questionText": "Sobre os componentes de um computador, assinale a alternativa correta.",
     "options": [
-      "monitor",
-      "impressora",
-      "teclado",
-      "caixa de som"
+      "O HD (disco rígido) é um tipo de memória volátil.",
+      "A CPU é um dispositivo exclusivamente de saída.",
+      "A memória RAM é volátil: seu conteúdo é perdido ao desligar o computador.",
+      "A memória ROM serve apenas para imprimir documentos."
     ]
   },
   {
@@ -147,12 +147,12 @@
     "area": "Noções de Informática",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "O atalho Ctrl+Z, na maioria dos programas, serve para:",
+    "questionText": "Sobre hardware e software, assinale a alternativa correta.",
     "options": [
-      "desfazer a última ação",
-      "salvar",
-      "copiar",
-      "imprimir"
+      "Software é o conjunto de programas; hardware é a parte física do computador.",
+      "O sistema operacional é um componente de hardware.",
+      "O monitor é um exemplo de software.",
+      "Hardware e software são termos sinônimos."
     ]
   },
   {
@@ -160,12 +160,12 @@
     "area": "Noções de Informática",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "A barreira que controla o tráfego entre redes, protegendo o sistema, é o:",
+    "questionText": "Sobre dispositivos de entrada e saída, assinale a alternativa correta.",
     "options": [
-      "firewall",
-      "cookie",
-      "cache",
-      "spam"
+      "O teclado é um dispositivo de entrada de dados.",
+      "A impressora é um dispositivo de entrada de dados.",
+      "O scanner é um dispositivo exclusivamente de saída.",
+      "O mouse é um dispositivo de armazenamento."
     ]
   },
   {
@@ -173,12 +173,12 @@
     "area": "Noções de Informática",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Em informática, URL é:",
+    "questionText": "Sobre ferramentas de colaboração, assinale a alternativa correta.",
     "options": [
-      "um tipo de vírus",
-      "um programa de edição",
-      "o endereço de um recurso na internet",
-      "uma memória do computador"
+      "O Google Meet é um editor de imagens.",
+      "O Microsoft Teams não permite compartilhamento de tela.",
+      "O Microsoft Teams e o Google Meet são ferramentas de reunião on-line.",
+      "Essas ferramentas funcionam apenas sem conexão com a internet."
     ]
   },
   {
@@ -186,12 +186,12 @@
     "area": "História de Campina Grande/PB",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Campina Grande é a segunda maior cidade:",
+    "questionText": "Atualmente, Campina Grande é reconhecida também como:",
     "options": [
-      "do Ceará",
-      "de Pernambuco",
-      "do Rio Grande do Norte",
-      "da Paraíba"
+      "uma cidade sem qualquer instituição de ensino superior.",
+      "um polo exclusivamente agropecuário, sem destaque tecnológico.",
+      "uma cidade litorânea voltada ao turismo de praia.",
+      "um importante polo tecnológico e de informática do Nordeste."
     ]
   },
   {
@@ -199,12 +199,12 @@
     "area": "História de Campina Grande/PB",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "O festejo junino de Campina Grande é divulgado como:",
+    "questionText": "Campina Grande é nacionalmente conhecida por sediar:",
     "options": [
-      "a maior festa junina da Europa",
-      "O Maior São João do Mundo",
-      "um carnaval fora de época",
-      "uma feira de tecnologia"
+      "um grande Carnaval fora de época.",
+      "'O Maior São João do Mundo'.",
+      "a Oktoberfest do Nordeste.",
+      "a maior festa do peão de boiadeiro do país."
     ]
   },
   {
@@ -212,12 +212,12 @@
     "area": "História de Campina Grande/PB",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Campina Grande é conhecida como a 'Rainha da':",
+    "questionText": "O principal palco das festividades juninas de Campina Grande é:",
     "options": [
-      "Serra do Mar",
-      "Mata Atlântica",
-      "Borborema",
-      "Caatinga"
+      "um único teatro fechado no centro da cidade.",
+      "o porto marítimo da cidade.",
+      "o Parque do Povo.",
+      "as ruas de João Pessoa, capital do estado."
     ]
   },
   {
@@ -225,12 +225,12 @@
     "area": "Legislação e Ética no Serviço Público",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Usar o cargo público para favorecer interesses pessoais viola, sobretudo, o princípio da:",
+    "questionText": "Na LGPD, denomina-se 'controlador':",
     "options": [
-      "publicidade",
-      "moralidade",
-      "eficiência",
-      "anterioridade"
+      "a pessoa natural cujos dados estão sendo tratados.",
+      "aquele a quem competem as decisões sobre o tratamento de dados.",
+      "o órgão que apenas executa ordens de tratamento.",
+      "qualquer pessoa, pois a LGPD não define papéis."
     ]
   },
   {
@@ -238,12 +238,12 @@
     "area": "Legislação e Ética no Serviço Público",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Conforme a LAI, o pedido de acesso à informação, em regra:",
+    "questionText": "Na Lei de Acesso à Informação, a transparência ativa consiste em:",
     "options": [
-      "exige motivação detalhada",
-      "só pode ser feito por advogado",
-      "depende de pagamento prévio",
-      "não exige que o requerente exponha os motivos"
+      "divulgar informações apenas quando houver pedido formal.",
+      "manter as informações em segredo permanente.",
+      "vedar a divulgação espontânea pelos órgãos públicos.",
+      "divulgar informações de interesse público independentemente de solicitação."
     ]
   },
   {
@@ -251,12 +251,12 @@
     "area": "Legislação e Ética no Serviço Público",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Na LGPD, o 'tratamento' de dados pessoais inclui coleta, uso, armazenamento e:",
+    "questionText": "Pelo princípio da publicidade, os atos da Administração Pública devem, em regra:",
     "options": [
-      "eliminação",
-      "tributação",
-      "auditoria fiscal",
-      "penhora"
+      "ser transparentes e divulgados.",
+      "permanecer secretos como norma geral.",
+      "aplicar-se apenas ao setor privado.",
+      "ter sua divulgação sempre proibida."
     ]
   },
   {

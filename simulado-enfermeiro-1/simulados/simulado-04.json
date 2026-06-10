@@ -4,12 +4,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que todas as palavras estão grafadas corretamente.",
+    "questionText": "Assinale a alternativa correta quanto à semântica das palavras.",
     "options": [
-      "esceção, exceder, excelente",
-      "exceção, exceder, excelente",
-      "exceção, esceder, escelente",
-      "esceção, esceder, escelente"
+      "'Ratificar' e 'retificar' são sinônimos.",
+      "'Lícito' e 'permitido' são sinônimos.",
+      "'Iminente' e 'eminente' têm o mesmo sentido.",
+      "'Tráfego' e 'tráfico' são sinônimos."
     ]
   },
   {
@@ -17,12 +17,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que o uso do sinal indicativo de crase está correto.",
+    "questionText": "Assinale a alternativa correta quanto às relações de sentido.",
     "options": [
-      "Refiro-me à Vossa Senhoria.",
-      "Fui à pé até o leito.",
-      "Entreguei o laudo à ele.",
-      "Deu atenção à queixa do paciente."
+      "'Comprimento' e 'cumprimento' são antônimos.",
+      "'Banco' (assento e instituição) é caso de antonímia.",
+      "Sinônimos são palavras de sentidos sempre opostos.",
+      "'Ascender' (subir) e 'descer' são antônimos."
     ]
   },
   {
@@ -30,12 +30,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que a concordância verbal está correta.",
+    "questionText": "Assinale a alternativa correta sobre parônimos e homônimos.",
     "options": [
-      "Houveram muitas internações no plantão.",
-      "Existe muitos leitos vagos.",
-      "Houve muitas internações no plantão.",
-      "Fazem dias que aguardo."
+      "'Cela' e 'sela' são sinônimos.",
+      "'Feliz' e 'contente' são antônimos.",
+      "'Descrição' e 'discrição' são parônimos.",
+      "'Manga' (a fruta e a da camisa) é exemplo de paronímia."
     ]
   },
   {
@@ -43,12 +43,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que a regência está conforme a norma-padrão.",
+    "questionText": "Assinale a alternativa correta sobre tipologia textual.",
     "options": [
-      "O cargo a que aspiro exige preparo.",
-      "O cargo que aspiro exige preparo.",
-      "Cheguei na unidade cedo.",
-      "Prefiro ler do que escrever."
+      "O texto que defende um ponto de vista com argumentos é dissertativo-argumentativo.",
+      "A narração caracteriza-se pela ausência de tempo e de personagens.",
+      "A descrição apresenta sempre fatos em sequência com clímax.",
+      "O texto injuntivo nunca emprega verbos no imperativo."
     ]
   },
   {
@@ -56,12 +56,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Na frase 'a equipe agiu prontamente', a palavra 'prontamente' classifica-se como:",
+    "questionText": "Assinale a alternativa correta sobre gêneros textuais.",
     "options": [
-      "advérbio",
-      "adjetivo",
-      "substantivo",
-      "numeral"
+      "O edital de concurso é um gênero de finalidade informativa e normativa.",
+      "A receita culinária é um gênero predominantemente narrativo.",
+      "A notícia é um gênero literário essencialmente ficcional.",
+      "O requerimento dispensa o uso de linguagem formal."
     ]
   },
   {
@@ -69,12 +69,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa que completa corretamente: 'Ele se sentiu ___ após o procedimento.'",
+    "questionText": "Assinale a alternativa em que a reescrita mantém o sentido original.",
     "options": [
-      "mau",
-      "mais",
-      "mal",
-      "más"
+      "'Embora estudasse, foi reprovado' equivale a 'Porque estudava, foi reprovado'.",
+      "'Se chover, não sairemos' equivale a 'Mesmo que chova, não sairemos'.",
+      "'O servidor foi exonerado porque faltou' equivale a 'Por ter faltado, o servidor foi exonerado'.",
+      "'Comprou o livro e o leu' equivale a 'Comprou o livro, mas não o leu'."
     ]
   },
   {
@@ -82,12 +82,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "No contexto 'o enfermeiro foi taxativo', a palavra 'taxativo' significa:",
+    "questionText": "Assinale a alternativa correta sobre colocação pronominal.",
     "options": [
-      "hesitante",
-      "gentil",
-      "confuso",
-      "categórico, que não admite contestação"
+      "Após pausa forte, marcada por vírgula, usa-se sempre ênclise.",
+      "Em início de oração, o pronome oblíquo deve vir após o verbo.",
+      "Palavras atrativas, como 'nunca', exigem ênclise.",
+      "Em 'Não me convém esse horário', a próclise é exigida pela palavra 'não'."
     ]
   },
   {
@@ -95,12 +95,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Assinale o conectivo que estabelece relação de finalidade: 'Higienize as mãos ___ evitar infecções.'",
+    "questionText": "Assinale a alternativa correta sobre colocação pronominal.",
     "options": [
-      "por isso",
-      "a fim de",
-      "embora",
-      "porque"
+      "A mesóclise é usada com verbos no presente do indicativo.",
+      "Em 'Far-se-á justiça', há mesóclise, usada com verbo no futuro sem atrativo.",
+      "A ênclise ocorre quando há palavra atrativa antes do verbo.",
+      "A próclise é proibida em orações que contenham advérbio."
     ]
   },
   {
@@ -108,12 +108,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa correta quanto à concordância nominal.",
+    "questionText": "Assinale a alternativa correta sobre interpretação de textos.",
     "options": [
-      "Segue anexo as guias.",
-      "Ela está meia nervosa com o caso.",
-      "Comprei bastante materiais; estavam caro.",
-      "É necessária muita cautela na triagem."
+      "Inferir é copiar literalmente um trecho do texto.",
+      "Informação explícita é aquela que não está escrita no texto.",
+      "Toda inferência independe completamente do contexto.",
+      "Inferir é deduzir uma informação implícita a partir do texto."
     ]
   },
   {
@@ -121,12 +121,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a oração na voz passiva.",
+    "questionText": "Assinale a alternativa em que a função sintática do termo destacado está correta.",
     "options": [
-      "O médico solicitou o exame.",
-      "O exame foi solicitado pelo médico.",
-      "Solicitou-se o exame.",
-      "O médico se solicitou."
+      "Em 'A lei é justa', 'justa' é objeto direto.",
+      "Em 'O auditor entregou o relatório ao chefe', 'ao chefe' é objeto indireto.",
+      "Em 'Choveu muito ontem', 'muito' é sujeito.",
+      "Em 'Comprei livros novos', 'livros' é sujeito."
     ]
   },
   {
@@ -134,12 +134,12 @@
     "area": "Noções de Informática",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "A memória volátil, que perde os dados ao desligar o computador, é a:",
+    "questionText": "Sobre pragas digitais (malware), assinale a alternativa correta.",
     "options": [
-      "memória RAM",
-      "HD",
-      "SSD",
-      "pendrive"
+      "O cavalo de Troia (trojan) se disfarça de programa legítimo para enganar o usuário.",
+      "O antivírus é um tipo de malware que rouba senhas.",
+      "Spam é um equipamento de hardware do computador.",
+      "Cookies são vírus que destroem o disco rígido."
     ]
   },
   {
@@ -147,12 +147,12 @@
     "area": "Noções de Informática",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "O atalho Ctrl+V, na maioria dos programas, serve para:",
+    "questionText": "Em relação a cópias de segurança (backup), é correto afirmar que:",
     "options": [
-      "copiar",
-      "recortar",
-      "colar",
-      "salvar"
+      "o backup incremental copia sempre todos os arquivos, sem exceção.",
+      "manter backups não auxilia na proteção contra ransomware.",
+      "backup é a cópia de dados usada para recuperá-los em caso de perda.",
+      "backup e antivírus são exatamente a mesma ferramenta."
     ]
   },
   {
@@ -160,12 +160,12 @@
     "area": "Noções de Informática",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "O malware que se replica e se propaga automaticamente por redes, sem hospedeiro, é o:",
+    "questionText": "Sobre os pilares da segurança da informação, assinale a alternativa correta.",
     "options": [
-      "cookie",
-      "driver",
-      "worm (verme)",
-      "plugin"
+      "A integridade garante que apenas autorizados acessem os dados.",
+      "A disponibilidade impede qualquer acesso ao sistema.",
+      "Confidencialidade, integridade e disponibilidade são seus pilares.",
+      "A autenticação não tem relação com segurança da informação."
     ]
   },
   {
@@ -173,12 +173,12 @@
     "area": "Noções de Informática",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "O Google Chrome é um:",
+    "questionText": "Sobre conceitos de redes, assinale a alternativa correta.",
     "options": [
-      "navegador de internet",
-      "programa antivírus",
-      "editor de planilhas",
-      "sistema operacional"
+      "A intranet é uma rede privada que usa tecnologias da internet, restrita a uma organização.",
+      "A extranet é uma rede totalmente isolada, sem qualquer acesso externo.",
+      "Internet e intranet são exatamente a mesma rede pública.",
+      "A intranet é sempre acessível a qualquer pessoa no mundo."
     ]
   },
   {
@@ -186,12 +186,12 @@
     "area": "História de Campina Grande/PB",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Campina Grande pertence ao estado da:",
+    "questionText": "A Revolta do Ronco da Abelha (1851-1852) caracterizou-se como:",
     "options": [
-      "Bahia",
-      "Paraíba",
-      "Sergipe",
-      "Alagoas"
+      "revolta de operários industriais ocorrida no século XX.",
+      "movimento popular de resistência ao registro civil de nascimentos e óbitos.",
+      "movimento separatista que criou um novo país.",
+      "festa religiosa tradicional da cidade."
     ]
   },
   {
@@ -199,12 +199,12 @@
     "area": "História de Campina Grande/PB",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Campina Grande é apelidada de:",
+    "questionText": "A Revolta do Quebra-Quilos (1874) opôs-se, principalmente:",
     "options": [
-      "Cidade Sorriso",
-      "Capital do Sol",
-      "Cidade Luz",
-      "Rainha da Borborema"
+      "ao fim da escravidão no Brasil.",
+      "à construção da estrada de ferro Great Western.",
+      "à criação das universidades na região.",
+      "à adoção do sistema métrico decimal e a novos impostos."
     ]
   },
   {
@@ -212,12 +212,12 @@
     "area": "História de Campina Grande/PB",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Campina Grande destaca-se na Paraíba como importante centro:",
+    "questionText": "O Açude Velho, importante cartão-postal de Campina Grande, foi construído:",
     "options": [
-      "universitário e tecnológico",
-      "portuário",
-      "pesqueiro",
-      "vinícola"
+      "no início do século XX (por volta de 1915-1916).",
+      "no século XVII, junto com a fundação da cidade.",
+      "apenas em 2002, com a criação da UFCG.",
+      "como formação natural, sem intervenção humana."
     ]
   },
   {
@@ -225,12 +225,12 @@
     "area": "Legislação e Ética no Serviço Público",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Publicar atos para conhecimento geral, dando-lhes transparência, atende ao princípio da:",
+    "questionText": "O órgão responsável por zelar, fiscalizar e aplicar a LGPD é:",
     "options": [
-      "anterioridade",
-      "eficiência",
-      "moralidade",
-      "publicidade"
+      "exclusivamente a Receita Federal do Brasil.",
+      "somente o Poder Judiciário estadual.",
+      "nenhum, pois a LGPD não prevê fiscalização.",
+      "a Autoridade Nacional de Proteção de Dados (ANPD)."
     ]
   },
   {
@@ -238,12 +238,12 @@
     "area": "Legislação e Ética no Serviço Público",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "O órgão federal responsável por fiscalizar a aplicação da LGPD é a:",
+    "questionText": "Conforme a LAI, a informação classificada como ultrassecreta tem prazo máximo de restrição de:",
     "options": [
-      "ANS",
-      "ANPD",
-      "ANVISA",
-      "ANEEL"
+      "tempo indeterminado, ou seja, sigilo permanente.",
+      "25 anos.",
+      "5 anos, improrrogáveis.",
+      "100 anos, em qualquer hipótese."
     ]
   },
   {
@@ -251,12 +251,12 @@
     "area": "Legislação e Ética no Serviço Público",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Uma das hipóteses que autorizam o tratamento de dados pessoais, na LGPD, é:",
+    "questionText": "Para o Código de Ética, a função pública deve ser entendida como:",
     "options": [
-      "a ordem verbal do gestor",
-      "o interesse comercial irrestrito",
-      "o consentimento do titular",
-      "o anonimato obrigatório"
+      "um bem particular do servidor, de uso livre.",
+      "uma atividade que dispensa qualquer cortesia.",
+      "exercício profissional voltado ao bem comum.",
+      "uma função isenta do dever de zelar pelo patrimônio público."
     ]
   },
   {

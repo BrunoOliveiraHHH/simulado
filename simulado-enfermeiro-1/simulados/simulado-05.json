@@ -4,12 +4,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que todas as palavras estão grafadas corretamente.",
+    "questionText": "Assinale a alternativa em que a concordância verbal está de acordo com a norma-padrão.",
     "options": [
-      "ascenção, obssessão, discrissão",
-      "ascensão, obcessão, discrição",
-      "ascensão, obsessão, discrição",
-      "ascenção, obsessão, discrissão"
+      "Fazem dez anos que a lei mudou.",
+      "Existe vários recursos pendentes de análise.",
+      "Houve muitas reclamações sobre o novo tributo.",
+      "Tratam-se de questões relativas à fiscalização."
     ]
   },
   {
@@ -17,12 +17,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que o uso do sinal indicativo de crase está correto.",
+    "questionText": "Assinale a alternativa em que a concordância verbal está correta.",
     "options": [
-      "Estou à disposição da chefia de enfermagem.",
-      "Vou a praia no domingo.",
-      "Entreguei o relatório a coordenadora.",
-      "Cheguei a uma hora da tarde."
+      "Faz dois meses que ele assumiu o cargo.",
+      "Fazem dois meses que ele assumiu o cargo.",
+      "Houveram problemas na contagem dos votos.",
+      "Devem haver normas mais claras no edital."
     ]
   },
   {
@@ -30,12 +30,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que a concordância verbal está correta.",
+    "questionText": "Assinale a alternativa em que a concordância nominal está de acordo com a norma-padrão.",
     "options": [
-      "Os Estados Unidos enviou vacinas.",
-      "Houveram muitos casos.",
-      "Tratam-se de protocolos novos.",
-      "Mais de um paciente aguardava atendimento."
+      "É proibido a entrada de pessoas não autorizadas.",
+      "Elas mesmo resolveram a pendência tributária.",
+      "As fiscais ficaram meia preocupadas com o prazo.",
+      "É proibida a entrada de pessoas não autorizadas."
     ]
   },
   {
@@ -43,12 +43,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que a regência está conforme a norma-padrão.",
+    "questionText": "Assinale a alternativa corretamente redigida quanto à concordância nominal.",
     "options": [
-      "A norma que me refiro mudou.",
-      "A norma a que me refiro mudou.",
-      "Prefiro cuidar do que anotar.",
-      "Cheguei na recepção cedo."
+      "Seguem anexo as planilhas solicitadas pelo auditor.",
+      "Seguem anexas as planilhas solicitadas pelo auditor.",
+      "É necessário a presença de todos os servidores.",
+      "Havia bastante motivos para o indeferimento."
     ]
   },
   {
@@ -56,12 +56,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Na frase 'o atendimento foi rápido', a palavra 'rápido' classifica-se como:",
+    "questionText": "Assinale a alternativa em que a regência verbal está de acordo com a norma-padrão.",
     "options": [
-      "advérbio",
-      "adjetivo",
-      "substantivo",
-      "verbo"
+      "Prefiro mais o trabalho de campo do que o de gabinete.",
+      "Assisti ao documentário sobre a história da cidade.",
+      "Cheguei no órgão público antes das oito horas.",
+      "O processo implicou em diversas penalidades."
     ]
   },
   {
@@ -69,12 +69,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa que completa corretamente: 'O idoso ouve ___.'",
+    "questionText": "Assinale a alternativa em que a regência verbal está correta.",
     "options": [
-      "mau",
-      "mais",
-      "más",
-      "mal"
+      "Viso o cargo de auditor fiscal há anos.",
+      "Esqueci de protocolar o documento no prazo.",
+      "Ele aspira o cargo de chefia da repartição.",
+      "O servidor obedece às normas do edital."
     ]
   },
   {
@@ -82,12 +82,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "No contexto 'risco iminente de parada', a palavra 'iminente' significa:",
+    "questionText": "Assinale a alternativa em que o uso do sinal indicativo de crase está correto.",
     "options": [
-      "que está prestes a acontecer",
-      "que já passou",
-      "duvidoso",
-      "permanente"
+      "Entreguei o relatório à secretária do setor.",
+      "Refiro-me à você e aos demais colegas.",
+      "Estou disposto à colaborar com a comissão.",
+      "Ele agiu conforme à lei vigente."
     ]
   },
   {
@@ -95,12 +95,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Assinale o conectivo de adição: 'Avaliou o paciente; ___, registrou os sinais vitais.'",
+    "questionText": "Assinale a alternativa em que há emprego correto da crase.",
     "options": [
-      "contudo",
-      "porque",
-      "além disso",
-      "portanto"
+      "Daqui à pouco a sessão será reaberta.",
+      "As compras foram feitas à prazo.",
+      "O atendimento ao público ocorre das 8h às 17h.",
+      "Fiquei cara à cara com a diretora."
     ]
   },
   {
@@ -108,12 +108,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa correta quanto à concordância nominal.",
+    "questionText": "Assinale a alternativa corretamente pontuada.",
     "options": [
-      "É proibida a entrada de pessoas não autorizadas.",
-      "Segue anexo as fichas.",
-      "Ela está meia tonta.",
-      "Há bastante leito; estão ocupado."
+      "João Pessoa, capital da Paraíba, fica no litoral.",
+      "O auditor, fiscalizou a empresa durante a manhã.",
+      "Comprou, livros canetas e cadernos para o estudo.",
+      "Ele estuda muito e, por isso será, aprovado."
     ]
   },
   {
@@ -121,12 +121,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a oração na voz passiva.",
+    "questionText": "Assinale a alternativa em que a pontuação está de acordo com a norma-padrão.",
     "options": [
-      "O médico prescreveu a medicação.",
-      "Prescreveu-se a medicação.",
-      "A medicação foi prescrita pelo médico.",
-      "O médico se prescreveu."
+      "Quando chegou todos, já haviam saído da reunião.",
+      "Todos, já haviam saído quando ele chegou.",
+      "Quando chegou, todos já haviam saído da reunião.",
+      "Quando, chegou todos já haviam saído."
     ]
   },
   {
@@ -134,12 +134,12 @@
     "area": "Noções de Informática",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "O Linux é um exemplo de:",
+    "questionText": "Sobre protocolos de internet, assinale a alternativa correta.",
     "options": [
-      "editor de texto",
-      "sistema operacional",
-      "navegador",
-      "antivírus"
+      "O HTTP é mais seguro que o HTTPS.",
+      "O HTTPS adiciona criptografia à comunicação web, aumentando a segurança.",
+      "URL é o nome dado a um tipo de vírus de computador.",
+      "O protocolo FTP serve para o envio de e-mails."
     ]
   },
   {
@@ -147,12 +147,12 @@
     "area": "Noções de Informática",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "No Excel, o sinal de igual (=) no início de uma célula indica:",
+    "questionText": "Sobre navegadores de internet, assinale a alternativa correta.",
     "options": [
-      "um texto fixo",
-      "uma data",
-      "um comentário",
-      "o início de uma fórmula"
+      "O Google Chrome é um sistema operacional.",
+      "O Mozilla Firefox é um aplicativo de planilhas.",
+      "Navegadores modernos não permitem o uso de abas.",
+      "Um navegador (browser) é o software usado para acessar páginas da web."
     ]
   },
   {
@@ -160,12 +160,12 @@
     "area": "Noções de Informática",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Mensagem eletrônica não solicitada, enviada em massa, é o:",
+    "questionText": "Sobre a navegação anônima do Google Chrome, é correto afirmar que ela:",
     "options": [
-      "backup",
-      "cookie",
-      "driver",
-      "spam"
+      "torna o usuário totalmente invisível e impossível de rastrear.",
+      "bloqueia automaticamente todos os vírus da internet.",
+      "apaga sozinha todos os downloads feitos no computador.",
+      "não salva o histórico de navegação no próprio dispositivo."
     ]
   },
   {
@@ -173,12 +173,12 @@
     "area": "Noções de Informática",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "O atalho Ctrl+S, na maioria dos programas, serve para:",
+    "questionText": "Sobre o Mozilla Firefox, assinale a alternativa correta.",
     "options": [
-      "copiar",
-      "salvar",
-      "colar",
-      "imprimir"
+      "O Firefox não permite a instalação de extensões.",
+      "Os favoritos permitem salvar endereços de sites para acesso rápido.",
+      "O Firefox é desenvolvido pela Microsoft.",
+      "A tecla F5 no Firefox fecha o navegador."
     ]
   },
   {
@@ -186,12 +186,12 @@
     "area": "História de Campina Grande/PB",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Campina Grande fica no estado da:",
+    "questionText": "A criação da SUDENE, em 1959, esteve relacionada a:",
     "options": [
-      "Pernambuco",
-      "Ceará",
-      "Paraíba",
-      "Sergipe"
+      "fundação da primeira universidade da cidade.",
+      "construção do Açude Velho.",
+      "políticas de desenvolvimento regional do Nordeste, que envolveram Campina Grande.",
+      "criação do Maior São João do Mundo."
     ]
   },
   {
@@ -199,12 +199,12 @@
     "area": "História de Campina Grande/PB",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Campina Grande situa-se no Planalto da:",
+    "questionText": "A Universidade Federal de Campina Grande (UFCG) foi criada:",
     "options": [
-      "Borborema",
-      "Conquista",
-      "Central",
-      "Diamantina"
+      "em 2002, a partir do desmembramento da UFPB.",
+      "ainda no século XIX.",
+      "como instituição de ensino privada.",
+      "em 1790, junto com a elevação a vila."
     ]
   },
   {
@@ -212,12 +212,12 @@
     "area": "História de Campina Grande/PB",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Campina Grande é importante polo regional de:",
+    "questionText": "A Universidade Estadual da Paraíba (UEPB), com forte presença em Campina Grande, foi estadualizada em:",
     "options": [
-      "mineração de ferro",
-      "educação, saúde e tecnologia",
-      "produção de petróleo",
-      "turismo de praia"
+      "2002, junto com a UFCG.",
+      "1987.",
+      "1697, na fundação da cidade.",
+      "1930, durante a Revolução."
     ]
   },
   {
@@ -225,12 +225,12 @@
     "area": "Legislação e Ética no Serviço Público",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Atender todos os administrados sem favorecimentos pessoais é exigência do princípio da:",
+    "questionText": "Conforme a LGPD, o titular dos dados tem direito de:",
     "options": [
-      "impessoalidade",
-      "publicidade",
-      "eficiência",
-      "anterioridade"
+      "acessar, corrigir e solicitar a exclusão de seus dados pessoais.",
+      "nenhum direito sobre seus próprios dados.",
+      "apenas acessar dados mediante pagamento de taxa obrigatória.",
+      "impedir que terceiros tenham qualquer dado, inclusive os legais."
     ]
   },
   {
@@ -238,12 +238,12 @@
     "area": "Legislação e Ética no Serviço Público",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Informações que possam pôr em risco a segurança do Estado podem ser classificadas, na LAI, como:",
+    "questionText": "A Lei de Acesso à Informação assegura ao cidadão o direito de obter informação sobre:",
     "options": [
-      "públicas",
-      "de livre acesso",
-      "sigilosas",
-      "pessoais irrestritas"
+      "nenhum dado relativo a gastos públicos, sempre sigilosos.",
+      "apenas informações de empresas privadas.",
+      "a gestão e a aplicação de recursos públicos.",
+      "somente dados já publicados em jornais."
     ]
   },
   {
@@ -251,12 +251,12 @@
     "area": "Legislação e Ética no Serviço Público",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "O profissional que atua como canal entre o controlador, os titulares e a ANPD, na LGPD, é o:",
+    "questionText": "Constitui dever do servidor público, segundo a ética administrativa:",
     "options": [
-      "operador",
-      "titular",
-      "fiscal",
-      "encarregado (DPO)"
+      "utilizar os bens públicos para fins particulares à vontade.",
+      "ignorar o cuidado com o patrimônio sob sua guarda.",
+      "evitar a economicidade, vedada na Administração.",
+      "zelar pelo patrimônio público e usar os bens com economicidade."
     ]
   },
   {

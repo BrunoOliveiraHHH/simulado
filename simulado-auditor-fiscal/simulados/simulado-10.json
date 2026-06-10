@@ -6,10 +6,10 @@
     "type": "múltipla escolha",
     "questionText": "Assinale a alternativa em que todas as palavras estão grafadas corretamente.",
     "options": [
-      "exceção, exceder, excelente",
-      "esceção, exceder, excelente",
-      "exceção, esceder, escelente",
-      "esceção, esceder, escelente"
+      "A exceção foi analisada com discrição pelo gestor.",
+      "O previlégio foi concedido sem justificativa.",
+      "Houve um empecilio burocrático no processo.",
+      "A despeza com a obra foi excessiva."
     ]
   },
   {
@@ -17,12 +17,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que o uso do sinal indicativo de crase está correto.",
+    "questionText": "Assinale a alternativa em que não há erro de ortografia.",
     "options": [
-      "Refiro-me à Vossa Senhoria.",
-      "Pagou o valor referente à taxa de lixo.",
-      "Fui à pé até o setor.",
-      "Entreguei o auto à ele."
+      "Houve uma paralização das atividades no órgão.",
+      "O concurso exige bom senso e disciplina do candidato.",
+      "O servidor agiu com extrema mal-criação.",
+      "O processo foi protelado por mera ezitação."
     ]
   },
   {
@@ -30,12 +30,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que a concordância verbal está correta.",
+    "questionText": "Assinale a alternativa em que a acentuação gráfica está inteiramente correta.",
     "options": [
-      "Houveram muitas reclamações sobre a cobrança.",
-      "Existe muitos problemas no cadastro.",
-      "Houve muitas reclamações sobre a cobrança.",
-      "Fazem dois anos da fiscalização."
+      "O juíz foi imparcial ao avaliar o caso.",
+      "O ítem está correto segundo o relator.",
+      "O juiz analisou o item com critério e cautela.",
+      "O critereo adotado pela banca foi rigoroso."
     ]
   },
   {
@@ -43,12 +43,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que a regência está conforme a norma-padrão.",
+    "questionText": "Sobre as regras de acentuação, assinale a alternativa correta.",
     "options": [
-      "Obedeço as normas do edital.",
-      "Cheguei na repartição cedo.",
-      "Prefiro ler do que escrever.",
-      "Obedeço às normas do edital."
+      "Os monossílabos átonos sempre recebem acento gráfico.",
+      "As oxítonas terminadas em 'i' são sempre acentuadas.",
+      "As paroxítonas terminadas em 'a' recebem acento.",
+      "Todas as proparoxítonas são acentuadas, como 'lâmpada' e 'médico'."
     ]
   },
   {
@@ -56,12 +56,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Na expressão 'a beleza do projeto', a palavra 'beleza' classifica-se como:",
+    "questionText": "Quanto ao processo de formação de palavras, assinale a alternativa correta.",
     "options": [
-      "adjetivo",
-      "advérbio",
-      "verbo",
-      "substantivo"
+      "'Pontapé' é formada por derivação sufixal.",
+      "'Guarda-chuva' resulta de derivação regressiva.",
+      "'Reler' é uma palavra primitiva.",
+      "'Desleal' é formada por derivação prefixal."
     ]
   },
   {
@@ -69,12 +69,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Assinale o uso correto de 'a/há'.",
+    "questionText": "Assinale a alternativa correta quanto à formação de palavras.",
     "options": [
-      "Há dez anos trabalho aqui.",
-      "A dez anos trabalho aqui.",
-      "Daqui há um mês sairá o resultado.",
-      "Cheguei a muito tempo."
+      "'Passatempo' é formada por composição por justaposição.",
+      "'Infeliz' é exemplo de composição por aglutinação.",
+      "'Aguardente' resulta de derivação sufixal.",
+      "'Cafezal' é uma palavra primitiva."
     ]
   },
   {
@@ -82,12 +82,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "No contexto 'ato revogável', a palavra 'revogável' significa aquilo que:",
+    "questionText": "Assinale a alternativa em que a classe gramatical da palavra destacada está correta.",
     "options": [
-      "é irreversível",
-      "pode ser revogado",
-      "é permanente",
-      "é obrigatório"
+      "Em 'os deveres do cargo', 'os' é pronome.",
+      "Em 'cidade histórica', 'histórica' é adjetivo.",
+      "Em 'corri muito hoje', 'muito' é adjetivo.",
+      "Em 'dois servidores', 'dois' é substantivo."
     ]
   },
   {
@@ -95,12 +95,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Assinale o conectivo que estabelece relação de conclusão: 'Cumpriu os requisitos; ___, foi nomeado.'",
+    "questionText": "Assinale a alternativa correta quanto à classe de palavras.",
     "options": [
-      "embora",
-      "porque",
-      "portanto",
-      "caso"
+      "Em 'casa bonita', 'bonita' é advérbio.",
+      "Em 'nós estudamos', 'nós' é verbo.",
+      "Em 'ele falou calmamente', 'calmamente' é advérbio de modo.",
+      "Em 'muito bom', 'muito' é substantivo."
     ]
   },
   {
@@ -108,12 +108,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa correta quanto à concordância nominal.",
+    "questionText": "Assinale a alternativa em que a função do 'que' está corretamente identificada.",
     "options": [
-      "Os relatórios anexo foram aprovados.",
-      "Segue anexo as planilhas atualizadas.",
-      "Os relatórios anexos foram aprovados.",
-      "Ela está meio nervosa e eles meios cansados."
+      "Em 'espero que venha', 'que' é pronome relativo.",
+      "Em 'que dia lindo!', 'que' é conjunção integrante.",
+      "Em 'o livro que comprei', 'que' é pronome relativo.",
+      "Em 'fiquei que nem tonto', 'que' é artigo."
     ]
   },
   {
@@ -121,12 +121,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a oração que está na voz passiva analítica.",
+    "questionText": "Assinale a alternativa em que a função do 'se' está corretamente identificada.",
     "options": [
-      "O juiz analisou os autos.",
-      "Os autos foram analisados pelo juiz.",
-      "Analisaram-se os autos.",
-      "O juiz se analisou."
+      "Em 'precisa-se de auxiliares', 'se' é apassivadora.",
+      "Em 'vendem-se casas', 'se' é partícula apassivadora.",
+      "Em 'ele se feriu', 'se' é conjunção.",
+      "Em 'se chover, ficarei', 'se' é pronome reflexivo."
     ]
   },
   {
@@ -134,12 +134,12 @@
     "area": "Noções de Informática",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Windows e Linux são exemplos de:",
+    "questionText": "Sobre pragas digitais (malware), assinale a alternativa correta.",
     "options": [
-      "editores de texto",
-      "navegadores de internet",
-      "programas antivírus",
-      "sistemas operacionais"
+      "O antivírus é um tipo de malware que rouba senhas.",
+      "Spam é um equipamento de hardware do computador.",
+      "Cookies são vírus que destroem o disco rígido.",
+      "O cavalo de Troia (trojan) se disfarça de programa legítimo para enganar o usuário."
     ]
   },
   {
@@ -147,12 +147,12 @@
     "area": "Noções de Informática",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "O atalho Ctrl+C, na maioria dos programas, serve para:",
+    "questionText": "Em relação a cópias de segurança (backup), é correto afirmar que:",
     "options": [
-      "copiar",
-      "colar",
-      "recortar",
-      "salvar"
+      "backup é a cópia de dados usada para recuperá-los em caso de perda.",
+      "o backup incremental copia sempre todos os arquivos, sem exceção.",
+      "manter backups não auxilia na proteção contra ransomware.",
+      "backup e antivírus são exatamente a mesma ferramenta."
     ]
   },
   {
@@ -160,12 +160,12 @@
     "area": "Noções de Informática",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Constitui boa prática de segurança da informação:",
+    "questionText": "Sobre os pilares da segurança da informação, assinale a alternativa correta.",
     "options": [
-      "usar a mesma senha em tudo",
-      "criar senhas com o próprio nome",
-      "compartilhar a senha com colegas",
-      "usar senhas fortes e distintas para cada serviço"
+      "A integridade garante que apenas autorizados acessem os dados.",
+      "A disponibilidade impede qualquer acesso ao sistema.",
+      "A autenticação não tem relação com segurança da informação.",
+      "Confidencialidade, integridade e disponibilidade são seus pilares."
     ]
   },
   {
@@ -173,12 +173,12 @@
     "area": "Noções de Informática",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Transferir um arquivo da internet para o computador é fazer:",
+    "questionText": "Sobre conceitos de redes, assinale a alternativa correta.",
     "options": [
-      "download",
-      "upload",
-      "backup",
-      "upgrade"
+      "A intranet é uma rede privada que usa tecnologias da internet, restrita a uma organização.",
+      "A extranet é uma rede totalmente isolada, sem qualquer acesso externo.",
+      "Internet e intranet são exatamente a mesma rede pública.",
+      "A intranet é sempre acessível a qualquer pessoa no mundo."
     ]
   },
   {
@@ -186,12 +186,12 @@
     "area": "História de Campina Grande/PB",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Campina Grande pertence ao estado da:",
+    "questionText": "O Açude de Bodocongó (Açude Novo), da década de 1940, em Campina Grande, foi:",
     "options": [
-      "Bahia",
-      "Ceará",
-      "Paraíba",
-      "Pernambuco"
+      "uma montanha de neve perene da região.",
+      "a primeira universidade fundada na cidade.",
+      "outra importante obra hídrica da cidade.",
+      "um equipamento que nunca existiu na cidade."
     ]
   },
   {
@@ -199,12 +199,12 @@
     "area": "História de Campina Grande/PB",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Campina Grande é apelidada de:",
+    "questionText": "A BR-230 (Transamazônica), que corta a Paraíba, contribuiu para Campina Grande ao:",
     "options": [
-      "Cidade Maravilhosa",
-      "Rainha da Borborema",
-      "Princesa do Mar",
-      "Capital Federal"
+      "isolar a cidade das demais regiões do estado.",
+      "favorecer a integração rodoviária da cidade.",
+      "servir como única linha de metrô da cidade.",
+      "ligar a cidade diretamente ao oceano."
     ]
   },
   {
@@ -212,12 +212,12 @@
     "area": "História de Campina Grande/PB",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "O 'Maior São João do Mundo' ocorre, em Campina Grande, no mês de:",
+    "questionText": "Por estar em altitude elevada no Planalto da Borborema, Campina Grande costuma apresentar:",
     "options": [
-      "janeiro",
-      "junho",
-      "julho",
-      "setembro"
+      "o clima mais quente e úmido do litoral nordestino.",
+      "temperaturas mais amenas que as do litoral paraibano.",
+      "neve frequente durante o inverno.",
+      "ausência total de variação de temperatura ao longo do ano."
     ]
   },
   {
@@ -225,12 +225,12 @@
     "area": "Legislação e Ética no Serviço Público",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Ao agente público só é permitido fazer o que a lei autoriza, conforme o princípio da:",
+    "questionText": "De acordo com a LGPD, são exemplos de dados pessoais sensíveis:",
     "options": [
-      "autonomia da vontade",
-      "conveniência",
-      "legalidade",
-      "oportunidade"
+      "o nome completo e o endereço de e-mail do titular.",
+      "quaisquer dados de empresas públicas.",
+      "informações sobre origem racial, convicção religiosa e saúde.",
+      "somente dados já tornados anônimos."
     ]
   },
   {
@@ -238,12 +238,12 @@
     "area": "Legislação e Ética no Serviço Público",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "O fornecimento de informação pública mediante pedido do cidadão caracteriza a:",
+    "questionText": "Pela Lei de Acesso à Informação, o pedido de informação pública:",
     "options": [
-      "transparência passiva",
-      "transparência ativa",
-      "classificação de sigilo",
-      "censura prévia"
+      "pode ser feito por qualquer interessado, sem necessidade de motivação.",
+      "exige sempre justificativa detalhada do motivo do pedido.",
+      "só pode ser feito por jornalistas credenciados.",
+      "depende do pagamento de taxa elevada em qualquer caso."
     ]
   },
   {
@@ -251,12 +251,12 @@
     "area": "Legislação e Ética no Serviço Público",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "O órgão federal de fiscalização da LGPD é a:",
+    "questionText": "Pelo princípio da impessoalidade, o servidor público deve:",
     "options": [
-      "Receita Federal",
-      "TCU",
-      "CGU",
-      "ANPD"
+      "favorecer parentes e amigos no atendimento.",
+      "promover-se pessoalmente com recursos públicos.",
+      "agir conforme seus interesses particulares.",
+      "tratar a todos sem privilégios ou perseguições pessoais."
     ]
   },
   {

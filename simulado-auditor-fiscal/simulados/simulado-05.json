@@ -4,12 +4,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que todas as palavras estão grafadas corretamente.",
+    "questionText": "Assinale a alternativa em que a concordância verbal está de acordo com a norma-padrão.",
     "options": [
-      "ascenção, obssessão, discrissão",
-      "ascensão, obcessão, discrição",
-      "ascensão, obsessão, discrição",
-      "ascenção, obsessão, discrissão"
+      "Fazem dez anos que a lei mudou.",
+      "Existe vários recursos pendentes de análise.",
+      "Houve muitas reclamações sobre o novo tributo.",
+      "Tratam-se de questões relativas à fiscalização."
     ]
   },
   {
@@ -17,12 +17,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que o uso (ou a ausência) do sinal indicativo de crase está correto.",
+    "questionText": "Assinale a alternativa em que a concordância verbal está correta.",
     "options": [
-      "Estou à disposição do contribuinte.",
-      "Vou a praia aos domingos.",
-      "Entreguei o laudo a diretora.",
-      "Cheguei a uma hora da tarde."
+      "Faz dois meses que ele assumiu o cargo.",
+      "Fazem dois meses que ele assumiu o cargo.",
+      "Houveram problemas na contagem dos votos.",
+      "Devem haver normas mais claras no edital."
     ]
   },
   {
@@ -30,12 +30,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que a concordância verbal está de acordo com a norma-padrão.",
+    "questionText": "Assinale a alternativa em que a concordância nominal está de acordo com a norma-padrão.",
     "options": [
-      "Os Estados Unidos enviou ajuda.",
-      "Houveram muitas convocações.",
-      "Tratam-se de normas tributárias.",
-      "Mais de um candidato se inscreveu no concurso."
+      "É proibido a entrada de pessoas não autorizadas.",
+      "Elas mesmo resolveram a pendência tributária.",
+      "As fiscais ficaram meia preocupadas com o prazo.",
+      "É proibida a entrada de pessoas não autorizadas."
     ]
   },
   {
@@ -43,12 +43,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que a regência está conforme a norma-padrão.",
+    "questionText": "Assinale a alternativa corretamente redigida quanto à concordância nominal.",
     "options": [
-      "Fui à reunião que você se referiu.",
-      "A casa onde moro é alugada.",
-      "Prefiro café do que chá.",
-      "Namoro com ela há anos."
+      "Seguem anexo as planilhas solicitadas pelo auditor.",
+      "Seguem anexas as planilhas solicitadas pelo auditor.",
+      "É necessário a presença de todos os servidores.",
+      "Havia bastante motivos para o indeferimento."
     ]
   },
   {
@@ -56,12 +56,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Na frase 'O processo tramita lentamente', a palavra 'lentamente' classifica-se como:",
+    "questionText": "Assinale a alternativa em que a regência verbal está de acordo com a norma-padrão.",
     "options": [
-      "adjetivo",
-      "advérbio",
-      "substantivo",
-      "verbo"
+      "Prefiro mais o trabalho de campo do que o de gabinete.",
+      "Assisti ao documentário sobre a história da cidade.",
+      "Cheguei no órgão público antes das oito horas.",
+      "O processo implicou em diversas penalidades."
     ]
   },
   {
@@ -69,12 +69,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa que preenche corretamente a lacuna: 'Ele se comportou ___ na audiência.'",
+    "questionText": "Assinale a alternativa em que a regência verbal está correta.",
     "options": [
-      "mau",
-      "mais",
-      "más",
-      "mal"
+      "Viso o cargo de auditor fiscal há anos.",
+      "Esqueci de protocolar o documento no prazo.",
+      "Ele aspira o cargo de chefia da repartição.",
+      "O servidor obedece às normas do edital."
     ]
   },
   {
@@ -82,12 +82,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "No contexto 'uma cobrança exorbitante', a palavra 'exorbitante' significa:",
+    "questionText": "Assinale a alternativa em que o uso do sinal indicativo de crase está correto.",
     "options": [
-      "excessivo, que ultrapassa os limites",
-      "razoável e moderado",
-      "pequeno e insignificante",
-      "justo e equilibrado"
+      "Entreguei o relatório à secretária do setor.",
+      "Refiro-me à você e aos demais colegas.",
+      "Estou disposto à colaborar com a comissão.",
+      "Ele agiu conforme à lei vigente."
     ]
   },
   {
@@ -95,12 +95,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Assinale o conectivo que estabelece relação de adição: 'O fiscal autuou a empresa; ___, concedeu prazo para defesa.'",
+    "questionText": "Assinale a alternativa em que há emprego correto da crase.",
     "options": [
-      "contudo",
-      "porque",
-      "além disso",
-      "portanto"
+      "Daqui à pouco a sessão será reaberta.",
+      "As compras foram feitas à prazo.",
+      "O atendimento ao público ocorre das 8h às 17h.",
+      "Fiquei cara à cara com a diretora."
     ]
   },
   {
@@ -108,12 +108,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa correta quanto à concordância nominal.",
+    "questionText": "Assinale a alternativa corretamente pontuada.",
     "options": [
-      "É necessária muita cautela na auditoria.",
-      "Os anexo do processo sumiram.",
-      "Ela ficou meia nervosa com o prazo.",
-      "Comprei bastante materiais; estavam caro."
+      "João Pessoa, capital da Paraíba, fica no litoral.",
+      "O auditor, fiscalizou a empresa durante a manhã.",
+      "Comprou, livros canetas e cadernos para o estudo.",
+      "Ele estuda muito e, por isso será, aprovado."
     ]
   },
   {
@@ -121,12 +121,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a oração na voz passiva analítica.",
+    "questionText": "Assinale a alternativa em que a pontuação está de acordo com a norma-padrão.",
     "options": [
-      "Notificou-se o contribuinte.",
-      "O fiscal notificou o contribuinte.",
-      "O contribuinte foi notificado pelo fiscal.",
-      "O contribuinte notificou-se."
+      "Quando chegou todos, já haviam saído da reunião.",
+      "Todos, já haviam saído quando ele chegou.",
+      "Quando chegou, todos já haviam saído da reunião.",
+      "Quando, chegou todos já haviam saído."
     ]
   },
   {
@@ -134,12 +134,12 @@
     "area": "Noções de Informática",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "O programa que gerencia os recursos do computador e serve de base para os demais é o:",
+    "questionText": "Sobre protocolos de internet, assinale a alternativa correta.",
     "options": [
-      "editor de texto",
-      "sistema operacional",
-      "antivírus",
-      "navegador"
+      "O HTTP é mais seguro que o HTTPS.",
+      "O HTTPS adiciona criptografia à comunicação web, aumentando a segurança.",
+      "URL é o nome dado a um tipo de vírus de computador.",
+      "O protocolo FTP serve para o envio de e-mails."
     ]
   },
   {
@@ -147,12 +147,12 @@
     "area": "Noções de Informática",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Em uma planilha do Excel, o sinal de igual (=) no início de uma célula indica:",
+    "questionText": "Sobre navegadores de internet, assinale a alternativa correta.",
     "options": [
-      "um comentário",
-      "um texto fixo",
-      "uma data",
-      "o início de uma fórmula"
+      "O Google Chrome é um sistema operacional.",
+      "O Mozilla Firefox é um aplicativo de planilhas.",
+      "Navegadores modernos não permitem o uso de abas.",
+      "Um navegador (browser) é o software usado para acessar páginas da web."
     ]
   },
   {
@@ -160,12 +160,12 @@
     "area": "Noções de Informática",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Mensagem eletrônica não solicitada, geralmente enviada em massa, é chamada de:",
+    "questionText": "Sobre a navegação anônima do Google Chrome, é correto afirmar que ela:",
     "options": [
-      "backup",
-      "cookie",
-      "hardware",
-      "spam"
+      "torna o usuário totalmente invisível e impossível de rastrear.",
+      "bloqueia automaticamente todos os vírus da internet.",
+      "apaga sozinha todos os downloads feitos no computador.",
+      "não salva o histórico de navegação no próprio dispositivo."
     ]
   },
   {
@@ -173,12 +173,12 @@
     "area": "Noções de Informática",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "No Explorador de Arquivos do Windows, uma pasta serve para:",
+    "questionText": "Sobre o Mozilla Firefox, assinale a alternativa correta.",
     "options": [
-      "executar programas automaticamente",
-      "organizar e armazenar arquivos",
-      "navegar na internet",
-      "editar imagens"
+      "O Firefox não permite a instalação de extensões.",
+      "Os favoritos permitem salvar endereços de sites para acesso rápido.",
+      "O Firefox é desenvolvido pela Microsoft.",
+      "A tecla F5 no Firefox fecha o navegador."
     ]
   },
   {
@@ -186,12 +186,12 @@
     "area": "História de Campina Grande/PB",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "A festa que projeta Campina Grande nacionalmente em junho celebra os festejos:",
+    "questionText": "A criação da SUDENE, em 1959, esteve relacionada a:",
     "options": [
-      "carnavalescos",
-      "natalinos",
-      "juninos",
-      "momescos"
+      "fundação da primeira universidade da cidade.",
+      "construção do Açude Velho.",
+      "políticas de desenvolvimento regional do Nordeste, que envolveram Campina Grande.",
+      "criação do Maior São João do Mundo."
     ]
   },
   {
@@ -199,12 +199,12 @@
     "area": "História de Campina Grande/PB",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Campina Grande situa-se no estado da Paraíba, cuja capital é:",
+    "questionText": "A Universidade Federal de Campina Grande (UFCG) foi criada:",
     "options": [
-      "João Pessoa",
-      "Natal",
-      "Recife",
-      "Maceió"
+      "em 2002, a partir do desmembramento da UFPB.",
+      "ainda no século XIX.",
+      "como instituição de ensino privada.",
+      "em 1790, junto com a elevação a vila."
     ]
   },
   {
@@ -212,12 +212,12 @@
     "area": "História de Campina Grande/PB",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "É comum referir-se a Campina Grande como importante polo regional de:",
+    "questionText": "A Universidade Estadual da Paraíba (UEPB), com forte presença em Campina Grande, foi estadualizada em:",
     "options": [
-      "mineração de ferro",
-      "educação, saúde e tecnologia",
-      "produção de petróleo",
-      "turismo de praia"
+      "2002, junto com a UFCG.",
+      "1987.",
+      "1697, na fundação da cidade.",
+      "1930, durante a Revolução."
     ]
   },
   {
@@ -225,12 +225,12 @@
     "area": "Legislação e Ética no Serviço Público",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Buscar o melhor resultado com produtividade e menor custo no serviço público relaciona-se ao princípio da:",
+    "questionText": "Conforme a LGPD, o titular dos dados tem direito de:",
     "options": [
-      "eficiência",
-      "legalidade",
-      "publicidade",
-      "moralidade"
+      "acessar, corrigir e solicitar a exclusão de seus dados pessoais.",
+      "nenhum direito sobre seus próprios dados.",
+      "apenas acessar dados mediante pagamento de taxa obrigatória.",
+      "impedir que terceiros tenham qualquer dado, inclusive os legais."
     ]
   },
   {
@@ -238,12 +238,12 @@
     "area": "Legislação e Ética no Serviço Público",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Informações cuja divulgação possa pôr em risco a segurança da sociedade ou do Estado podem ser classificadas, conforme a LAI, como:",
+    "questionText": "A Lei de Acesso à Informação assegura ao cidadão o direito de obter informação sobre:",
     "options": [
-      "públicas",
-      "pessoais irrestritas",
-      "sigilosas",
-      "de livre acesso"
+      "nenhum dado relativo a gastos públicos, sempre sigilosos.",
+      "apenas informações de empresas privadas.",
+      "a gestão e a aplicação de recursos públicos.",
+      "somente dados já publicados em jornais."
     ]
   },
   {
@@ -251,12 +251,12 @@
     "area": "Legislação e Ética no Serviço Público",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Na LGPD, o profissional indicado para atuar como canal de comunicação entre o controlador, os titulares e a ANPD é o:",
+    "questionText": "Constitui dever do servidor público, segundo a ética administrativa:",
     "options": [
-      "operador",
-      "titular",
-      "agente fiscal",
-      "encarregado (DPO)"
+      "utilizar os bens públicos para fins particulares à vontade.",
+      "ignorar o cuidado com o patrimônio sob sua guarda.",
+      "evitar a economicidade, vedada na Administração.",
+      "zelar pelo patrimônio público e usar os bens com economicidade."
     ]
   },
   {

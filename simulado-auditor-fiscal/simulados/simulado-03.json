@@ -4,12 +4,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que todas as palavras estão flexionadas corretamente no plural.",
+    "questionText": "Assinale a alternativa correta sobre a relação entre as orações.",
     "options": [
-      "cidadões, animais, mãos",
-      "cidadãos, animais, mãos",
-      "cidadãos, animales, mãos",
-      "cidadões, animais, mões"
+      "Em 'não foi porque choveu', há oração coordenada aditiva.",
+      "Em 'estudou muito, portanto foi aprovado', há oração coordenada conclusiva.",
+      "A conjunção 'mas' introduz oração coordenada explicativa.",
+      "A conjunção 'ou' introduz oração coordenada conclusiva."
     ]
   },
   {
@@ -17,12 +17,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que o uso (ou a ausência) do sinal indicativo de crase está correto.",
+    "questionText": "Assinale a alternativa correta quanto à subordinação.",
     "options": [
-      "A prova terá início às 8 horas da manhã.",
-      "Estou disposto a colaborar com à fiscalização.",
-      "Vou viajar à Recife na próxima semana.",
-      "Refiro-me à você, caro contribuinte."
+      "Em 'é necessário que estudes', a oração destacada é substantiva subjetiva.",
+      "Em 'o aluno que estuda passa', a destacada é substantiva.",
+      "Orações adverbiais exercem função de adjunto adnominal.",
+      "Orações subordinadas vêm sempre antes da principal."
     ]
   },
   {
@@ -30,12 +30,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que a concordância verbal está correta.",
+    "questionText": "Assinale a alternativa correta sobre as orações subordinadas adverbiais.",
     "options": [
-      "O auditor e o fiscal compareceu à reunião.",
-      "O auditor e o fiscal compareceram à reunião.",
-      "Faltou recursos para a fiscalização.",
-      "Existe muitos contribuintes inadimplentes."
+      "A conjunção 'quando' introduz oração adverbial causal.",
+      "Em 'embora chovesse, saímos', há oração adverbial concessiva.",
+      "A conjunção 'porque' introduz oração adverbial final.",
+      "A locução 'a fim de que' introduz oração adverbial temporal."
     ]
   },
   {
@@ -43,12 +43,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa correta quanto ao emprego dos porquês.",
+    "questionText": "Assinale a alternativa correta sobre coesão textual.",
     "options": [
-      "Você sabe porque ele recorreu da decisão?",
-      "Não compareci porque estava doente.",
-      "Eis o porque da decisão administrativa.",
-      "Por quê você não pagou o tributo?"
+      "Os conectivos não contribuem para a coesão do texto.",
+      "Em 'O gestor renunciou; ele estava cansado', 'ele' retoma 'o gestor'.",
+      "A repetição exaustiva de termos sempre melhora a coesão.",
+      "Coesão e coerência são termos perfeitamente sinônimos."
     ]
   },
   {
@@ -56,12 +56,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa que apresenta o antônimo de \"lícito\".",
+    "questionText": "Assinale a alternativa em que a relação de sentido do conectivo está correta.",
     "options": [
-      "legal",
-      "permitido",
-      "ilícito",
-      "válido"
+      "O conectivo 'portanto' estabelece relação de causa.",
+      "O conectivo 'porque' estabelece relação de conclusão.",
+      "O conectivo 'no entanto' estabelece relação de oposição.",
+      "A locução 'além disso' estabelece relação de contraste."
     ]
   },
   {
@@ -69,12 +69,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Na expressão \"muito eficiente\", a palavra \"muito\" classifica-se como:",
+    "questionText": "Sobre coesão e coerência, assinale a alternativa correta.",
     "options": [
-      "adjetivo",
-      "advérbio de intensidade",
-      "substantivo",
-      "preposição"
+      "Um texto coeso é, necessariamente, sempre coerente.",
+      "A coerência relaciona-se à lógica e à não contradição entre as ideias.",
+      "A coerência depende exclusivamente da pontuação do texto.",
+      "Coerência é a mera ligação gramatical entre palavras."
     ]
   },
   {
@@ -82,12 +82,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "No contexto \"o fiscal foi taxativo em sua decisão\", a palavra \"taxativo\" significa:",
+    "questionText": "Assinale a alternativa em que a figura de linguagem está corretamente identificada.",
     "options": [
-      "hesitante e inseguro",
-      "categórico, que não admite contestação",
-      "gentil e compreensivo",
-      "confuso e contraditório"
+      "'Li Machado de Assis ontem' é exemplo de eufemismo.",
+      "'Seus olhos são duas estrelas' é exemplo de metáfora.",
+      "'Subir para cima' é exemplo de antítese.",
+      "'Que silêncio ensurdecedor' é exemplo de hipérbole."
     ]
   },
   {
@@ -95,12 +95,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que a regência verbal está conforme a norma-padrão.",
+    "questionText": "Assinale a alternativa correta quanto às figuras de linguagem.",
     "options": [
-      "O documento que preciso está arquivado.",
-      "O cargo a que aspiro exige muito preparo.",
-      "Esqueci de assinar o termo de posse.",
-      "Obedeço meus superiores hierárquicos."
+      "'Chorei rios de lágrimas' é exemplo de metonímia.",
+      "'Li Machado de Assis' (o autor pela obra) é metonímia.",
+      "'Doce amargura' é exemplo de metonímia.",
+      "'O vento sussurrava' é exemplo de metonímia."
     ]
   },
   {
@@ -108,12 +108,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa corretamente pontuada quanto ao uso do vocativo.",
+    "questionText": "Assinale a alternativa correta sobre os vícios de linguagem.",
     "options": [
-      "Senhor auditor, segue o relatório solicitado.",
-      "Senhor auditor segue, o relatório solicitado.",
-      "Senhor, auditor segue o relatório solicitado.",
-      "Senhor auditor segue o relatório solicitado."
+      "'Elo de ligação' é exemplo de pleonasmo vicioso.",
+      "'Há anos atrás' é exemplo de neologismo.",
+      "'Fazem dois dias' é exemplo de eufemismo.",
+      "'A nível de' é exemplo de onomatopeia."
     ]
   },
   {
@@ -121,12 +121,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Em \"Os contribuintes pagaram seus tributos; estes foram repassados ao Município\", o termo \"estes\" refere-se a:",
+    "questionText": "Assinale a alternativa correta sobre ambiguidade e vícios de linguagem.",
     "options": [
-      "os contribuintes",
-      "os tributos",
-      "o Município",
-      "os pagamentos futuros"
+      "A ambiguidade é sempre desejável em textos técnicos e oficiais.",
+      "A frase 'o guarda deteve o suspeito em sua casa' apresenta ambiguidade.",
+      "Barbarismo é o emprego sempre correto das palavras.",
+      "Solecismo é, por definição, um erro de grafia."
     ]
   },
   {
@@ -134,12 +134,12 @@
     "area": "Noções de Informática",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Qual é a extensão de arquivo típica de uma planilha do Microsoft Excel?",
+    "questionText": "No Windows 11, o Explorador de Arquivos é utilizado para:",
     "options": [
-      ".docx",
-      ".xlsx",
-      ".pptx",
-      ".pdf"
+      "apagar arquivos de forma permanente e irrecuperável.",
+      "navegar por pastas e arquivos do computador.",
+      "editar planilhas eletrônicas complexas.",
+      "substituir o antivírus do sistema."
     ]
   },
   {
@@ -147,12 +147,12 @@
     "area": "Noções de Informática",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Na maioria dos programas do Windows, qual é o atalho de teclado usado para salvar um arquivo?",
+    "questionText": "No sistema operacional Windows, o atalho Ctrl+C é utilizado para:",
     "options": [
-      "Ctrl + P",
-      "Ctrl + S",
-      "Ctrl + Z",
-      "Alt + F4"
+      "excluir definitivamente o arquivo selecionado.",
+      "copiar o item selecionado para a área de transferência.",
+      "selecionar todos os itens da tela.",
+      "abrir o menu Iniciar."
     ]
   },
   {
@@ -160,12 +160,12 @@
     "area": "Noções de Informática",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "A cópia de segurança de dados, feita para permitir a recuperação em caso de perda, é denominada:",
+    "questionText": "Sobre arquivos no Windows, assinale a alternativa correta.",
     "options": [
-      "firewall",
-      "backup",
-      "phishing",
-      "spam"
+      "Arquivos .pdf só podem ser abertos por planilhas.",
+      "Arquivos com extensão .exe são executáveis.",
+      "A extensão .jpg indica um arquivo de áudio.",
+      "Arquivos .txt são usados para armazenar vídeos."
     ]
   },
   {
@@ -173,12 +173,12 @@
     "area": "Noções de Informática",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "A memória do computador que é volátil, ou seja, perde seu conteúdo ao ser desligado, é a:",
+    "questionText": "Em segurança da informação, o phishing caracteriza-se por:",
     "options": [
-      "HD (disco rígido)",
-      "SSD",
-      "memória RAM",
-      "pendrive"
+      "um tipo de programa antivírus.",
+      "um equipamento físico de proteção de redes.",
+      "uma fraude que tenta obter dados pessoais fingindo ser entidade confiável.",
+      "uma técnica legítima de backup de dados."
     ]
   },
   {
@@ -186,12 +186,12 @@
     "area": "História de Campina Grande/PB",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "O maior festejo junino de Campina Grande ocorre, tradicionalmente, no mês de:",
+    "questionText": "Pela sua importância no comércio do algodão, Campina Grande ficou conhecida como:",
     "options": [
-      "dezembro",
-      "junho",
-      "março",
-      "setembro"
+      "a 'Veneza Brasileira'.",
+      "a 'Liverpool Brasileira'.",
+      "a 'Capital Nacional do Café'.",
+      "a 'Cidade do Automóvel'."
     ]
   },
   {
@@ -199,12 +199,12 @@
     "area": "História de Campina Grande/PB",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "O espaço onde se concentram as principais atrações do São João de Campina Grande é o:",
+    "questionText": "A chegada da estrada de ferro Great Western a Campina Grande, em 1907, teve como efeito:",
     "options": [
-      "Parque do Povo",
-      "Estádio do Maracanã",
-      "Pelourinho",
-      "Parque do Ibirapuera"
+      "impulsionar o escoamento do algodão e o crescimento da cidade.",
+      "isolar a cidade do restante do estado.",
+      "encerrar de vez a atividade comercial local.",
+      "transferir a capital da Paraíba para a cidade."
     ]
   },
   {
@@ -212,12 +212,12 @@
     "area": "História de Campina Grande/PB",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Campina Grande localiza-se na mesorregião do(a):",
+    "questionText": "O declínio do ciclo algodoeiro em Campina Grande ocorreu, sobretudo:",
     "options": [
-      "Sertão paraibano",
-      "Agreste paraibano",
-      "Litoral paraibano",
-      "Zona da Mata paraibana"
+      "ainda no século XVIII.",
+      "entre as décadas de 1950 e 1960.",
+      "logo após a fundação da cidade, em 1697.",
+      "no início do século XXI, com a criação da UFCG."
     ]
   },
   {
@@ -225,12 +225,12 @@
     "area": "Legislação e Ética no Serviço Público",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "O princípio que exige que o agente público atue em conformidade com a lei, sem dela se afastar, é o da:",
+    "questionText": "A LGPD estabelece, como uma das bases legais para o tratamento de dados:",
     "options": [
-      "legalidade",
-      "publicidade",
-      "eficiência",
-      "impessoalidade"
+      "o consentimento do titular.",
+      "a dispensa de qualquer base legal.",
+      "a proibição absoluta de tratar dados pessoais.",
+      "a impossibilidade de revogar o consentimento já dado."
     ]
   },
   {
@@ -238,12 +238,12 @@
     "area": "Legislação e Ética no Serviço Público",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Conforme a LAI, a divulgação de informações de interesse coletivo pelos órgãos públicos, independentemente de requerimento, caracteriza a:",
+    "questionText": "A Lei de Acesso à Informação classifica as informações sigilosas nos graus:",
     "options": [
-      "transparência ativa",
-      "transparência passiva",
-      "restrição de acesso",
-      "classificação de sigilo"
+      "reservado, secreto e ultrassecreto.",
+      "leve, médio e grave.",
+      "público, privado e misto.",
+      "confidencial único, sem outras gradações."
     ]
   },
   {
@@ -251,12 +251,12 @@
     "area": "Legislação e Ética no Serviço Público",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Na LGPD, a pessoa natural a quem se referem os dados pessoais objeto de tratamento é o:",
+    "questionText": "De acordo com o Código de Ética do servidor público, a moralidade administrativa exige:",
     "options": [
-      "controlador",
-      "operador",
-      "titular",
-      "encarregado"
+      "o uso do cargo público para fins privados.",
+      "o atraso proposital dos serviços, sem consequências.",
+      "conduta honesta e proba no exercício da função.",
+      "a dispensa de cortesia no atendimento ao público."
     ]
   },
   {

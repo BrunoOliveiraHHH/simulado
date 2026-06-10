@@ -6,10 +6,10 @@
     "type": "múltipla escolha",
     "questionText": "Assinale a alternativa em que todas as palavras estão grafadas corretamente.",
     "options": [
-      "análize, paralizar, pesquizar",
-      "análise, paraliszar, pesquisar",
-      "análize, paralisar, pesquizar",
-      "análise, paralisar, pesquisar"
+      "O previlégio foi concedido sem justificativa.",
+      "Houve um empecilio burocrático no processo.",
+      "A despeza com a obra foi excessiva.",
+      "A exceção foi analisada com discrição pelo gestor."
     ]
   },
   {
@@ -17,12 +17,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que o uso do sinal indicativo de crase está correto.",
+    "questionText": "Assinale a alternativa em que não há erro de ortografia.",
     "options": [
-      "Refiro-me à Vossa Excelência.",
-      "Fez referência à norma de biossegurança.",
-      "Cheguei à pé à unidade.",
-      "Entreguei o exame à ele."
+      "Houve uma paralização das atividades no órgão.",
+      "O concurso exige bom senso e disciplina do candidato.",
+      "O servidor agiu com extrema mal-criação.",
+      "O processo foi protelado por mera ezitação."
     ]
   },
   {
@@ -30,12 +30,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que a concordância verbal está correta.",
+    "questionText": "Assinale a alternativa em que a acentuação gráfica está inteiramente correta.",
     "options": [
-      "Houve muitos atendimentos hoje.",
-      "Houveram muitos atendimentos hoje.",
-      "Existe falhas no relatório.",
-      "Fazem horas que aguardo."
+      "O juiz analisou o item com critério e cautela.",
+      "O juíz foi imparcial ao avaliar o caso.",
+      "O ítem está correto segundo o relator.",
+      "O critereo adotado pela banca foi rigoroso."
     ]
   },
   {
@@ -43,12 +43,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que a regência está conforme a norma-padrão.",
+    "questionText": "Sobre as regras de acentuação, assinale a alternativa correta.",
     "options": [
-      "Obedeço as normas da instituição.",
-      "Cheguei na UPA cedo.",
-      "Obedeço às normas da instituição.",
-      "Prefiro cuidar do que registrar."
+      "Os monossílabos átonos sempre recebem acento gráfico.",
+      "As oxítonas terminadas em 'i' são sempre acentuadas.",
+      "Todas as proparoxítonas são acentuadas, como 'lâmpada' e 'médico'.",
+      "As paroxítonas terminadas em 'a' recebem acento."
     ]
   },
   {
@@ -56,12 +56,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Na expressão 'cuidado humanizado', a palavra 'humanizado' classifica-se como:",
+    "questionText": "Quanto ao processo de formação de palavras, assinale a alternativa correta.",
     "options": [
-      "advérbio",
-      "substantivo",
-      "adjetivo",
-      "verbo"
+      "'Pontapé' é formada por derivação sufixal.",
+      "'Guarda-chuva' resulta de derivação regressiva.",
+      "'Desleal' é formada por derivação prefixal.",
+      "'Reler' é uma palavra primitiva."
     ]
   },
   {
@@ -69,12 +69,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "No contexto 'um processo moroso', a palavra 'moroso' significa:",
+    "questionText": "Assinale a alternativa correta quanto à formação de palavras.",
     "options": [
-      "lento, demorado",
-      "rápido",
-      "eficiente",
-      "pontual"
+      "'Passatempo' é formada por composição por justaposição.",
+      "'Infeliz' é exemplo de composição por aglutinação.",
+      "'Aguardente' resulta de derivação sufixal.",
+      "'Cafezal' é uma palavra primitiva."
     ]
   },
   {
@@ -82,12 +82,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "No contexto 'fonte fidedigna', a palavra 'fidedigna' significa:",
+    "questionText": "Assinale a alternativa em que a classe gramatical da palavra destacada está correta.",
     "options": [
-      "falsa",
-      "digna de confiança",
-      "ilegível",
-      "duvidosa"
+      "Em 'os deveres do cargo', 'os' é pronome.",
+      "Em 'cidade histórica', 'histórica' é adjetivo.",
+      "Em 'corri muito hoje', 'muito' é adjetivo.",
+      "Em 'dois servidores', 'dois' é substantivo."
     ]
   },
   {
@@ -95,12 +95,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Assinale o conectivo que estabelece relação adversativa: 'O paciente melhorou; ___, permanece em observação.'",
+    "questionText": "Assinale a alternativa correta quanto à classe de palavras.",
     "options": [
-      "portanto",
-      "porque",
-      "assim que",
-      "no entanto"
+      "Em 'casa bonita', 'bonita' é advérbio.",
+      "Em 'nós estudamos', 'nós' é verbo.",
+      "Em 'muito bom', 'muito' é substantivo.",
+      "Em 'ele falou calmamente', 'calmamente' é advérbio de modo."
     ]
   },
   {
@@ -108,12 +108,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa correta quanto à concordância nominal.",
+    "questionText": "Assinale a alternativa em que a função do 'que' está corretamente identificada.",
     "options": [
-      "Os relatórios anexo foram entregues.",
-      "Os relatórios anexos foram entregues.",
-      "Segue anexo as fichas.",
-      "Ela está meia preocupada."
+      "Em 'espero que venha', 'que' é pronome relativo.",
+      "Em 'o livro que comprei', 'que' é pronome relativo.",
+      "Em 'que dia lindo!', 'que' é conjunção integrante.",
+      "Em 'fiquei que nem tonto', 'que' é artigo."
     ]
   },
   {
@@ -121,12 +121,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a oração na voz passiva.",
+    "questionText": "Assinale a alternativa em que a função do 'se' está corretamente identificada.",
     "options": [
-      "A equipe avaliou a ferida.",
-      "Avaliou-se a ferida.",
-      "A equipe se avaliou.",
-      "A ferida foi avaliada pela equipe."
+      "Em 'precisa-se de auxiliares', 'se' é apassivadora.",
+      "Em 'ele se feriu', 'se' é conjunção.",
+      "Em 'se chover, ficarei', 'se' é pronome reflexivo.",
+      "Em 'vendem-se casas', 'se' é partícula apassivadora."
     ]
   },
   {
@@ -134,12 +134,12 @@
     "area": "Noções de Informática",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Assinale o dispositivo de SAÍDA de dados.",
+    "questionText": "Sobre o LibreOffice Calc, assinale a alternativa correta.",
     "options": [
-      "teclado",
-      "mouse",
-      "monitor",
-      "scanner"
+      "O Calc não é capaz de abrir arquivos no formato .xlsx.",
+      "A extensão padrão de uma planilha do Calc é .docx.",
+      "A separação de argumentos de função pode usar ponto e vírgula, como em =SOMA(A1;A2).",
+      "O LibreOffice Calc não possui a função SE."
     ]
   },
   {
@@ -147,12 +147,12 @@
     "area": "Noções de Informática",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "O atalho Ctrl+X, na maioria dos programas, serve para:",
+    "questionText": "No Microsoft Word 365 em português, o atalho Ctrl+B aciona o comando:",
     "options": [
-      "recortar",
-      "copiar",
-      "colar",
-      "salvar"
+      "Salvar o documento.",
+      "Aplicar negrito ao texto.",
+      "Recortar o trecho selecionado.",
+      "Fechar o programa sem salvar."
     ]
   },
   {
@@ -160,12 +160,12 @@
     "area": "Noções de Informática",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "A fraude que tenta obter dados sensíveis fingindo ser uma entidade confiável é o:",
+    "questionText": "No Microsoft Word, o atalho Ctrl+Z tem a função de:",
     "options": [
-      "phishing",
-      "backup",
-      "firewall",
-      "cache"
+      "desfazer a última ação realizada.",
+      "refazer a última ação desfeita.",
+      "fechar o documento atual.",
+      "ir para o início do documento."
     ]
   },
   {
@@ -173,12 +173,12 @@
     "area": "Noções de Informática",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "O protocolo de navegação segura, com criptografia dos dados, é o:",
+    "questionText": "Sobre o LibreOffice Writer, assinale a alternativa correta.",
     "options": [
-      "HTTP",
-      "FTP",
-      "HTTPS",
-      "SMTP"
+      "O Writer não permite exportar documentos em PDF.",
+      "O formato nativo do Writer é o .xls.",
+      "O formato de arquivo nativo do Writer é o .odt (OpenDocument Text).",
+      "O Writer é um software de planilha eletrônica."
     ]
   },
   {
@@ -186,12 +186,12 @@
     "area": "História de Campina Grande/PB",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "A capital do estado da Paraíba é:",
+    "questionText": "Campina Grande foi elevada à condição de vila em 1790, recebendo o nome de:",
     "options": [
-      "Natal",
-      "Recife",
-      "Maceió",
-      "João Pessoa"
+      "Vila de São Sebastião do Ouro.",
+      "Vila Real da Borborema.",
+      "Vila de Santo Antônio do Litoral.",
+      "Vila Nova da Rainha."
     ]
   },
   {
@@ -199,12 +199,12 @@
     "area": "História de Campina Grande/PB",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Campina Grande situa-se sobre o(a):",
+    "questionText": "A elevação de Campina Grande à categoria de cidade ocorreu em:",
     "options": [
-      "Pantanal",
-      "Planalto da Borborema",
-      "Serra do Mar",
-      "Chapada Diamantina"
+      "2002, junto com a criação da UFCG.",
+      "1864.",
+      "1697, no momento de sua fundação.",
+      "1990, no contexto da redemocratização."
     ]
   },
   {
@@ -212,12 +212,12 @@
     "area": "História de Campina Grande/PB",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "O festejo junino de Campina Grande é conhecido como:",
+    "questionText": "No século XIX e início do XX, o principal motor do desenvolvimento econômico de Campina Grande foi:",
     "options": [
-      "Festa do Peão",
-      "Oktoberfest",
-      "O Maior São João do Mundo",
-      "Carnaval de Momo"
+      "a extração de petróleo.",
+      "a mineração de ouro.",
+      "o algodão.",
+      "a produção de café."
     ]
   },
   {
@@ -225,12 +225,12 @@
     "area": "Legislação e Ética no Serviço Público",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Buscar produtividade e o melhor resultado no serviço público relaciona-se ao princípio da:",
+    "questionText": "De acordo com a LGPD, são exemplos de dados pessoais sensíveis:",
     "options": [
-      "legalidade",
-      "eficiência",
-      "publicidade",
-      "moralidade"
+      "o nome completo e o endereço de e-mail do titular.",
+      "informações sobre origem racial, convicção religiosa e saúde.",
+      "quaisquer dados de empresas públicas.",
+      "somente dados já tornados anônimos."
     ]
   },
   {
@@ -238,12 +238,12 @@
     "area": "Legislação e Ética no Serviço Público",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Conforme a LAI, quando não for possível o acesso imediato, o prazo de resposta ao pedido é de até:",
+    "questionText": "Pela Lei de Acesso à Informação, o pedido de informação pública:",
     "options": [
-      "5 dias",
-      "90 dias",
-      "1 ano",
-      "20 dias, prorrogáveis por mais 10"
+      "exige sempre justificativa detalhada do motivo do pedido.",
+      "só pode ser feito por jornalistas credenciados.",
+      "depende do pagamento de taxa elevada em qualquer caso.",
+      "pode ser feito por qualquer interessado, sem necessidade de motivação."
     ]
   },
   {
@@ -251,12 +251,12 @@
     "area": "Legislação e Ética no Serviço Público",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Na LGPD, o agente a quem competem as decisões sobre o tratamento de dados é o:",
+    "questionText": "Pelo princípio da impessoalidade, o servidor público deve:",
     "options": [
-      "controlador",
-      "operador",
-      "titular",
-      "encarregado"
+      "tratar a todos sem privilégios ou perseguições pessoais.",
+      "favorecer parentes e amigos no atendimento.",
+      "promover-se pessoalmente com recursos públicos.",
+      "agir conforme seus interesses particulares."
     ]
   },
   {

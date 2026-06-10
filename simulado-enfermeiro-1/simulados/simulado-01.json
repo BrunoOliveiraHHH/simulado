@@ -4,12 +4,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que todas as palavras estão grafadas corretamente.",
+    "questionText": "Assinale a alternativa em que a concordância verbal está de acordo com a norma-padrão.",
     "options": [
-      "excessão, previlégio, beneficente",
-      "exceção, previlégio, beneficiente",
-      "exceção, privilégio, beneficente",
-      "excessão, privilégio, beneficiente"
+      "Fazem dez anos que a lei mudou.",
+      "Existe vários recursos pendentes de análise.",
+      "Houve muitas reclamações sobre o novo tributo.",
+      "Tratam-se de questões relativas à fiscalização."
     ]
   },
   {
@@ -17,12 +17,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que o uso do sinal indicativo de crase está correto.",
+    "questionText": "Assinale a alternativa em que a concordância verbal está correta.",
     "options": [
-      "Compareceu à reunião da equipe de enfermagem.",
-      "Refiro-me à Vossa Senhoria.",
-      "Cheguei à pé ao hospital.",
-      "Entreguei o prontuário à ele."
+      "Faz dois meses que ele assumiu o cargo.",
+      "Fazem dois meses que ele assumiu o cargo.",
+      "Houveram problemas na contagem dos votos.",
+      "Devem haver normas mais claras no edital."
     ]
   },
   {
@@ -30,12 +30,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que a concordância verbal está correta.",
+    "questionText": "Assinale a alternativa em que a concordância nominal está de acordo com a norma-padrão.",
     "options": [
-      "Existe muitos pacientes na fila.",
-      "Houveram falhas no registro.",
-      "Fazem dois anos da capacitação.",
-      "Devem existir protocolos claros na unidade."
+      "É proibido a entrada de pessoas não autorizadas.",
+      "Elas mesmo resolveram a pendência tributária.",
+      "As fiscais ficaram meia preocupadas com o prazo.",
+      "É proibida a entrada de pessoas não autorizadas."
     ]
   },
   {
@@ -43,12 +43,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que a regência está conforme a norma-padrão.",
+    "questionText": "Assinale a alternativa corretamente redigida quanto à concordância nominal.",
     "options": [
-      "O paciente que me refiro recebeu alta.",
-      "O paciente a que me refiro recebeu alta.",
-      "Prefiro atender do que registrar.",
-      "Cheguei na enfermaria cedo."
+      "Seguem anexo as planilhas solicitadas pelo auditor.",
+      "Seguem anexas as planilhas solicitadas pelo auditor.",
+      "É necessário a presença de todos os servidores.",
+      "Havia bastante motivos para o indeferimento."
     ]
   },
   {
@@ -56,12 +56,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Na frase 'o cuidado foi prestado rapidamente', a palavra 'rapidamente' classifica-se como:",
+    "questionText": "Assinale a alternativa em que a regência verbal está de acordo com a norma-padrão.",
     "options": [
-      "adjetivo",
-      "advérbio",
-      "substantivo",
-      "verbo"
+      "Prefiro mais o trabalho de campo do que o de gabinete.",
+      "Assisti ao documentário sobre a história da cidade.",
+      "Cheguei no órgão público antes das oito horas.",
+      "O processo implicou em diversas penalidades."
     ]
   },
   {
@@ -69,12 +69,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa que completa corretamente: 'O paciente passou ___ a noite.'",
+    "questionText": "Assinale a alternativa em que a regência verbal está correta.",
     "options": [
-      "mau",
-      "mais",
-      "más",
-      "mal"
+      "Viso o cargo de auditor fiscal há anos.",
+      "Esqueci de protocolar o documento no prazo.",
+      "Ele aspira o cargo de chefia da repartição.",
+      "O servidor obedece às normas do edital."
     ]
   },
   {
@@ -82,12 +82,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "No contexto 'doença infectocontagiosa', o termo indica algo que:",
+    "questionText": "Assinale a alternativa em que o uso do sinal indicativo de crase está correto.",
     "options": [
-      "pode ser transmitido de um indivíduo a outro",
-      "não se transmite",
-      "já está curado",
-      "confere imunidade permanente"
+      "Entreguei o relatório à secretária do setor.",
+      "Refiro-me à você e aos demais colegas.",
+      "Estou disposto à colaborar com a comissão.",
+      "Ele agiu conforme à lei vigente."
     ]
   },
   {
@@ -95,12 +95,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Assinale o conectivo que estabelece relação de conclusão: 'A ferida estava limpa; ___, foi feito o curativo.'",
+    "questionText": "Assinale a alternativa em que há emprego correto da crase.",
     "options": [
-      "embora",
-      "porque",
-      "portanto",
-      "caso"
+      "Daqui à pouco a sessão será reaberta.",
+      "As compras foram feitas à prazo.",
+      "O atendimento ao público ocorre das 8h às 17h.",
+      "Fiquei cara à cara com a diretora."
     ]
   },
   {
@@ -108,12 +108,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa correta quanto à concordância nominal.",
+    "questionText": "Assinale a alternativa corretamente pontuada.",
     "options": [
-      "É necessária muita atenção na administração de medicamentos.",
-      "Seguem anexo as prescrições.",
-      "Ela ficou meia cansada no plantão.",
-      "Há bastante risco; são pouco controlado."
+      "João Pessoa, capital da Paraíba, fica no litoral.",
+      "O auditor, fiscalizou a empresa durante a manhã.",
+      "Comprou, livros canetas e cadernos para o estudo.",
+      "Ele estuda muito e, por isso será, aprovado."
     ]
   },
   {
@@ -121,12 +121,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a oração na voz passiva.",
+    "questionText": "Assinale a alternativa em que a pontuação está de acordo com a norma-padrão.",
     "options": [
-      "A enfermeira administrou o medicamento.",
-      "Administrou-se o medicamento.",
-      "O medicamento foi administrado pela enfermeira.",
-      "A enfermeira se administrou."
+      "Quando chegou todos, já haviam saído da reunião.",
+      "Todos, já haviam saído quando ele chegou.",
+      "Quando chegou, todos já haviam saído da reunião.",
+      "Quando, chegou todos já haviam saído."
     ]
   },
   {
@@ -134,12 +134,12 @@
     "area": "Noções de Informática",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "O Windows é um exemplo de:",
+    "questionText": "No Microsoft Excel 365, a fórmula =SOMA(A1:A5) retorna:",
     "options": [
-      "editor de texto",
-      "sistema operacional",
-      "navegador de internet",
-      "programa antivírus"
+      "a média aritmética dos valores do intervalo.",
+      "a soma dos valores contidos nas células de A1 até A5.",
+      "a quantidade de células vazias do intervalo.",
+      "o maior valor encontrado no intervalo."
     ]
   },
   {
@@ -147,12 +147,12 @@
     "area": "Noções de Informática",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "No Microsoft Excel, o sinal de igual (=) no início de uma célula indica:",
+    "questionText": "No Microsoft Excel, a referência $A$1 caracteriza:",
     "options": [
-      "um texto fixo",
-      "uma data",
-      "um comentário",
-      "o início de uma fórmula"
+      "uma referência relativa, que muda conforme a cópia.",
+      "uma referência que trava apenas a linha e libera a coluna.",
+      "um erro de digitação não reconhecido pelo Excel.",
+      "uma referência absoluta, que não se altera ao copiar a fórmula."
     ]
   },
   {
@@ -160,12 +160,12 @@
     "area": "Noções de Informática",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "A cópia de segurança dos dados é denominada:",
+    "questionText": "Sobre a função PROCV do Microsoft Excel, é correto afirmar que ela:",
     "options": [
-      "spam",
-      "cookie",
-      "phishing",
-      "backup"
+      "pesquisa valores apenas em linhas, nunca em colunas.",
+      "funciona somente com texto, nunca com números.",
+      "soma todos os valores de um intervalo selecionado.",
+      "procura um valor na primeira coluna de um intervalo e retorna um valor na mesma linha."
     ]
   },
   {
@@ -173,12 +173,12 @@
     "area": "Noções de Informática",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "O atalho Ctrl+C, na maioria dos programas, serve para:",
+    "questionText": "No Excel 365, a fórmula =SE(A1>=60;\"Aprovado\";\"Reprovado\"):",
     "options": [
-      "colar",
-      "copiar",
-      "recortar",
-      "salvar"
+      "não permite o uso de texto como resultado.",
+      "exibe 'Aprovado' quando A1 for maior ou igual a 60 e 'Reprovado' caso contrário.",
+      "aceita, no máximo, zero argumentos.",
+      "sempre retorna um valor numérico."
     ]
   },
   {
@@ -186,12 +186,12 @@
     "area": "História de Campina Grande/PB",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Campina Grande fica no estado da:",
+    "questionText": "A ocupação efetiva da região de Campina Grande está historicamente associada à:",
     "options": [
-      "Pernambuco",
-      "Ceará",
-      "Paraíba",
-      "Bahia"
+      "fundação pelos holandeses durante a invasão de 1630.",
+      "expedição de Pedro Álvares Cabral ao litoral paraibano.",
+      "expedição de Teodósio de Oliveira Ledo, no final do século XVII (1697).",
+      "corrida do ouro ocorrida em Minas Gerais no século XVIII."
     ]
   },
   {
@@ -199,12 +199,12 @@
     "area": "História de Campina Grande/PB",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Campina Grande é apelidada de:",
+    "questionText": "Antes da colonização, a região de Campina Grande era habitada por:",
     "options": [
-      "Rainha da Borborema",
-      "Cidade Maravilhosa",
-      "Princesa do Sul",
-      "Cidade Luz"
+      "povos indígenas, como os Cariris.",
+      "colonizadores ingleses vindos de Liverpool.",
+      "imigrantes alemães chegados no século XVI.",
+      "ninguém, pois a área era totalmente desabitada."
     ]
   },
   {
@@ -212,12 +212,12 @@
     "area": "História de Campina Grande/PB",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "O 'Maior São João do Mundo' ocorre, em Campina Grande, no mês de:",
+    "questionText": "Sobre o período das invasões holandesas (1624-1654), é correto afirmar que:",
     "options": [
-      "dezembro",
-      "junho",
-      "março",
-      "setembro"
+      "os holandeses jamais alcançaram o território paraibano.",
+      "a Paraíba esteve sob domínio neerlandês durante parte desse período.",
+      "as invasões holandesas ocorreram no século XIX.",
+      "a Paraíba foi colonizada exclusivamente pela França."
     ]
   },
   {
@@ -225,12 +225,12 @@
     "area": "Legislação e Ética no Serviço Público",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Os princípios expressos da Administração Pública (art. 37 da CF) são:",
+    "questionText": "Segundo a Lei nº 13.709/2018 (LGPD), dado pessoal é:",
     "options": [
-      "legalidade, impessoalidade, moralidade, publicidade e eficiência",
-      "legalidade, oralidade, economicidade, publicidade e celeridade",
-      "moralidade, anterioridade, isonomia, eficiência e legalidade",
-      "impessoalidade, presunção, publicidade, eficiência e oralidade"
+      "toda informação relacionada a pessoa natural identificada ou identificável.",
+      "qualquer informação relativa apenas a pessoas jurídicas.",
+      "exclusivamente o número de inscrição em concurso público.",
+      "apenas dados que estejam armazenados em papel."
     ]
   },
   {
@@ -238,12 +238,12 @@
     "area": "Legislação e Ética no Serviço Público",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Conforme a LAI (Lei nº 12.527/2011), o acesso à informação pública é:",
+    "questionText": "A Lei nº 12.527/2011 (Lei de Acesso à Informação) adota como diretriz:",
     "options": [
-      "sigiloso, sendo a publicidade a exceção",
-      "restrito a servidores",
-      "a regra, e o sigilo, a exceção",
-      "permitido apenas mediante pagamento"
+      "o sigilo como regra geral da Administração Pública.",
+      "a aplicação apenas a empresas privadas.",
+      "a publicidade como regra e o sigilo como exceção.",
+      "a vedação de acesso a qualquer documento público."
     ]
   },
   {
@@ -251,12 +251,12 @@
     "area": "Legislação e Ética no Serviço Público",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Segundo a LGPD, 'dado pessoal' é:",
+    "questionText": "São princípios expressos da Administração Pública, nos termos do art. 37 da Constituição:",
     "options": [
-      "apenas dados bancários",
-      "informação de pessoas jurídicas",
-      "dados já tornados públicos",
-      "qualquer informação relacionada a pessoa natural identificada ou identificável"
+      "legalidade, pessoalidade, lucratividade e sigilo.",
+      "apenas a legalidade e a economicidade.",
+      "moralidade, parcialidade e discricionariedade ilimitada.",
+      "legalidade, impessoalidade, moralidade, publicidade e eficiência."
     ]
   },
   {

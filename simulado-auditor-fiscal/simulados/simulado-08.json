@@ -4,12 +4,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que todas as palavras estão grafadas corretamente.",
+    "questionText": "Assinale a alternativa correta quanto à semântica das palavras.",
     "options": [
-      "paralização, fiscalização, autorização",
-      "paralisação, fiscalização, autorização",
-      "paralisação, fiscalisação, autorização",
-      "paralização, fiscalisação, autorisação"
+      "'Ratificar' e 'retificar' são sinônimos.",
+      "'Lícito' e 'permitido' são sinônimos.",
+      "'Iminente' e 'eminente' têm o mesmo sentido.",
+      "'Tráfego' e 'tráfico' são sinônimos."
     ]
   },
   {
@@ -17,12 +17,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que o uso (ou a ausência) do sinal de crase está correto.",
+    "questionText": "Assinale a alternativa correta quanto às relações de sentido.",
     "options": [
-      "Daqui à pouco começa a sessão.",
-      "Fui à cavalo até a fazenda.",
-      "Refiro-me à este caso específico.",
-      "Daqui a pouco começa a sessão."
+      "'Comprimento' e 'cumprimento' são antônimos.",
+      "'Banco' (assento e instituição) é caso de antonímia.",
+      "Sinônimos são palavras de sentidos sempre opostos.",
+      "'Ascender' (subir) e 'descer' são antônimos."
     ]
   },
   {
@@ -30,12 +30,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que a concordância verbal está correta.",
+    "questionText": "Assinale a alternativa correta sobre parônimos e homônimos.",
     "options": [
-      "Cada um dos auditores receberam sua pasta.",
-      "Fazem anos que não há concurso.",
-      "Cada um dos auditores recebeu sua pasta.",
-      "Houveram muitos casos."
+      "'Cela' e 'sela' são sinônimos.",
+      "'Feliz' e 'contente' são antônimos.",
+      "'Descrição' e 'discrição' são parônimos.",
+      "'Manga' (a fruta e a da camisa) é exemplo de paronímia."
     ]
   },
   {
@@ -43,12 +43,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que a regência está conforme a norma-padrão.",
+    "questionText": "Assinale a alternativa correta sobre tipologia textual.",
     "options": [
-      "Viso ao cargo de Auditor Fiscal.",
-      "Prefiro mais isto do que aquilo.",
-      "Cheguei na cidade ontem.",
-      "Namoro com ela há tempos."
+      "O texto que defende um ponto de vista com argumentos é dissertativo-argumentativo.",
+      "A narração caracteriza-se pela ausência de tempo e de personagens.",
+      "A descrição apresenta sempre fatos em sequência com clímax.",
+      "O texto injuntivo nunca emprega verbos no imperativo."
     ]
   },
   {
@@ -56,12 +56,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Na expressão 'muito importante', a palavra 'muito' classifica-se como:",
+    "questionText": "Assinale a alternativa correta sobre gêneros textuais.",
     "options": [
-      "advérbio de intensidade",
-      "adjetivo",
-      "substantivo",
-      "artigo"
+      "O edital de concurso é um gênero de finalidade informativa e normativa.",
+      "A receita culinária é um gênero predominantemente narrativo.",
+      "A notícia é um gênero literário essencialmente ficcional.",
+      "O requerimento dispensa o uso de linguagem formal."
     ]
   },
   {
@@ -69,12 +69,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa corretamente pontuada.",
+    "questionText": "Assinale a alternativa em que a reescrita mantém o sentido original.",
     "options": [
-      "Estudou bastante portanto foi aprovado.",
-      "Estudou, bastante portanto, foi aprovado.",
-      "Estudou bastante; portanto, foi aprovado.",
-      "Estudou bastante; portanto foi, aprovado."
+      "'Embora estudasse, foi reprovado' equivale a 'Porque estudava, foi reprovado'.",
+      "'Se chover, não sairemos' equivale a 'Mesmo que chova, não sairemos'.",
+      "'O servidor foi exonerado porque faltou' equivale a 'Por ter faltado, o servidor foi exonerado'.",
+      "'Comprou o livro e o leu' equivale a 'Comprou o livro, mas não o leu'."
     ]
   },
   {
@@ -82,12 +82,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "No contexto 'fonte fidedigna', a palavra 'fidedigna' significa:",
+    "questionText": "Assinale a alternativa correta sobre colocação pronominal.",
     "options": [
-      "falsa e duvidosa",
-      "ilegível",
-      "desatualizada",
-      "digna de fé, confiável"
+      "Após pausa forte, marcada por vírgula, usa-se sempre ênclise.",
+      "Em início de oração, o pronome oblíquo deve vir após o verbo.",
+      "Palavras atrativas, como 'nunca', exigem ênclise.",
+      "Em 'Não me convém esse horário', a próclise é exigida pela palavra 'não'."
     ]
   },
   {
@@ -95,12 +95,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Assinale o conectivo que estabelece relação de finalidade: 'Pague o tributo ___ evitar a multa.'",
+    "questionText": "Assinale a alternativa correta sobre colocação pronominal.",
     "options": [
-      "por isso",
-      "a fim de",
-      "embora",
-      "porque"
+      "A mesóclise é usada com verbos no presente do indicativo.",
+      "Em 'Far-se-á justiça', há mesóclise, usada com verbo no futuro sem atrativo.",
+      "A ênclise ocorre quando há palavra atrativa antes do verbo.",
+      "A próclise é proibida em orações que contenham advérbio."
     ]
   },
   {
@@ -108,12 +108,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa correta quanto à concordância nominal.",
+    "questionText": "Assinale a alternativa correta sobre interpretação de textos.",
     "options": [
-      "Era meio-dia e meio quando terminou.",
-      "Ela está meia triste com a notícia.",
-      "Seguem anexo as notas fiscais.",
-      "Era meio-dia e meia quando terminou."
+      "Inferir é copiar literalmente um trecho do texto.",
+      "Informação explícita é aquela que não está escrita no texto.",
+      "Toda inferência independe completamente do contexto.",
+      "Inferir é deduzir uma informação implícita a partir do texto."
     ]
   },
   {
@@ -121,12 +121,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "A frase 'Os tributos são fiscalizados pelo auditor' está na voz:",
+    "questionText": "Assinale a alternativa em que a função sintática do termo destacado está correta.",
     "options": [
-      "ativa",
-      "passiva analítica",
-      "reflexiva",
-      "passiva sintética"
+      "Em 'A lei é justa', 'justa' é objeto direto.",
+      "Em 'O auditor entregou o relatório ao chefe', 'ao chefe' é objeto indireto.",
+      "Em 'Choveu muito ontem', 'muito' é sujeito.",
+      "Em 'Comprei livros novos', 'livros' é sujeito."
     ]
   },
   {
@@ -134,12 +134,12 @@
     "area": "Noções de Informática",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Assinale o dispositivo de SAÍDA de dados.",
+    "questionText": "Sobre o LibreOffice Calc, assinale a alternativa correta.",
     "options": [
-      "monitor",
-      "teclado",
-      "mouse",
-      "scanner"
+      "A separação de argumentos de função pode usar ponto e vírgula, como em =SOMA(A1;A2).",
+      "O Calc não é capaz de abrir arquivos no formato .xlsx.",
+      "A extensão padrão de uma planilha do Calc é .docx.",
+      "O LibreOffice Calc não possui a função SE."
     ]
   },
   {
@@ -147,12 +147,12 @@
     "area": "Noções de Informática",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "O atalho Ctrl+X, na maioria dos programas, serve para:",
+    "questionText": "No Microsoft Word 365 em português, o atalho Ctrl+B aciona o comando:",
     "options": [
-      "copiar",
-      "colar",
-      "recortar",
-      "salvar"
+      "Aplicar negrito ao texto.",
+      "Recortar o trecho selecionado.",
+      "Salvar o documento.",
+      "Fechar o programa sem salvar."
     ]
   },
   {
@@ -160,12 +160,12 @@
     "area": "Noções de Informática",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "A criptografia, em segurança da informação, serve para:",
+    "questionText": "No Microsoft Word, o atalho Ctrl+Z tem a função de:",
     "options": [
-      "aumentar a velocidade da internet",
-      "apagar arquivos definitivamente",
-      "proteger a confidencialidade dos dados",
-      "imprimir documentos"
+      "refazer a última ação desfeita.",
+      "fechar o documento atual.",
+      "desfazer a última ação realizada.",
+      "ir para o início do documento."
     ]
   },
   {
@@ -173,12 +173,12 @@
     "area": "Noções de Informática",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "A computação em nuvem permite acessar arquivos:",
+    "questionText": "Sobre o LibreOffice Writer, assinale a alternativa correta.",
     "options": [
-      "de qualquer lugar com acesso à internet",
-      "apenas no computador local",
-      "somente off-line",
-      "apenas a partir de um CD"
+      "O formato de arquivo nativo do Writer é o .odt (OpenDocument Text).",
+      "O Writer não permite exportar documentos em PDF.",
+      "O formato nativo do Writer é o .xls.",
+      "O Writer é um software de planilha eletrônica."
     ]
   },
   {
@@ -186,12 +186,12 @@
     "area": "História de Campina Grande/PB",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "A maior festa de Campina Grande acontece no Parque do Povo durante o mês de:",
+    "questionText": "Ariano Suassuna, com forte ligação à cultura nordestina, é autor de:",
     "options": [
-      "dezembro",
-      "junho",
-      "abril",
-      "outubro"
+      "nenhuma obra literária, pois foi apenas político.",
+      "'Auto da Compadecida'.",
+      "obras de ficção científica espacial.",
+      "tratados de engenharia ferroviária."
     ]
   },
   {
@@ -199,12 +199,12 @@
     "area": "História de Campina Grande/PB",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Campina Grande é frequentemente chamada de Rainha da:",
+    "questionText": "Em relação à Paraíba, Campina Grande é:",
     "options": [
-      "Serra do Mar",
-      "Mata Atlântica",
-      "Caatinga Central",
-      "Borborema"
+      "a capital do estado da Paraíba.",
+      "o município menos populoso do estado.",
+      "um município pertencente a Pernambuco.",
+      "o segundo município mais populoso do estado, atrás de João Pessoa."
     ]
   },
   {
@@ -212,12 +212,12 @@
     "area": "História de Campina Grande/PB",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Campina Grande destaca-se na Paraíba como importante centro:",
+    "questionText": "Em 1994, no território antes ligado a Campina Grande, ocorreu:",
     "options": [
-      "universitário e tecnológico",
-      "portuário",
-      "pesqueiro",
-      "vinícola"
+      "o desmembramento do município de Boa Vista.",
+      "a incorporação de Campina Grande por Boa Vista.",
+      "a transferência da capital para Campina Grande.",
+      "a extinção do município de Campina Grande."
     ]
   },
   {
@@ -225,12 +225,12 @@
     "area": "Legislação e Ética no Serviço Público",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Publicar o extrato de um contrato administrativo atende ao princípio da:",
+    "questionText": "Entre os princípios que regem o tratamento de dados na LGPD, estão:",
     "options": [
-      "anterioridade",
-      "eficiência",
-      "moralidade",
-      "publicidade"
+      "o sigilo absoluto, vedando qualquer informação ao titular.",
+      "a liberdade de usar os dados para qualquer propósito.",
+      "a ausência total de princípios norteadores.",
+      "a finalidade, a necessidade e a transparência."
     ]
   },
   {
@@ -238,12 +238,12 @@
     "area": "Legislação e Ética no Serviço Público",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Conforme a LAI, negado o acesso à informação, o requerente pode:",
+    "questionText": "A Lei de Acesso à Informação aplica-se:",
     "options": [
-      "nada fazer",
-      "interpor recurso",
-      "ser multado",
-      "ser preso"
+      "apenas ao Poder Executivo federal.",
+      "aos órgãos dos três Poderes da União, dos Estados, do DF e dos Municípios.",
+      "somente ao Poder Judiciário.",
+      "a nenhum ente municipal, que está isento."
     ]
   },
   {
@@ -251,12 +251,12 @@
     "area": "Legislação e Ética no Serviço Público",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "A autoridade nacional responsável por fiscalizar a aplicação da LGPD é a:",
+    "questionText": "Pelo princípio da eficiência, espera-se do servidor público:",
     "options": [
-      "ANS",
-      "ANEEL",
-      "ANPD",
-      "ANVISA"
+      "o desperdício de recursos públicos sem consequências.",
+      "a morosidade proposital no atendimento.",
+      "a melhor atuação com o melhor uso dos recursos disponíveis.",
+      "o atendimento apenas a pessoas de seu conhecimento."
     ]
   },
   {

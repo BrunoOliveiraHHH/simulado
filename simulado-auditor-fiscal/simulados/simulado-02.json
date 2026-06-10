@@ -4,12 +4,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que todas as expressões estão grafadas corretamente.",
+    "questionText": "Assinale a alternativa em que todas as palavras estão grafadas corretamente.",
     "options": [
-      "concerteza, derrepente, a gente vai",
-      "com certeza, de repente, a gente vai",
-      "com certeza, derrepente, agente vai",
-      "concerteza, de repente, agente vai"
+      "O previlégio foi concedido sem justificativa.",
+      "A exceção foi analisada com discrição pelo gestor.",
+      "Houve um empecilio burocrático no processo.",
+      "A despeza com a obra foi excessiva."
     ]
   },
   {
@@ -17,12 +17,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que o uso (ou a ausência) do sinal indicativo de crase está correto.",
+    "questionText": "Assinale a alternativa em que não há erro de ortografia.",
     "options": [
-      "Entreguei o processo àquela servidora do setor.",
-      "Refiro-me a senhora diretora da repartição.",
-      "O auditor chegou à pé ao estabelecimento.",
-      "Estou disposto à colaborar com a fiscalização."
+      "O concurso exige bom senso e disciplina do candidato.",
+      "Houve uma paralização das atividades no órgão.",
+      "O servidor agiu com extrema mal-criação.",
+      "O processo foi protelado por mera ezitação."
     ]
   },
   {
@@ -30,12 +30,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que a concordância verbal está de acordo com a norma-padrão.",
+    "questionText": "Assinale a alternativa em que a acentuação gráfica está inteiramente correta.",
     "options": [
-      "Aluga-se casas no centro da cidade.",
-      "Precisa-se de auditores experientes no órgão.",
-      "Vende-se apartamentos novos na avenida.",
-      "Fazem dois meses da posse dos aprovados."
+      "O juíz foi imparcial ao avaliar o caso.",
+      "O juiz analisou o item com critério e cautela.",
+      "O ítem está correto segundo o relator.",
+      "O critereo adotado pela banca foi rigoroso."
     ]
   },
   {
@@ -43,12 +43,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que a regência nominal está conforme a norma-padrão.",
+    "questionText": "Sobre as regras de acentuação, assinale a alternativa correta.",
     "options": [
-      "Ele reside à Rua das Flores, no centro.",
-      "O servidor é passível de punição disciplinar.",
-      "Estou ciente sobre as regras do edital.",
-      "Tenho preferência em questões de legislação."
+      "Os monossílabos átonos sempre recebem acento gráfico.",
+      "Todas as proparoxítonas são acentuadas, como 'lâmpada' e 'médico'.",
+      "As oxítonas terminadas em 'i' são sempre acentuadas.",
+      "As paroxítonas terminadas em 'a' recebem acento."
     ]
   },
   {
@@ -56,12 +56,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Na frase \"A fiscalização foi rigorosa\", a palavra \"rigorosa\" classifica-se como:",
+    "questionText": "Quanto ao processo de formação de palavras, assinale a alternativa correta.",
     "options": [
-      "substantivo",
-      "adjetivo",
-      "advérbio",
-      "verbo"
+      "'Pontapé' é formada por derivação sufixal.",
+      "'Desleal' é formada por derivação prefixal.",
+      "'Guarda-chuva' resulta de derivação regressiva.",
+      "'Reler' é uma palavra primitiva."
     ]
   },
   {
@@ -69,12 +69,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa corretamente pontuada.",
+    "questionText": "Assinale a alternativa correta quanto à formação de palavras.",
     "options": [
-      "Campina Grande, cidade paraibana, sediará o concurso.",
-      "Campina Grande cidade paraibana, sediará o concurso.",
-      "Campina Grande, cidade paraibana sediará o concurso.",
-      "Campina, Grande cidade paraibana, sediará o concurso."
+      "'Passatempo' é formada por composição por justaposição.",
+      "'Infeliz' é exemplo de composição por aglutinação.",
+      "'Aguardente' resulta de derivação sufixal.",
+      "'Cafezal' é uma palavra primitiva."
     ]
   },
   {
@@ -82,12 +82,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "No contexto \"o contribuinte inadimplente foi notificado\", a palavra \"inadimplente\" significa aquele que:",
+    "questionText": "Assinale a alternativa em que a classe gramatical da palavra destacada está correta.",
     "options": [
-      "pagou o tributo em dia",
-      "não cumpriu a obrigação no prazo devido",
-      "está isento do pagamento",
-      "obteve parcelamento do débito"
+      "Em 'os deveres do cargo', 'os' é pronome.",
+      "Em 'cidade histórica', 'histórica' é adjetivo.",
+      "Em 'corri muito hoje', 'muito' é adjetivo.",
+      "Em 'dois servidores', 'dois' é substantivo."
     ]
   },
   {
@@ -95,12 +95,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Assinale o conectivo que, ao preencher a lacuna, estabelece relação de conclusão: \"O prazo expirou; ___, o crédito foi extinto.\"",
+    "questionText": "Assinale a alternativa correta quanto à classe de palavras.",
     "options": [
-      "embora",
-      "portanto",
-      "porque",
-      "contudo"
+      "Em 'casa bonita', 'bonita' é advérbio.",
+      "Em 'ele falou calmamente', 'calmamente' é advérbio de modo.",
+      "Em 'nós estudamos', 'nós' é verbo.",
+      "Em 'muito bom', 'muito' é substantivo."
     ]
   },
   {
@@ -108,12 +108,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa correta quanto à concordância nominal.",
+    "questionText": "Assinale a alternativa em que a função do 'que' está corretamente identificada.",
     "options": [
-      "Seguem anexo as guias de recolhimento.",
-      "Foram exigidos bastantes documentos na posse.",
-      "Havia menas exigências no edital anterior.",
-      "Os documento necessário foram entregues."
+      "Em 'espero que venha', 'que' é pronome relativo.",
+      "Em 'o livro que comprei', 'que' é pronome relativo.",
+      "Em 'que dia lindo!', 'que' é conjunção integrante.",
+      "Em 'fiquei que nem tonto', 'que' é artigo."
     ]
   },
   {
@@ -121,12 +121,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa que apresenta uma oração na voz passiva.",
+    "questionText": "Assinale a alternativa em que a função do 'se' está corretamente identificada.",
     "options": [
-      "O auditor lavrou o auto de infração.",
-      "O auto de infração foi lavrado pelo auditor.",
-      "O auditor preparou-se para a fiscalização.",
-      "O auditor trabalhou muito durante o dia."
+      "Em 'precisa-se de auxiliares', 'se' é apassivadora.",
+      "Em 'vendem-se casas', 'se' é partícula apassivadora.",
+      "Em 'ele se feriu', 'se' é conjunção.",
+      "Em 'se chover, ficarei', 'se' é pronome reflexivo."
     ]
   },
   {
@@ -134,12 +134,12 @@
     "area": "Noções de Informática",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "No Microsoft Word, o recurso que verifica e sinaliza erros de grafia no texto é o:",
+    "questionText": "Sobre o LibreOffice Calc, assinale a alternativa correta.",
     "options": [
-      "mala direta",
-      "corretor ortográfico",
-      "sumário automático",
-      "marca d'água"
+      "O Calc não é capaz de abrir arquivos no formato .xlsx.",
+      "A separação de argumentos de função pode usar ponto e vírgula, como em =SOMA(A1;A2).",
+      "A extensão padrão de uma planilha do Calc é .docx.",
+      "O LibreOffice Calc não possui a função SE."
     ]
   },
   {
@@ -147,12 +147,12 @@
     "area": "Noções de Informática",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "No Microsoft Excel, uma referência absoluta a uma célula é indicada pelo uso do símbolo:",
+    "questionText": "No Microsoft Word 365 em português, o atalho Ctrl+B aciona o comando:",
     "options": [
-      "%",
-      "&",
-      "$",
-      "#"
+      "Aplicar negrito ao texto.",
+      "Recortar o trecho selecionado.",
+      "Salvar o documento.",
+      "Fechar o programa sem salvar."
     ]
   },
   {
@@ -160,12 +160,12 @@
     "area": "Noções de Informática",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "A técnica de fraude que tenta obter dados sensíveis do usuário fingindo ser uma entidade confiável, geralmente por e-mail ou mensagem, é o:",
+    "questionText": "No Microsoft Word, o atalho Ctrl+Z tem a função de:",
     "options": [
-      "phishing",
-      "backup",
-      "firewall",
-      "cache"
+      "desfazer a última ação realizada.",
+      "refazer a última ação desfeita.",
+      "fechar o documento atual.",
+      "ir para o início do documento."
     ]
   },
   {
@@ -173,12 +173,12 @@
     "area": "Noções de Informática",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Entre as opções a seguir, qual é um navegador (browser) de internet?",
+    "questionText": "Sobre o LibreOffice Writer, assinale a alternativa correta.",
     "options": [
-      "Microsoft Excel",
-      "Google Chrome",
-      "Windows Defender",
-      "WinRAR"
+      "O Writer não permite exportar documentos em PDF.",
+      "O formato de arquivo nativo do Writer é o .odt (OpenDocument Text).",
+      "O formato nativo do Writer é o .xls.",
+      "O Writer é um software de planilha eletrônica."
     ]
   },
   {
@@ -186,12 +186,12 @@
     "area": "História de Campina Grande/PB",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Campina Grande está localizada em qual estado da Federação?",
+    "questionText": "Campina Grande foi elevada à condição de vila em 1790, recebendo o nome de:",
     "options": [
-      "Pernambuco",
-      "Paraíba",
-      "Rio Grande do Norte",
-      "Ceará"
+      "Vila de São Sebastião do Ouro.",
+      "Vila Nova da Rainha.",
+      "Vila Real da Borborema.",
+      "Vila de Santo Antônio do Litoral."
     ]
   },
   {
@@ -199,12 +199,12 @@
     "area": "História de Campina Grande/PB",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Campina Grande é o segundo município mais populoso da Paraíba, atrás apenas de:",
+    "questionText": "A elevação de Campina Grande à categoria de cidade ocorreu em:",
     "options": [
-      "Patos",
-      "João Pessoa",
-      "Sousa",
-      "Cajazeiras"
+      "2002, junto com a criação da UFCG.",
+      "1864.",
+      "1697, no momento de sua fundação.",
+      "1990, no contexto da redemocratização."
     ]
   },
   {
@@ -212,12 +212,12 @@
     "area": "História de Campina Grande/PB",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Reconhecida como polo de tecnologia e informática, Campina Grande abriga a:",
+    "questionText": "No século XIX e início do XX, o principal motor do desenvolvimento econômico de Campina Grande foi:",
     "options": [
-      "Universidade Federal de Campina Grande (UFCG)",
-      "Universidade de São Paulo (USP)",
-      "Universidade Federal do Rio de Janeiro (UFRJ)",
-      "Universidade de Brasília (UnB)"
+      "o algodão.",
+      "a extração de petróleo.",
+      "a mineração de ouro.",
+      "a produção de café."
     ]
   },
   {
@@ -225,12 +225,12 @@
     "area": "Legislação e Ética no Serviço Público",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "A divulgação dos atos da Administração para conhecimento geral, dando-lhes transparência, atende ao princípio da:",
+    "questionText": "De acordo com a LGPD, são exemplos de dados pessoais sensíveis:",
     "options": [
-      "publicidade",
-      "eficiência",
-      "moralidade",
-      "legalidade"
+      "informações sobre origem racial, convicção religiosa e saúde.",
+      "o nome completo e o endereço de e-mail do titular.",
+      "quaisquer dados de empresas públicas.",
+      "somente dados já tornados anônimos."
     ]
   },
   {
@@ -238,12 +238,12 @@
     "area": "Legislação e Ética no Serviço Público",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Conforme a Lei nº 12.527/2011 (LAI), quando não for possível o acesso imediato à informação, o prazo para resposta ao pedido é de até:",
+    "questionText": "Pela Lei de Acesso à Informação, o pedido de informação pública:",
     "options": [
-      "5 dias, improrrogáveis",
-      "20 dias, prorrogáveis por mais 10 dias",
-      "90 dias, improrrogáveis",
-      "1 ano, prorrogável a critério do órgão"
+      "exige sempre justificativa detalhada do motivo do pedido.",
+      "pode ser feito por qualquer interessado, sem necessidade de motivação.",
+      "só pode ser feito por jornalistas credenciados.",
+      "depende do pagamento de taxa elevada em qualquer caso."
     ]
   },
   {
@@ -251,12 +251,12 @@
     "area": "Legislação e Ética no Serviço Público",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Na LGPD (Lei nº 13.709/2018), o agente de tratamento a quem competem as decisões referentes ao tratamento de dados pessoais é o:",
+    "questionText": "Pelo princípio da impessoalidade, o servidor público deve:",
     "options": [
-      "operador",
-      "controlador",
-      "encarregado",
-      "titular"
+      "favorecer parentes e amigos no atendimento.",
+      "tratar a todos sem privilégios ou perseguições pessoais.",
+      "promover-se pessoalmente com recursos públicos.",
+      "agir conforme seus interesses particulares."
     ]
   },
   {

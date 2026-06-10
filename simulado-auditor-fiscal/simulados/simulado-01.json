@@ -4,12 +4,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que a concordância verbal está de acordo com a norma-padrão da língua portuguesa.",
+    "questionText": "Assinale a alternativa em que a concordância verbal está de acordo com a norma-padrão.",
     "options": [
-      "Fazem cinco anos que ele tomou posse no cargo.",
-      "Houveram muitas reclamações sobre o lançamento do imposto.",
-      "Tratam-se de questões relativas à fiscalização tributária.",
-      "Devem existir normas claras sobre a atuação do auditor."
+      "Fazem dez anos que a lei mudou.",
+      "Existe vários recursos pendentes de análise.",
+      "Tratam-se de questões relativas à fiscalização.",
+      "Houve muitas reclamações sobre o novo tributo."
     ]
   },
   {
@@ -17,12 +17,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que o uso do sinal indicativo de crase está correto.",
+    "questionText": "Assinale a alternativa em que a concordância verbal está correta.",
     "options": [
-      "Refiro-me à pessoas honestas e cumpridoras de seus deveres.",
-      "O contribuinte compareceu à reunião do conselho municipal.",
-      "Estou disposto à ajudar o cidadão que procura o setor.",
-      "O fiscal entregou o parecer à ele ainda pela manhã."
+      "Fazem dois meses que ele assumiu o cargo.",
+      "Faz dois meses que ele assumiu o cargo.",
+      "Houveram problemas na contagem dos votos.",
+      "Devem haver normas mais claras no edital."
     ]
   },
   {
@@ -30,12 +30,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que a regência verbal está em conformidade com a norma-padrão.",
+    "questionText": "Assinale a alternativa em que a concordância nominal está de acordo com a norma-padrão.",
     "options": [
-      "O auditor assistiu o documentário sobre tributação municipal.",
-      "Prefiro estudar legislação tributária do que resolver questões.",
-      "O servidor aspira ao cargo de Auditor Fiscal da Receita Municipal.",
-      "Cheguei no trabalho bem cedo para revisar o processo."
+      "É proibido a entrada de pessoas não autorizadas.",
+      "Elas mesmo resolveram a pendência tributária.",
+      "É proibida a entrada de pessoas não autorizadas.",
+      "As fiscais ficaram meia preocupadas com o prazo."
     ]
   },
   {
@@ -43,12 +43,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa corretamente pontuada.",
+    "questionText": "Assinale a alternativa corretamente redigida quanto à concordância nominal.",
     "options": [
-      "O auditor, fiscalizou a empresa e lavrou o auto de infração.",
-      "Fiscalizada a empresa, o auditor lavrou o auto de infração.",
-      "O auditor lavrou, o auto de infração na tarde de ontem.",
-      "Embora autuada a empresa, recorreu, da decisão administrativa."
+      "Seguem anexo as planilhas solicitadas pelo auditor.",
+      "Seguem anexas as planilhas solicitadas pelo auditor.",
+      "É necessário a presença de todos os servidores.",
+      "Havia bastante motivos para o indeferimento."
     ]
   },
   {
@@ -56,12 +56,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que todas as palavras estão grafadas corretamente.",
+    "questionText": "Assinale a alternativa em que a regência verbal está de acordo com a norma-padrão.",
     "options": [
-      "excessão, previlégio, beneficiente",
-      "exceção, privilégio, beneficente",
-      "excessão, privilégio, beneficente",
-      "exceção, previlégio, benificente"
+      "Prefiro mais o trabalho de campo do que o de gabinete.",
+      "Assisti ao documentário sobre a história da cidade.",
+      "Cheguei no órgão público antes das oito horas.",
+      "O processo implicou em diversas penalidades."
     ]
   },
   {
@@ -69,12 +69,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa que completa corretamente as lacunas: \"Não sei ___ o contribuinte não pagou o tributo; o fiscal quis entender o ___ do atraso.\"",
+    "questionText": "Assinale a alternativa em que a regência verbal está correta.",
     "options": [
-      "por que / porquê",
-      "porque / por quê",
-      "por quê / porque",
-      "porquê / por que"
+      "O servidor obedece às normas do edital.",
+      "Viso o cargo de auditor fiscal há anos.",
+      "Esqueci de protocolar o documento no prazo.",
+      "Ele aspira o cargo de chefia da repartição."
     ]
   },
   {
@@ -82,12 +82,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "No trecho \"A administração tributária deve respeitar o sigilo fiscal, pois ele protege o contribuinte\", o pronome destacado \"ele\" refere-se a:",
+    "questionText": "Assinale a alternativa em que o uso do sinal indicativo de crase está correto.",
     "options": [
-      "administração tributária",
-      "sigilo fiscal",
-      "contribuinte",
-      "tributo"
+      "Refiro-me à você e aos demais colegas.",
+      "Entreguei o relatório à secretária do setor.",
+      "Estou disposto à colaborar com a comissão.",
+      "Ele agiu conforme à lei vigente."
     ]
   },
   {
@@ -95,12 +95,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Na frase \"O auditor agiu legalmente durante a fiscalização\", a palavra destacada \"legalmente\" classifica-se como:",
+    "questionText": "Assinale a alternativa em que há emprego correto da crase.",
     "options": [
-      "adjetivo",
-      "advérbio",
-      "substantivo",
-      "preposição"
+      "Daqui à pouco a sessão será reaberta.",
+      "O atendimento ao público ocorre das 8h às 17h.",
+      "As compras foram feitas à prazo.",
+      "Fiquei cara à cara com a diretora."
     ]
   },
   {
@@ -108,12 +108,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa correta quanto à concordância nominal.",
+    "questionText": "Assinale a alternativa corretamente pontuada.",
     "options": [
-      "Seguem anexo os documentos exigidos para a posse.",
-      "Os documentos seguem anexos ao processo administrativo.",
-      "A certidão de quitação está em anexa ao requerimento.",
-      "Elas mesmo assinaram o termo de responsabilidade."
+      "O auditor, fiscalizou a empresa durante a manhã.",
+      "João Pessoa, capital da Paraíba, fica no litoral.",
+      "Comprou, livros canetas e cadernos para o estudo.",
+      "Ele estuda muito e, por isso será, aprovado."
     ]
   },
   {
@@ -121,12 +121,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa cujo conectivo, ao substituir o termo destacado em \"O contribuinte foi notificado, contudo não pagou o tributo\", preserva o sentido original.",
+    "questionText": "Assinale a alternativa em que a pontuação está de acordo com a norma-padrão.",
     "options": [
-      "porque",
-      "portanto",
-      "no entanto",
-      "por isso"
+      "Quando chegou todos, já haviam saído da reunião.",
+      "Todos, já haviam saído quando ele chegou.",
+      "Quando chegou, todos já haviam saído da reunião.",
+      "Quando, chegou todos já haviam saído."
     ]
   },
   {
@@ -134,12 +134,12 @@
     "area": "Noções de Informática",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "No Microsoft Excel, a fórmula =SOMA(A1:A5) tem como resultado:",
+    "questionText": "No Microsoft Excel 365, a fórmula =SOMA(A1:A5) retorna:",
     "options": [
-      "a soma dos valores das células de A1 até A5",
-      "a multiplicação do valor de A1 pelo valor de A5",
-      "a média aritmética dos valores de A1 a A5",
-      "a contagem da quantidade de células preenchidas"
+      "a soma dos valores contidos nas células de A1 até A5.",
+      "a média aritmética dos valores do intervalo.",
+      "a quantidade de células vazias do intervalo.",
+      "o maior valor encontrado no intervalo."
     ]
   },
   {
@@ -147,12 +147,12 @@
     "area": "Noções de Informática",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "No sistema operacional Windows, a combinação de teclas Ctrl + C é utilizada para:",
+    "questionText": "No Microsoft Excel, a referência $A$1 caracteriza:",
     "options": [
-      "recortar o item selecionado",
-      "copiar o item selecionado",
-      "colar o conteúdo da área de transferência",
-      "desfazer a última ação realizada"
+      "uma referência relativa, que muda conforme a cópia.",
+      "uma referência absoluta, que não se altera ao copiar a fórmula.",
+      "uma referência que trava apenas a linha e libera a coluna.",
+      "um erro de digitação não reconhecido pelo Excel."
     ]
   },
   {
@@ -160,12 +160,12 @@
     "area": "Noções de Informática",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "O tipo de praga digital (malware) que se disfarça de programa legítimo para enganar o usuário e obter acesso indevido ao sistema é conhecido como:",
+    "questionText": "Sobre a função PROCV do Microsoft Excel, é correto afirmar que ela:",
     "options": [
-      "firewall",
-      "cavalo de troia (trojan)",
-      "backup incremental",
-      "cookie de sessão"
+      "pesquisa valores apenas em linhas, nunca em colunas.",
+      "procura um valor na primeira coluna de um intervalo e retorna um valor na mesma linha.",
+      "funciona somente com texto, nunca com números.",
+      "soma todos os valores de um intervalo selecionado."
     ]
   },
   {
@@ -173,12 +173,12 @@
     "area": "Noções de Informática",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "O protocolo utilizado para a navegação segura na web, que realiza a criptografia dos dados trafegados entre o navegador e o site, é o:",
+    "questionText": "No Excel 365, a fórmula =SE(A1>=60;\"Aprovado\";\"Reprovado\"):",
     "options": [
-      "HTTP",
-      "FTP",
-      "HTTPS",
-      "SMTP"
+      "não permite o uso de texto como resultado.",
+      "aceita, no máximo, zero argumentos.",
+      "exibe 'Aprovado' quando A1 for maior ou igual a 60 e 'Reprovado' caso contrário.",
+      "sempre retorna um valor numérico."
     ]
   },
   {
@@ -186,12 +186,12 @@
     "area": "História de Campina Grande/PB",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Campina Grande, no estado da Paraíba, é conhecida nacionalmente por sediar um dos maiores festejos juninos do país, denominado:",
+    "questionText": "A ocupação efetiva da região de Campina Grande está historicamente associada à:",
     "options": [
-      "O Maior São João do Mundo",
-      "Festa do Peão de Boiadeiro",
-      "Oktoberfest do Nordeste",
-      "Carnaval de Momo"
+      "expedição de Teodósio de Oliveira Ledo, no final do século XVII (1697).",
+      "fundação pelos holandeses durante a invasão de 1630.",
+      "expedição de Pedro Álvares Cabral ao litoral paraibano.",
+      "corrida do ouro ocorrida em Minas Gerais no século XVIII."
     ]
   },
   {
@@ -199,12 +199,12 @@
     "area": "História de Campina Grande/PB",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Campina Grande é tradicionalmente conhecida pelo epíteto (apelido) de:",
+    "questionText": "Antes da colonização, a região de Campina Grande era habitada por:",
     "options": [
-      "Cidade Maravilhosa",
-      "Rainha da Borborema",
-      "Cidade das Pontes",
-      "Capital do Frevo"
+      "colonizadores ingleses vindos de Liverpool.",
+      "povos indígenas, como os Cariris.",
+      "imigrantes alemães chegados no século XVI.",
+      "ninguém, pois a área era totalmente desabitada."
     ]
   },
   {
@@ -212,12 +212,12 @@
     "area": "História de Campina Grande/PB",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Geograficamente, Campina Grande localiza-se sobre uma importante formação de relevo do estado da Paraíba, denominada:",
+    "questionText": "Sobre o período das invasões holandesas (1624-1654), é correto afirmar que:",
     "options": [
-      "Chapada Diamantina",
-      "Planalto da Borborema",
-      "Serra do Mar",
-      "Planície do Pantanal"
+      "os holandeses jamais alcançaram o território paraibano.",
+      "a Paraíba esteve sob domínio neerlandês durante parte desse período.",
+      "as invasões holandesas ocorreram no século XIX.",
+      "a Paraíba foi colonizada exclusivamente pela França."
     ]
   },
   {
@@ -225,12 +225,12 @@
     "area": "Legislação e Ética no Serviço Público",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Os princípios expressos que regem a Administração Pública, nos termos do art. 37, caput, da Constituição Federal de 1988, são:",
+    "questionText": "Segundo a Lei nº 13.709/2018 (LGPD), dado pessoal é:",
     "options": [
-      "legalidade, impessoalidade, moralidade, publicidade e eficiência",
-      "legalidade, economicidade, oralidade, publicidade e celeridade",
-      "moralidade, anterioridade, isonomia, eficiência e legalidade",
-      "impessoalidade, publicidade, presunção, eficiência e oralidade"
+      "toda informação relacionada a pessoa natural identificada ou identificável.",
+      "qualquer informação relativa apenas a pessoas jurídicas.",
+      "exclusivamente o número de inscrição em concurso público.",
+      "apenas dados que estejam armazenados em papel."
     ]
   },
   {
@@ -238,12 +238,12 @@
     "area": "Legislação e Ética no Serviço Público",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "A Lei nº 12.527/2011 (Lei de Acesso à Informação) estabelece como diretriz geral que o acesso à informação pública é:",
+    "questionText": "A Lei nº 12.527/2011 (Lei de Acesso à Informação) adota como diretriz:",
     "options": [
-      "sigiloso, sendo a publicidade a exceção",
-      "a regra, e o sigilo, a exceção",
-      "restrito exclusivamente aos servidores públicos",
-      "permitido apenas mediante o pagamento de taxa"
+      "o sigilo como regra geral da Administração Pública.",
+      "a publicidade como regra e o sigilo como exceção.",
+      "a aplicação apenas a empresas privadas.",
+      "a vedação de acesso a qualquer documento público."
     ]
   },
   {
@@ -251,12 +251,12 @@
     "area": "Legislação e Ética no Serviço Público",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Conforme a Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais - LGPD), entende-se por \"dado pessoal\":",
+    "questionText": "São princípios expressos da Administração Pública, nos termos do art. 37 da Constituição:",
     "options": [
-      "qualquer informação relacionada a pessoa natural identificada ou identificável",
-      "somente os dados bancários e financeiros de um indivíduo",
-      "informações relativas exclusivamente a pessoas jurídicas",
-      "dados que já tenham sido tornados manifestamente públicos"
+      "legalidade, impessoalidade, moralidade, publicidade e eficiência.",
+      "legalidade, pessoalidade, lucratividade e sigilo.",
+      "apenas a legalidade e a economicidade.",
+      "moralidade, parcialidade e discricionariedade ilimitada."
     ]
   },
   {

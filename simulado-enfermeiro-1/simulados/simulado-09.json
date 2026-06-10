@@ -4,12 +4,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que todas as palavras estão grafadas corretamente.",
+    "questionText": "Assinale a alternativa em que a concordância verbal está de acordo com a norma-padrão.",
     "options": [
-      "esceção, exceder, excelente",
-      "exceção, esceder, escelente",
-      "esceção, esceder, escelente",
-      "exceção, exceder, excelente"
+      "Fazem dez anos que a lei mudou.",
+      "Existe vários recursos pendentes de análise.",
+      "Tratam-se de questões relativas à fiscalização.",
+      "Houve muitas reclamações sobre o novo tributo."
     ]
   },
   {
@@ -17,12 +17,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que o uso do sinal indicativo de crase está correto.",
+    "questionText": "Assinale a alternativa em que a concordância verbal está correta.",
     "options": [
-      "Deu atenção à queixa da paciente.",
-      "Refiro-me à Vossa Senhoria.",
-      "Fui à pé até o leito.",
-      "Entreguei o laudo à ele."
+      "Faz dois meses que ele assumiu o cargo.",
+      "Fazem dois meses que ele assumiu o cargo.",
+      "Houveram problemas na contagem dos votos.",
+      "Devem haver normas mais claras no edital."
     ]
   },
   {
@@ -30,12 +30,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que a concordância verbal está correta.",
+    "questionText": "Assinale a alternativa em que a concordância nominal está de acordo com a norma-padrão.",
     "options": [
-      "Houveram muitas internações no plantão.",
-      "Houve muitas internações no plantão.",
-      "Existe muitos leitos vagos.",
-      "Fazem dias que aguardo."
+      "É proibido a entrada de pessoas não autorizadas.",
+      "É proibida a entrada de pessoas não autorizadas.",
+      "Elas mesmo resolveram a pendência tributária.",
+      "As fiscais ficaram meia preocupadas com o prazo."
     ]
   },
   {
@@ -43,12 +43,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que a regência está conforme a norma-padrão.",
+    "questionText": "Assinale a alternativa corretamente redigida quanto à concordância nominal.",
     "options": [
-      "Obedeço as normas da instituição.",
-      "Cheguei na unidade cedo.",
-      "Obedeço às normas da instituição.",
-      "Prefiro ler do que escrever."
+      "Seguem anexo as planilhas solicitadas pelo auditor.",
+      "É necessário a presença de todos os servidores.",
+      "Seguem anexas as planilhas solicitadas pelo auditor.",
+      "Havia bastante motivos para o indeferimento."
     ]
   },
   {
@@ -56,12 +56,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Na frase 'a equipe agiu prontamente', a palavra 'prontamente' classifica-se como:",
+    "questionText": "Assinale a alternativa em que a regência verbal está de acordo com a norma-padrão.",
     "options": [
-      "adjetivo",
-      "substantivo",
-      "advérbio",
-      "numeral"
+      "Prefiro mais o trabalho de campo do que o de gabinete.",
+      "Cheguei no órgão público antes das oito horas.",
+      "Assisti ao documentário sobre a história da cidade.",
+      "O processo implicou em diversas penalidades."
     ]
   },
   {
@@ -69,12 +69,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa que completa corretamente: 'Sentiu-se ___ após a punção venosa.'",
+    "questionText": "Assinale a alternativa em que a regência verbal está correta.",
     "options": [
-      "mau",
-      "mais",
-      "más",
-      "mal"
+      "Viso o cargo de auditor fiscal há anos.",
+      "Esqueci de protocolar o documento no prazo.",
+      "Ele aspira o cargo de chefia da repartição.",
+      "O servidor obedece às normas do edital."
     ]
   },
   {
@@ -82,12 +82,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "No contexto 'o enfermeiro foi taxativo', a palavra 'taxativo' significa:",
+    "questionText": "Assinale a alternativa em que o uso do sinal indicativo de crase está correto.",
     "options": [
-      "categórico, que não admite contestação",
-      "hesitante",
-      "gentil",
-      "confuso"
+      "Entreguei o relatório à secretária do setor.",
+      "Refiro-me à você e aos demais colegas.",
+      "Estou disposto à colaborar com a comissão.",
+      "Ele agiu conforme à lei vigente."
     ]
   },
   {
@@ -95,12 +95,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Assinale o conectivo de concessão: 'Compareceu ao plantão, ___ estivesse cansada.'",
+    "questionText": "Assinale a alternativa em que há emprego correto da crase.",
     "options": [
-      "porque",
-      "embora",
-      "portanto",
-      "assim que"
+      "Daqui à pouco a sessão será reaberta.",
+      "O atendimento ao público ocorre das 8h às 17h.",
+      "As compras foram feitas à prazo.",
+      "Fiquei cara à cara com a diretora."
     ]
   },
   {
@@ -108,12 +108,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa correta quanto à concordância nominal.",
+    "questionText": "Assinale a alternativa corretamente pontuada.",
     "options": [
-      "Segue anexo as guias.",
-      "É necessária cautela na triagem.",
-      "Ela está meia nervosa.",
-      "Comprei bastante materiais; estavam caro."
+      "O auditor, fiscalizou a empresa durante a manhã.",
+      "João Pessoa, capital da Paraíba, fica no litoral.",
+      "Comprou, livros canetas e cadernos para o estudo.",
+      "Ele estuda muito e, por isso será, aprovado."
     ]
   },
   {
@@ -121,12 +121,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a oração na voz passiva.",
+    "questionText": "Assinale a alternativa em que a pontuação está de acordo com a norma-padrão.",
     "options": [
-      "O exame foi solicitado pelo médico.",
-      "O médico solicitou o exame.",
-      "Solicitou-se o exame.",
-      "O médico se solicitou."
+      "Quando chegou, todos já haviam saído da reunião.",
+      "Quando chegou todos, já haviam saído da reunião.",
+      "Todos, já haviam saído quando ele chegou.",
+      "Quando, chegou todos já haviam saído."
     ]
   },
   {
@@ -134,12 +134,12 @@
     "area": "Noções de Informática",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "A memória volátil, que perde os dados ao desligar o computador, é a:",
+    "questionText": "No Windows 11, o Explorador de Arquivos é utilizado para:",
     "options": [
-      "HD",
-      "SSD",
-      "memória RAM",
-      "pendrive"
+      "apagar arquivos de forma permanente e irrecuperável.",
+      "editar planilhas eletrônicas complexas.",
+      "navegar por pastas e arquivos do computador.",
+      "substituir o antivírus do sistema."
     ]
   },
   {
@@ -147,12 +147,12 @@
     "area": "Noções de Informática",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "O atalho Ctrl+V, na maioria dos programas, serve para:",
+    "questionText": "No sistema operacional Windows, o atalho Ctrl+C é utilizado para:",
     "options": [
-      "copiar",
-      "recortar",
-      "salvar",
-      "colar"
+      "excluir definitivamente o arquivo selecionado.",
+      "selecionar todos os itens da tela.",
+      "abrir o menu Iniciar.",
+      "copiar o item selecionado para a área de transferência."
     ]
   },
   {
@@ -160,12 +160,12 @@
     "area": "Noções de Informática",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "O malware que se replica e se propaga automaticamente por redes é o:",
+    "questionText": "Sobre arquivos no Windows, assinale a alternativa correta.",
     "options": [
-      "cookie",
-      "driver",
-      "worm (verme)",
-      "plugin"
+      "Arquivos .pdf só podem ser abertos por planilhas.",
+      "A extensão .jpg indica um arquivo de áudio.",
+      "Arquivos com extensão .exe são executáveis.",
+      "Arquivos .txt são usados para armazenar vídeos."
     ]
   },
   {
@@ -173,12 +173,12 @@
     "area": "Noções de Informática",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "O Google Chrome é um:",
+    "questionText": "Em segurança da informação, o phishing caracteriza-se por:",
     "options": [
-      "programa antivírus",
-      "editor de planilhas",
-      "sistema operacional",
-      "navegador de internet"
+      "um tipo de programa antivírus.",
+      "um equipamento físico de proteção de redes.",
+      "uma técnica legítima de backup de dados.",
+      "uma fraude que tenta obter dados pessoais fingindo ser entidade confiável."
     ]
   },
   {
@@ -186,12 +186,12 @@
     "area": "História de Campina Grande/PB",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Campina Grande pertence ao estado da:",
+    "questionText": "O nome 'Vila Nova da Rainha', adotado em 1790, era uma homenagem:",
     "options": [
-      "Bahia",
-      "Paraíba",
-      "Sergipe",
-      "Alagoas"
+      "a um cacique indígena local.",
+      "à rainha de Portugal, D. Maria I.",
+      "a um engenheiro holandês da região.",
+      "a um rio da bacia amazônica."
     ]
   },
   {
@@ -199,12 +199,12 @@
     "area": "História de Campina Grande/PB",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "A capital do estado da Paraíba é:",
+    "questionText": "A vocação comercial de Campina Grande consolidou-se, historicamente, a partir:",
     "options": [
-      "João Pessoa",
-      "Natal",
-      "Recife",
-      "Maceió"
+      "de suas feiras livres, ponto de troca de mercadorias do sertão.",
+      "da exploração de minas de diamante.",
+      "da atividade portuária e da pesca marítima.",
+      "da indústria automobilística instalada na cidade."
     ]
   },
   {
@@ -212,12 +212,12 @@
     "area": "História de Campina Grande/PB",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Campina Grande é apelidada de:",
+    "questionText": "Nos séculos XVIII e XIX, a região de Campina Grande teve como base econômica:",
     "options": [
-      "Rainha da Borborema",
-      "Cidade Sorriso",
-      "Capital do Sol",
-      "Cidade Luz"
+      "a pecuária no sertão e a economia de subsistência.",
+      "a mineração de diamantes em larga escala.",
+      "a pesca marítima de longo curso.",
+      "a indústria petroquímica."
     ]
   },
   {
@@ -225,12 +225,12 @@
     "area": "Legislação e Ética no Serviço Público",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Ao agente público só é permitido fazer o que a lei autoriza, conforme o princípio da:",
+    "questionText": "Segundo a Lei nº 13.709/2018 (LGPD), dado pessoal é:",
     "options": [
-      "autonomia da vontade",
-      "legalidade",
-      "conveniência",
-      "oportunidade"
+      "qualquer informação relativa apenas a pessoas jurídicas.",
+      "toda informação relacionada a pessoa natural identificada ou identificável.",
+      "exclusivamente o número de inscrição em concurso público.",
+      "apenas dados que estejam armazenados em papel."
     ]
   },
   {
@@ -238,12 +238,12 @@
     "area": "Legislação e Ética no Serviço Público",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "O fornecimento de informação pública mediante pedido do cidadão caracteriza a:",
+    "questionText": "A Lei nº 12.527/2011 (Lei de Acesso à Informação) adota como diretriz:",
     "options": [
-      "transparência ativa",
-      "classificação de sigilo",
-      "censura prévia",
-      "transparência passiva"
+      "o sigilo como regra geral da Administração Pública.",
+      "a aplicação apenas a empresas privadas.",
+      "a vedação de acesso a qualquer documento público.",
+      "a publicidade como regra e o sigilo como exceção."
     ]
   },
   {
@@ -251,12 +251,12 @@
     "area": "Legislação e Ética no Serviço Público",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Na LGPD, a pessoa natural a quem se referem os dados pessoais é o:",
+    "questionText": "São princípios expressos da Administração Pública, nos termos do art. 37 da Constituição:",
     "options": [
-      "controlador",
-      "operador",
-      "titular",
-      "encarregado"
+      "legalidade, pessoalidade, lucratividade e sigilo.",
+      "apenas a legalidade e a economicidade.",
+      "legalidade, impessoalidade, moralidade, publicidade e eficiência.",
+      "moralidade, parcialidade e discricionariedade ilimitada."
     ]
   },
   {

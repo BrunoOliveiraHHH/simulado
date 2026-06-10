@@ -4,12 +4,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que todas as palavras estão grafadas corretamente.",
+    "questionText": "Assinale a alternativa correta sobre a relação entre as orações.",
     "options": [
-      "privilégio, beneficência, concessão",
-      "previlégio, beneficiência, concessão",
-      "privilégio, beneficência, consessão",
-      "previlégio, beneficência, concessão"
+      "Em 'estudou muito, portanto foi aprovado', há oração coordenada conclusiva.",
+      "Em 'não foi porque choveu', há oração coordenada aditiva.",
+      "A conjunção 'mas' introduz oração coordenada explicativa.",
+      "A conjunção 'ou' introduz oração coordenada conclusiva."
     ]
   },
   {
@@ -17,12 +17,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que o uso do sinal indicativo de crase está correto.",
+    "questionText": "Assinale a alternativa correta quanto à subordinação.",
     "options": [
-      "Refiro-me à Vossa Senhoria.",
-      "Fui à pé até a repartição.",
-      "Compareci à sessão de julgamento.",
-      "Entreguei o auto à ele."
+      "Em 'o aluno que estuda passa', a destacada é substantiva.",
+      "Orações adverbiais exercem função de adjunto adnominal.",
+      "Em 'é necessário que estudes', a oração destacada é substantiva subjetiva.",
+      "Orações subordinadas vêm sempre antes da principal."
     ]
   },
   {
@@ -30,12 +30,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que a concordância verbal está de acordo com a norma-padrão.",
+    "questionText": "Assinale a alternativa correta sobre as orações subordinadas adverbiais.",
     "options": [
-      "Devem haver soluções para o impasse.",
-      "Deve haver soluções para o impasse.",
-      "Houveram falhas na fiscalização.",
-      "Fazem meses que não há reajuste."
+      "A conjunção 'quando' introduz oração adverbial causal.",
+      "Em 'embora chovesse, saímos', há oração adverbial concessiva.",
+      "A conjunção 'porque' introduz oração adverbial final.",
+      "A locução 'a fim de que' introduz oração adverbial temporal."
     ]
   },
   {
@@ -43,12 +43,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que a regência está conforme a norma-padrão.",
+    "questionText": "Assinale a alternativa correta sobre coesão textual.",
     "options": [
-      "Prefiro isto do que aquilo.",
-      "Cheguei no local marcado.",
-      "Assisti o jogo pela TV.",
-      "Aspiro a uma vida melhor."
+      "Os conectivos não contribuem para a coesão do texto.",
+      "A repetição exaustiva de termos sempre melhora a coesão.",
+      "Coesão e coerência são termos perfeitamente sinônimos.",
+      "Em 'O gestor renunciou; ele estava cansado', 'ele' retoma 'o gestor'."
     ]
   },
   {
@@ -56,12 +56,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Na expressão 'agir corretamente', a palavra 'corretamente' classifica-se como:",
+    "questionText": "Assinale a alternativa em que a relação de sentido do conectivo está correta.",
     "options": [
-      "substantivo",
-      "adjetivo",
-      "numeral",
-      "advérbio"
+      "O conectivo 'portanto' estabelece relação de causa.",
+      "O conectivo 'porque' estabelece relação de conclusão.",
+      "A locução 'além disso' estabelece relação de contraste.",
+      "O conectivo 'no entanto' estabelece relação de oposição."
     ]
   },
   {
@@ -69,12 +69,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Assinale o uso correto de 'a/há': '___ dois anos não há fiscalização; daqui ___ um mês haverá.'",
+    "questionText": "Sobre coesão e coerência, assinale a alternativa correta.",
     "options": [
-      "A / há",
-      "Há / a",
-      "Há / há",
-      "A / a"
+      "Um texto coeso é, necessariamente, sempre coerente.",
+      "A coerência relaciona-se à lógica e à não contradição entre as ideias.",
+      "A coerência depende exclusivamente da pontuação do texto.",
+      "Coerência é a mera ligação gramatical entre palavras."
     ]
   },
   {
@@ -82,12 +82,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "No contexto 'é prerrogativa do cargo', a palavra 'prerrogativa' significa:",
+    "questionText": "Assinale a alternativa em que a figura de linguagem está corretamente identificada.",
     "options": [
-      "proibição imposta por lei",
-      "penalidade administrativa",
-      "privilégio ou direito especial inerente a um cargo",
-      "dúvida razoável"
+      "'Li Machado de Assis ontem' é exemplo de eufemismo.",
+      "'Subir para cima' é exemplo de antítese.",
+      "'Seus olhos são duas estrelas' é exemplo de metáfora.",
+      "'Que silêncio ensurdecedor' é exemplo de hipérbole."
     ]
   },
   {
@@ -95,12 +95,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Assinale o conectivo que estabelece relação de causa: 'O auto foi anulado ___ continha vício formal.'",
+    "questionText": "Assinale a alternativa correta quanto às figuras de linguagem.",
     "options": [
-      "porque",
-      "embora",
-      "portanto",
-      "caso"
+      "'Li Machado de Assis' (o autor pela obra) é metonímia.",
+      "'Chorei rios de lágrimas' é exemplo de metonímia.",
+      "'Doce amargura' é exemplo de metonímia.",
+      "'O vento sussurrava' é exemplo de metonímia."
     ]
   },
   {
@@ -108,12 +108,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa correta quanto à concordância nominal.",
+    "questionText": "Assinale a alternativa correta sobre os vícios de linguagem.",
     "options": [
-      "Segue anexa os documentos exigidos.",
-      "Eles ficaram meios cansados após o expediente.",
-      "Os anexos do processo estão completos.",
-      "Comprei bastante livros para estudar."
+      "'Há anos atrás' é exemplo de neologismo.",
+      "'Fazem dois dias' é exemplo de eufemismo.",
+      "'Elo de ligação' é exemplo de pleonasmo vicioso.",
+      "'A nível de' é exemplo de onomatopeia."
     ]
   },
   {
@@ -121,12 +121,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a oração que está na voz ATIVA.",
+    "questionText": "Assinale a alternativa correta sobre ambiguidade e vícios de linguagem.",
     "options": [
-      "O contribuinte recolheu o tributo.",
-      "O tributo foi recolhido.",
-      "Recolheu-se o tributo.",
-      "O tributo é recolhido mensalmente."
+      "A frase 'o guarda deteve o suspeito em sua casa' apresenta ambiguidade.",
+      "A ambiguidade é sempre desejável em textos técnicos e oficiais.",
+      "Barbarismo é o emprego sempre correto das palavras.",
+      "Solecismo é, por definição, um erro de grafia."
     ]
   },
   {
@@ -134,12 +134,12 @@
     "area": "Noções de Informática",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Memória de armazenamento permanente (não volátil):",
+    "questionText": "No Microsoft Excel 365, a fórmula =SOMA(A1:A5) retorna:",
     "options": [
-      "memória RAM",
-      "memória cache",
-      "registrador",
-      "HD/SSD"
+      "a média aritmética dos valores do intervalo.",
+      "a quantidade de células vazias do intervalo.",
+      "o maior valor encontrado no intervalo.",
+      "a soma dos valores contidos nas células de A1 até A5."
     ]
   },
   {
@@ -147,12 +147,12 @@
     "area": "Noções de Informática",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "O atalho Ctrl+A, em geral, é usado para:",
+    "questionText": "No Microsoft Excel, a referência $A$1 caracteriza:",
     "options": [
-      "salvar o arquivo",
-      "selecionar tudo",
-      "abrir um arquivo",
-      "fechar o programa"
+      "uma referência relativa, que muda conforme a cópia.",
+      "uma referência absoluta, que não se altera ao copiar a fórmula.",
+      "uma referência que trava apenas a linha e libera a coluna.",
+      "um erro de digitação não reconhecido pelo Excel."
     ]
   },
   {
@@ -160,12 +160,12 @@
     "area": "Noções de Informática",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "O programa que detecta e remove vírus do computador é o:",
+    "questionText": "Sobre a função PROCV do Microsoft Excel, é correto afirmar que ela:",
     "options": [
-      "navegador",
-      "antivírus",
-      "compactador",
-      "editor de planilhas"
+      "pesquisa valores apenas em linhas, nunca em colunas.",
+      "procura um valor na primeira coluna de um intervalo e retorna um valor na mesma linha.",
+      "funciona somente com texto, nunca com números.",
+      "soma todos os valores de um intervalo selecionado."
     ]
   },
   {
@@ -173,12 +173,12 @@
     "area": "Noções de Informática",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Em um e-mail, o campo CCo (cópia oculta) serve para:",
+    "questionText": "No Excel 365, a fórmula =SE(A1>=60;\"Aprovado\";\"Reprovado\"):",
     "options": [
-      "anexar arquivos grandes",
-      "excluir mensagens antigas",
-      "marcar a mensagem como spam",
-      "enviar cópia sem que os demais destinatários vejam o endereço"
+      "não permite o uso de texto como resultado.",
+      "aceita, no máximo, zero argumentos.",
+      "sempre retorna um valor numérico.",
+      "exibe 'Aprovado' quando A1 for maior ou igual a 60 e 'Reprovado' caso contrário."
     ]
   },
   {
@@ -186,12 +186,12 @@
     "area": "História de Campina Grande/PB",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Em junho, Campina Grande celebra festejos em homenagem a santos como Santo Antônio, São João e:",
+    "questionText": "Tradicionalmente, Campina Grande é apelidada de:",
     "options": [
-      "São Pedro",
-      "São Jorge",
-      "São Francisco",
-      "São Sebastião"
+      "'Rainha da Borborema'.",
+      "'Cidade Maravilhosa'.",
+      "'Princesa do Sertão do Ceará'.",
+      "'Capital Nacional do Frevo'."
     ]
   },
   {
@@ -199,12 +199,12 @@
     "area": "História de Campina Grande/PB",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "O apelido 'Rainha da Borborema' faz referência à importância de Campina Grande na região do(a):",
+    "questionText": "Quanto à sua localização geográfica, Campina Grande situa-se:",
     "options": [
-      "Litoral paraibano",
-      "Pantanal",
-      "Planalto/Agreste da Borborema",
-      "Amazônia"
+      "no litoral da Paraíba, ao nível do mar.",
+      "na planície amazônica.",
+      "sobre o Planalto da Borborema, o que lhe confere clima mais ameno.",
+      "na região do Pantanal."
     ]
   },
   {
@@ -212,12 +212,12 @@
     "area": "História de Campina Grande/PB",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "A sigla UFCG, instituição sediada em Campina Grande, significa:",
+    "questionText": "José Américo de Almeida, figura ligada à Paraíba, foi:",
     "options": [
-      "União das Faculdades de Campina Grande",
-      "Universidade Federal do Ceará e Garanhuns",
-      "Universidade de Garanhuns",
-      "Universidade Federal de Campina Grande"
+      "navegador português do século XVI.",
+      "músico alemão sem relação com a Paraíba.",
+      "o fundador da cidade, em 1697.",
+      "escritor, autor do romance 'A Bagaceira'."
     ]
   },
   {
@@ -225,12 +225,12 @@
     "area": "Legislação e Ética no Serviço Público",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Praticar ato visando fim diverso do interesse público, ainda que sem violar a letra da lei, fere o princípio da:",
+    "questionText": "Quanto à sua aplicação, a LGPD incide sobre o tratamento de dados realizado por:",
     "options": [
-      "anterioridade",
-      "publicidade",
-      "moralidade",
-      "legalidade estrita apenas"
+      "apenas empresas privadas estrangeiras.",
+      "somente órgãos do Poder Executivo federal.",
+      "pessoa natural ou jurídica, de direito público ou privado.",
+      "exclusivamente tratamentos feitos em meio físico (papel)."
     ]
   },
   {
@@ -238,12 +238,12 @@
     "area": "Legislação e Ética no Serviço Público",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "São diretrizes da LAI a observância da publicidade como preceito geral e do sigilo como:",
+    "questionText": "Negado o acesso à informação solicitada, a LAI assegura ao requerente:",
     "options": [
-      "exceção",
-      "regra",
-      "obrigação",
-      "vedação absoluta"
+      "o direito de interpor recurso contra a negativa.",
+      "a impossibilidade de qualquer recurso, sendo a decisão final.",
+      "a obrigação de pagar multa por ter solicitado.",
+      "a perda do direito de fazer novos pedidos."
     ]
   },
   {
@@ -251,12 +251,12 @@
     "area": "Legislação e Ética no Serviço Público",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "A LGPD aplica-se ao tratamento de dados realizado por:",
+    "questionText": "Pelo princípio da legalidade, o administrador público:",
     "options": [
-      "pessoa natural para fins exclusivamente particulares",
-      "pessoas naturais e jurídicas, de direito público e privado",
-      "apenas empresas privadas",
-      "apenas órgãos públicos"
+      "pode agir livremente, mesmo sem previsão legal.",
+      "só pode fazer o que a lei autoriza ou determina.",
+      "está sujeito à legalidade apenas como cidadão comum.",
+      "pode criar tributos sem amparo em lei."
     ]
   },
   {

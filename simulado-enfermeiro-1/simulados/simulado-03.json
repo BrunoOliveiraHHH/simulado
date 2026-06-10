@@ -4,12 +4,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que todas as palavras estão grafadas corretamente.",
+    "questionText": "Assinale a alternativa correta sobre a relação entre as orações.",
     "options": [
-      "concessão, ascensão, obsessão",
-      "consessão, ascenção, obssessão",
-      "concessão, ascenção, obcessão",
-      "consessão, ascensão, obssessão"
+      "Em 'estudou muito, portanto foi aprovado', há oração coordenada conclusiva.",
+      "Em 'não foi porque choveu', há oração coordenada aditiva.",
+      "A conjunção 'mas' introduz oração coordenada explicativa.",
+      "A conjunção 'ou' introduz oração coordenada conclusiva."
     ]
   },
   {
@@ -17,12 +17,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que o uso do sinal indicativo de crase está correto.",
+    "questionText": "Assinale a alternativa correta quanto à subordinação.",
     "options": [
-      "Refiro-me à mim mesmo.",
-      "Cheguei à cavalo ao posto.",
-      "Permaneceu atento à evolução do quadro.",
-      "Entreguei a medicação à você."
+      "Em 'o aluno que estuda passa', a destacada é substantiva.",
+      "Orações adverbiais exercem função de adjunto adnominal.",
+      "Em 'é necessário que estudes', a oração destacada é substantiva subjetiva.",
+      "Orações subordinadas vêm sempre antes da principal."
     ]
   },
   {
@@ -30,12 +30,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que a concordância verbal está correta.",
+    "questionText": "Assinale a alternativa correta sobre as orações subordinadas adverbiais.",
     "options": [
-      "Fazem cinco anos que atuo na unidade.",
-      "Faz cinco anos que atuo na unidade.",
-      "Existe muitos casos pendentes.",
-      "Houveram registros incompletos."
+      "A conjunção 'quando' introduz oração adverbial causal.",
+      "Em 'embora chovesse, saímos', há oração adverbial concessiva.",
+      "A conjunção 'porque' introduz oração adverbial final.",
+      "A locução 'a fim de que' introduz oração adverbial temporal."
     ]
   },
   {
@@ -43,12 +43,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa em que a regência está conforme a norma-padrão.",
+    "questionText": "Assinale a alternativa correta sobre coesão textual.",
     "options": [
-      "O assunto que me refiro é sigiloso.",
-      "Prefiro sair do que ficar.",
-      "Cheguei no setor atrasado.",
-      "O assunto a que me refiro é sigiloso."
+      "Os conectivos não contribuem para a coesão do texto.",
+      "A repetição exaustiva de termos sempre melhora a coesão.",
+      "Coesão e coerência são termos perfeitamente sinônimos.",
+      "Em 'O gestor renunciou; ele estava cansado', 'ele' retoma 'o gestor'."
     ]
   },
   {
@@ -56,12 +56,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Na expressão 'a segurança do paciente', a palavra 'segurança' classifica-se como:",
+    "questionText": "Assinale a alternativa em que a relação de sentido do conectivo está correta.",
     "options": [
-      "adjetivo",
-      "advérbio",
-      "verbo",
-      "substantivo"
+      "O conectivo 'portanto' estabelece relação de causa.",
+      "O conectivo 'porque' estabelece relação de conclusão.",
+      "A locução 'além disso' estabelece relação de contraste.",
+      "O conectivo 'no entanto' estabelece relação de oposição."
     ]
   },
   {
@@ -69,12 +69,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Assinale o uso correto de 'a/há'.",
+    "questionText": "Sobre coesão e coerência, assinale a alternativa correta.",
     "options": [
-      "A anos não há surto na unidade.",
-      "Há anos não há surto na unidade.",
-      "Daqui há um mês haverá campanha.",
-      "Cheguei a muito tempo."
+      "Um texto coeso é, necessariamente, sempre coerente.",
+      "A coerência relaciona-se à lógica e à não contradição entre as ideias.",
+      "A coerência depende exclusivamente da pontuação do texto.",
+      "Coerência é a mera ligação gramatical entre palavras."
     ]
   },
   {
@@ -82,12 +82,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "No contexto 'o chefe anuiu ao pedido', a forma verbal 'anuiu' significa:",
+    "questionText": "Assinale a alternativa em que a figura de linguagem está corretamente identificada.",
     "options": [
-      "recusou",
-      "anulou",
-      "consentiu, concordou",
-      "adiou"
+      "'Li Machado de Assis ontem' é exemplo de eufemismo.",
+      "'Subir para cima' é exemplo de antítese.",
+      "'Seus olhos são duas estrelas' é exemplo de metáfora.",
+      "'Que silêncio ensurdecedor' é exemplo de hipérbole."
     ]
   },
   {
@@ -95,12 +95,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Assinale o conectivo que estabelece relação de condição: '___ haja piora, comunique o médico.'",
+    "questionText": "Assinale a alternativa correta quanto às figuras de linguagem.",
     "options": [
-      "Caso",
-      "Porque",
-      "Portanto",
-      "Embora"
+      "'Li Machado de Assis' (o autor pela obra) é metonímia.",
+      "'Chorei rios de lágrimas' é exemplo de metonímia.",
+      "'Doce amargura' é exemplo de metonímia.",
+      "'O vento sussurrava' é exemplo de metonímia."
     ]
   },
   {
@@ -108,12 +108,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a alternativa correta quanto à concordância nominal.",
+    "questionText": "Assinale a alternativa correta sobre os vícios de linguagem.",
     "options": [
-      "Os candidatos ficaram alertas durante a prova.",
-      "Segue anexo as provas corrigidas.",
-      "Os candidatos ficaram alerta durante a prova.",
-      "Ela está meia cansada hoje."
+      "'Há anos atrás' é exemplo de neologismo.",
+      "'Fazem dois dias' é exemplo de eufemismo.",
+      "'Elo de ligação' é exemplo de pleonasmo vicioso.",
+      "'A nível de' é exemplo de onomatopeia."
     ]
   },
   {
@@ -121,12 +121,12 @@
     "area": "Língua Portuguesa",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Assinale a oração na voz passiva.",
+    "questionText": "Assinale a alternativa correta sobre ambiguidade e vícios de linguagem.",
     "options": [
-      "Os curativos serão realizados pela técnica.",
-      "A técnica realizará os curativos.",
-      "Realizaram-se os curativos.",
-      "A técnica foi realizada."
+      "A frase 'o guarda deteve o suspeito em sua casa' apresenta ambiguidade.",
+      "A ambiguidade é sempre desejável em textos técnicos e oficiais.",
+      "Barbarismo é o emprego sempre correto das palavras.",
+      "Solecismo é, por definição, um erro de grafia."
     ]
   },
   {
@@ -134,12 +134,12 @@
     "area": "Noções de Informática",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "A extensão típica de um arquivo de imagem é:",
+    "questionText": "No Windows 11, o Explorador de Arquivos é utilizado para:",
     "options": [
-      ".exe",
-      ".mp3",
-      ".docx",
-      ".jpg"
+      "apagar arquivos de forma permanente e irrecuperável.",
+      "editar planilhas eletrônicas complexas.",
+      "substituir o antivírus do sistema.",
+      "navegar por pastas e arquivos do computador."
     ]
   },
   {
@@ -147,12 +147,12 @@
     "area": "Noções de Informática",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "O atalho Ctrl+P, na maioria dos programas, serve para:",
+    "questionText": "No sistema operacional Windows, o atalho Ctrl+C é utilizado para:",
     "options": [
-      "colar",
-      "imprimir",
-      "salvar",
-      "recortar"
+      "excluir definitivamente o arquivo selecionado.",
+      "copiar o item selecionado para a área de transferência.",
+      "selecionar todos os itens da tela.",
+      "abrir o menu Iniciar."
     ]
   },
   {
@@ -160,12 +160,12 @@
     "area": "Noções de Informática",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Constitui boa prática de segurança da informação:",
+    "questionText": "Sobre arquivos no Windows, assinale a alternativa correta.",
     "options": [
-      "usar a mesma senha em tudo",
-      "usar senhas fortes e distintas para cada serviço",
-      "criar senha com o próprio nome",
-      "compartilhar a senha com colegas"
+      "Arquivos .pdf só podem ser abertos por planilhas.",
+      "Arquivos com extensão .exe são executáveis.",
+      "A extensão .jpg indica um arquivo de áudio.",
+      "Arquivos .txt são usados para armazenar vídeos."
     ]
   },
   {
@@ -173,12 +173,12 @@
     "area": "Noções de Informática",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "A computação em nuvem permite acessar arquivos:",
+    "questionText": "Em segurança da informação, o phishing caracteriza-se por:",
     "options": [
-      "apenas no computador local",
-      "somente off-line",
-      "apenas a partir de um CD",
-      "de qualquer lugar com acesso à internet"
+      "um tipo de programa antivírus.",
+      "um equipamento físico de proteção de redes.",
+      "uma técnica legítima de backup de dados.",
+      "uma fraude que tenta obter dados pessoais fingindo ser entidade confiável."
     ]
   },
   {
@@ -186,12 +186,12 @@
     "area": "História de Campina Grande/PB",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "O São João de Campina Grande ocorre no mês de:",
+    "questionText": "Pela sua importância no comércio do algodão, Campina Grande ficou conhecida como:",
     "options": [
-      "junho",
-      "janeiro",
-      "julho",
-      "outubro"
+      "a 'Liverpool Brasileira'.",
+      "a 'Veneza Brasileira'.",
+      "a 'Capital Nacional do Café'.",
+      "a 'Cidade do Automóvel'."
     ]
   },
   {
@@ -199,12 +199,12 @@
     "area": "História de Campina Grande/PB",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "O palco principal do São João de Campina Grande é o:",
+    "questionText": "A chegada da estrada de ferro Great Western a Campina Grande, em 1907, teve como efeito:",
     "options": [
-      "Maracanã",
-      "Pelourinho",
-      "Parque do Povo",
-      "Ibirapuera"
+      "isolar a cidade do restante do estado.",
+      "encerrar de vez a atividade comercial local.",
+      "impulsionar o escoamento do algodão e o crescimento da cidade.",
+      "transferir a capital da Paraíba para a cidade."
     ]
   },
   {
@@ -212,12 +212,12 @@
     "area": "História de Campina Grande/PB",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Campina Grande localiza-se na mesorregião do(a):",
+    "questionText": "O declínio do ciclo algodoeiro em Campina Grande ocorreu, sobretudo:",
     "options": [
-      "Sertão paraibano",
-      "Litoral paraibano",
-      "Zona da Mata paraibana",
-      "Agreste paraibano"
+      "ainda no século XVIII.",
+      "logo após a fundação da cidade, em 1697.",
+      "no início do século XXI, com a criação da UFCG.",
+      "entre as décadas de 1950 e 1960."
     ]
   },
   {
@@ -225,12 +225,12 @@
     "area": "Legislação e Ética no Serviço Público",
     "difficulty": "Difícil",
     "type": "múltipla escolha",
-    "questionText": "A conduta do servidor pautada por honestidade e probidade relaciona-se ao princípio da:",
+    "questionText": "A LGPD estabelece, como uma das bases legais para o tratamento de dados:",
     "options": [
-      "anterioridade",
-      "celeridade",
-      "moralidade",
-      "onerosidade"
+      "a dispensa de qualquer base legal.",
+      "a proibição absoluta de tratar dados pessoais.",
+      "o consentimento do titular.",
+      "a impossibilidade de revogar o consentimento já dado."
     ]
   },
   {
@@ -238,12 +238,12 @@
     "area": "Legislação e Ética no Serviço Público",
     "difficulty": "Fácil",
     "type": "múltipla escolha",
-    "questionText": "Divulgar informações de interesse coletivo independentemente de pedido caracteriza a:",
+    "questionText": "A Lei de Acesso à Informação classifica as informações sigilosas nos graus:",
     "options": [
-      "transparência ativa",
-      "transparência passiva",
-      "classificação de sigilo",
-      "censura prévia"
+      "reservado, secreto e ultrassecreto.",
+      "leve, médio e grave.",
+      "público, privado e misto.",
+      "confidencial único, sem outras gradações."
     ]
   },
   {
@@ -251,12 +251,12 @@
     "area": "Legislação e Ética no Serviço Público",
     "difficulty": "Médio",
     "type": "múltipla escolha",
-    "questionText": "Na LGPD, a pessoa natural a quem se referem os dados pessoais é o:",
+    "questionText": "De acordo com o Código de Ética do servidor público, a moralidade administrativa exige:",
     "options": [
-      "controlador",
-      "titular",
-      "operador",
-      "encarregado"
+      "o uso do cargo público para fins privados.",
+      "conduta honesta e proba no exercício da função.",
+      "o atraso proposital dos serviços, sem consequências.",
+      "a dispensa de cortesia no atendimento ao público."
     ]
   },
   {
